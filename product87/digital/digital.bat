@@ -1,1 +1,0 @@
-scrapy crawl digital
