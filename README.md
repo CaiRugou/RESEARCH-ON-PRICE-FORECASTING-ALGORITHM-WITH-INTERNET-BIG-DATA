@@ -19,6 +19,8 @@ scrapy startproject tutorial
 ```
 
 ![NO1](http://o84hyclg0.bkt.clouddn.com/bs0.png)
+
+
 爬虫名字可以随意设定，同时设定采集器在服务器上能够定时采集数据这里定制bat文件。
 ## 爬虫定制方法以及网页分析
 
