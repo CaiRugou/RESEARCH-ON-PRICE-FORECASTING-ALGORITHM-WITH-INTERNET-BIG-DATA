@@ -43,7 +43,7 @@ http://detail.zol.com.cn/cell_phone/index****.shtml
 ![NO4](http://o84hyclg0.bkt.clouddn.com/bs3.png)
 
 ## 文本分析
-- [1]  为了
+-[1]  为了便于处理需要对文本做一个分句处理过程，方便对文本的情感倾向分析。
 
 ## 基于情感因素预测模型
 
