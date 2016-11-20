@@ -35,7 +35,11 @@ http://detail.zol.com.cn/cell_phone/index****.shtml
 最后可以通过用户提供的关键词获取新闻数据，效果如下图所示：
 
 ![NO3](http://o84hyclg0.bkt.clouddn.com/bs2.png)
+
+
 获得的新闻数据如下：
+
+
 ![NO4](http://o84hyclg0.bkt.clouddn.com/bs3.png)
 
 ## 文本分析
