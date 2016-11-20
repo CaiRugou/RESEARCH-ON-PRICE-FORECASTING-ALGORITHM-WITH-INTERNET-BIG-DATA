@@ -27,6 +27,8 @@ scrapy startproject tutorial
 http://detail.zol.com.cn/cell_phone/index****.shtml
 最后将采集到的数据存储到MySQL数据库中如下图：
 ![NO2](http://o84hyclg0.bkt.clouddn.com/bs1.png)
+
+如果是在Linux服务器上做该定时任务只需要按照需要编写crontab即可。
 ## 爬虫定制方法以及网页分析
 
 
