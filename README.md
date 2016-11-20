@@ -47,23 +47,23 @@ http://detail.zol.com.cn/cell_phone/index****.shtml
 - 本系统是建立在可信文本的条件下做情感倾向因素分析，所以首先需要对文本做可信分类，故需要提取分析的特征：包括文本的词长度、品牌出现次数、分成句子总数、和标准描述相似度、正负面概率得分等特征详细见源码文件\*feature文件夹内容
 - 在分类过程中这里对比了
 
-svm.SVC(gamma=0.001, C=100.)
+- [x] svm.SVC(gamma=0.001, C=100.)
 
-svm.SVR()
+- [x] svm.SVR()
 
-LogisticRegression(penalty='l2', tol=0.001)
+- [x] LogisticRegression(penalty='l2', tol=0.001)
 
-tree.DecisionTreeClassifier()
+- [x] tree.DecisionTreeClassifier()
 
-GaussianNB()
+- [x] GaussianNB()
 
-BernoulliNB()
+- [x] BernoulliNB()
 
-RandomForestClassifier(n_estimators=20, max_depth=None, min_samples_split=1, random_state=0)
+- [x] RandomForestClassifier(n_estimators=20, max_depth=None, min_samples_split=1, random_state=0)
 
-GradientBoostingClassifier(n_estimators=20)
+- [x] GradientBoostingClassifier(n_estimators=20)
 
-AdaBoostClassifier(tree.DecisionTreeClassifier(max_depth=1),algorithm="SAMME",n_estimators=200)
+- [x] AdaBoostClassifier(tree.DecisionTreeClassifier(max_depth=1),algorithm="SAMME",n_estimators=200)
 
 
 
