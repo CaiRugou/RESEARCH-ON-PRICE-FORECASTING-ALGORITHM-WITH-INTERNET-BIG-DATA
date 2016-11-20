@@ -30,7 +30,13 @@ http://detail.zol.com.cn/cell_phone/index****.shtml
 
 如果是在Linux服务器上做该定时任务只需要按照需要编写crontab即可。
 ## 爬虫定制方法以及网页分析
+这里为了处理抓取新闻数据时候需要处理动态页面的信息采用了beautifulsoup，通过调用相关接口处理JS页面。
+为保证数据的全面性而选取了百度新闻，同样需要分析页面源码的Xpath路径，为了剔除网页的标签，需要同上的路径分析。
+最后可以通过用户提供的关键词获取新闻数据，效果如下图所示：
 
+![NO3](http://o84hyclg0.bkt.clouddn.com/bs2.png)
+获得的新闻数据如下：
+![NO4](http://o84hyclg0.bkt.clouddn.com/bs3.png)
 
 ## 文本分析
 
