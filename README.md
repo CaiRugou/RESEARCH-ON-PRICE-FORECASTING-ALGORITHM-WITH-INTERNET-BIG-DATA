@@ -75,7 +75,15 @@ http://detail.zol.com.cn/cell_phone/index****.shtml
 
 ![N06](http://o84hyclg0.bkt.clouddn.com/bs5.png)
 
+图中分别是积极消极得分和平均分以及方差。
+
 ## 基于情感因素预测模型
+模型建立过程详细见论文描述，最后得到各个模型的实验系统如图所示：
+
+![NO7](http://o84hyclg0.bkt.clouddn.com/bs6.png)
 
 ## 基于研究算法Android应用软件
+基于应用上述研究的算法对电子产品的价格作出预测后，在Android系统开发应用软件增加研究的实际意义展示效果如下：
+![NO8](http://o84hyclg0.bkt.clouddn.com/bs7.png)
+![NO9](http://o84hyclg0.bkt.clouddn.com/bs8.png)
 
