@@ -45,7 +45,7 @@ http://detail.zol.com.cn/cell_phone/index****.shtml
 ## 文本分析
 - 为了便于处理需要对文本做一个分句处理过程，方便对文本的情感倾向分析以及特征提取。
 - 本系统是建立在可信文本的条件下做情感倾向因素分析，所以首先需要对文本做可信分类，故需要提取分析的特征：包括文本的词长度、品牌出现次数、分成句子总数、和标准描述相似度、正负面概率得分等特征详细见源码文件\*feature文件夹内容
-- 在分类过程中这里对比了
+- 在分类过程中这里对比了9个分类方法：
 
 - [x] svm.SVC(gamma=0.001, C=100.)
 
@@ -65,7 +65,11 @@ http://detail.zol.com.cn/cell_phone/index****.shtml
 
 - [x] AdaBoostClassifier(tree.DecisionTreeClassifier(max_depth=1),algorithm="SAMME",n_estimators=200)
 
+通过分析对比发现随机森林分类效果最好。
 
+最终特征如下图所示：
+
+![NO5](http://o84hyclg0.bkt.clouddn.com/bs4.png)
 
 ## 基于情感因素预测模型
 
