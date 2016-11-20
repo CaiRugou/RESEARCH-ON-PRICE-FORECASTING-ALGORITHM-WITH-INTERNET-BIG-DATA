@@ -1,0 +1,5 @@
+苹果为 iPhone 7 发布 iOS 10.0.3 修复 LTE 连接问题
+网易数码&nbsp;&nbsp;5小时
+数码&nbsp;&nbsp;5小时前
+http://digi.163.com/16/1018/06/C3L1DENB001687H3.html
+                    （原标题：苹果为 iPhone 7 发布 iOS 10.0.3 修复 LTE 连接问题）                摘要：苹果今天发布了 iOS 10 系统的第二个升级补丁，距离 iOS 10.0.2 发布相隔一个月的时间。iOS 10.0.3 专门为 iPhone 7 和 iPhone 7 Plus 提供。iOS 10.0.3 修复了包括部分用户可能暂时失去蜂窝移动网连接在内的一些问题。iPhone 7 发布后，大量 Verizon 用户发现自己购买的新设备会经常丢失 LTE 连接。今天的升级补丁将修复这一问题。 IPSW文件下载:iPhone 7 (iPhone9,1)iPhone 7 Plus (iPhone9,2)iPhone 7 (iPhone9,3)iPhone 7 Plus (iPhone9,4) 本文来源：cnbeta网站   责任编辑："王晓易_NE0011" 

@@ -1,0 +1,57 @@
+日月光华 -- MS_Windows精华区文章阅读
+--------------------------------------------------------------------------------
+ 发信人: markzhang (小马哥), 信区: MS_Windows
+标  题: WindowsNT共享Windows95应用程序技巧  (转载)
+发信站: 日月光华站 (Thu Feb 12 19:11:59 1998) , 转信
+
+发信人: diming (丁丁～悲情城市), 信区: WindowsNT
+标  题: WindowsNT共享Windows95应用程序技巧  (转载)
+发信站: 鼓浪听涛 (Fri Dec 19 13:06:34 1997)
+
+【 以下文字转载自 Win95 讨论区 】
+【 原文由 rainbow 所发表 】
+
+WindowsNT共享Windows95应用程序技巧
+
+
+　　现在有许多人在自己的机器上同时安装了Windows95
+和WindowsNT，而由于硬盘空间的限制，应用程序又不可能
+为Windows95和WindowsNT各自安装一次。举例来说，一个
+MSOffice软件的基本安装要占用几十兆空间。如果为不同
+的操作系统都安装一次，就会造成硬盘的浪费。本人在实
+践中摸索出一套办法，只需花费很少的硬盘空间，就可使
+WindowsNT共享Windows95应用程序。还是以Office软件为
+例，具体步骤如下：
+
+　　1．安装Windows95。
+
+　　2．在Windows95下安装Office95。
+　　3．安装WindowsNT4．0SERVER。
+
+　　4．在WindowsNT下重复安装Office95，此次安装Offi
+ce95的目录同Windows95下安装Office95的目录。
+
+　　5．之后，在Windows95和WindowsNT环境下就可用同
+一个Office拷贝，节省了磁盘空间，同时方便了使用，免
+去了切换操作系统的困苦。
+
+　　注意：如安装了Office快捷工具条，则要删除不是Wi
+ndows95和WindowsNT公共的按扭，如：控制面板，打印机
+。人工再定制。
+
+　　例外，象LOTUSNOTES，WS—FTP，Navigatorgold3．0
+等在Windows95下安装的应用程序，直接在WindowsNT桌面
+上创建快捷方式即可使用。
+
+--
+
+        我不是要证明我有多么了不起,
+                属于我的东西我一定要拿回来!
+
+※ 修改:·markzhang 於 Feb 12 19:25:06 修改本文·[FROM:              ms]
+※ 来源:·日月光华站 bbs.fudan.edu.cn·[FROM: ms]
+
+ 
+
+--------------------------------------------------------------------------------
+[返回上一页] [本讨论区]

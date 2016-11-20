@@ -1,0 +1,111 @@
+日月光华 -- Programming精华区文章阅读
+--------------------------------------------------------------------------------
+ 发信人: fw (dfd), 信区: Programming
+标  题: win32api如何得到函数的地址
+发信站: 日月光华站 (Mon Jun 26 11:48:11 2000) , 转信
+
+我想编一个多线程,但需传递函数的地址
+不知win32api中有没有这样的函数, 而不必借助VC或VB
+
+--
+※ 来源:·日月光华站 bbs.fudan.edu.cn·[FROM: 10.27.118.11]
+发信人: Beta (   ), 信区: Programming
+标  题: Re: win32api如何得到函数的地址
+发信站: 日月光华站 (Mon Jun 26 13:17:49 2000) , 站内信件
+
+C/C++中函数名就是函数的地址
+
+【 在 fw (dfd) 的大作中提到: 】
+: 我想编一个多线程,但需传递函数的地址
+: 不知win32api中有没有这样的函数, 而不必借助VC或VB
+
+
+--
+※ 来源:·日月光华站 bbs.fudan.edu.cn·[FROM: 203.95.7.172]
+发信人: fw (dfd), 信区: Programming
+标  题: Re: win32api如何得到函数的地址
+发信站: 日月光华站 (Mon Jun 26 13:56:26 2000) , 转信
+
+但用CreateThread时所传递的参数确不能直接用函数名
+我是想在access中调用api创建多线程,不好利用c语法,
+而且也没有VB中的AddressOf.所以想在api中找到实现同样功能的函数
+
+
+【 在 Beta (   ) 的大作中提到: 】
+: C/C++中函数名就是函数的地址
+
+
+--
+※ 来源:·日月光华站 bbs.fudan.edu.cn·[FROM: 10.27.118.11]
+发信人: littleboy (elan), 信区: Programming
+标  题: Re: win32api如何得到函数的地址
+发信站: 日月光华站 (Mon Jun 26 15:21:00 2000) , 转信
+
+【 在 fw (dfd) 的大作中提到: 】
+: 但用CreateThread时所传递的参数确不能直接用函数名
+I think you can.
+: 我是想在access中调用api创建多线程,不好利用c语法,
+: 而且也没有VB中的AddressOf.所以想在api中找到实现同样功能的函数
+
+
+--
+芝麻开门....
+咣当!!!
+
+※ 来源:·日月光华站 bbs.fudan.edu.cn·[FROM: 10.13.6.3]
+发信人: Beta (   ), 信区: Programming
+标  题: Re: win32api如何得到函数的地址
+发信站: 日月光华站 (Mon Jun 26 15:34:30 2000) , 站内信件
+
+你得按要求声明CreateThread的函数指针函数, 请参考MSDN:
+HANDLE CreateThread(.., .., .., LPTHREAD_START_ROUTINE lpStartAddress, ...) ;
+DWORD WINAPI ThreadProc(LPVOID lpParameter) ;
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~你这么声明那个函数了吗 ?
+
+【 在 fw (dfd) 的大作中提到: 】
+: 但用CreateThread时所传递的参数确不能直接用函数名
+: 我是想在access中调用api创建多线程,不好利用c语法,
+: 而且也没有VB中的AddressOf.所以想在api中找到实现同样功能的函数
+
+
+--
+※ 来源:·日月光华站 bbs.fudan.edu.cn·[FROM: 203.95.7.172]
+发信人: fw (dfd), 信区: Programming
+标  题: Re: win32api如何得到函数的地址
+发信站: 日月光华站 (Mon Jun 26 15:47:42 2000) , 转信
+
+在vc中，我已可成功地调用CreateThread，即根据MSDN.
+但现在我想在access中调用，access利用vba编程，与vb类似，
+不可以用LPTHREAD_START_ROUTINE等
+
+
+
+【 在 Beta (   ) 的大作中提到: 】
+: 你得按要求声明CreateThread的函数指针函数, 请参考MSDN:
+: HANDLE CreateThread(.., .., .., LPTHREAD_START_ROUTINE lpStartAddress, ...) ;
+: DWORD WINAPI ThreadProc(LPVOID lpParameter) ;
+: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~你这么声明那个函数了吗 ?
+
+
+--
+※ 来源:·日月光华站 bbs.fudan.edu.cn·[FROM: 10.27.118.11]
+发信人: littleboy (elan), 信区: Programming
+标  题: Re: win32api如何得到函数的地址
+发信站: 日月光华站 (Mon Jun 26 17:06:47 2000) , 转信
+
+【 在 fw (dfd) 的大作中提到: 】
+: 在vc中，我已可成功地调用CreateThread，即根据MSDN.
+: 但现在我想在access中调用，access利用vba编程，与vb类似，
+: 不可以用LPTHREAD_START_ROUTINE等
+你去头文件里面看看这种类型到底是什幺东东。
+
+--
+芝麻开门....
+咣当!!!
+
+※ 来源:·日月光华站 bbs.fudan.edu.cn·[FROM: 10.13.6.3]
+
+ 
+
+--------------------------------------------------------------------------------
+[返回上一页] [本讨论区]

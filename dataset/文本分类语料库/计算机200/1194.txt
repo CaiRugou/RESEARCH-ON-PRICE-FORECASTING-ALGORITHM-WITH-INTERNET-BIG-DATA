@@ -1,0 +1,53 @@
+日月光华 -- Unix精华区文章阅读
+--------------------------------------------------------------------------------
+ 发信人: monkey (cowboy), 信区: Unix
+标  题: java在Linux下的web应用(一)(转载)
+发信站: 日月光华站 (Mon Oct  9 17:24:10 2000) , 转信
+
+在RedHat下安装apache jserv 1.1.2
+虽然apache jserv的开发小组现在都从事tomcat的开发，而且apache jserv只支持serv
+let 2.0
+的标准，并且要加其他的软件(gnujsp)才能支持jsp;但是apache jserv在现阶段比tomc
+at稳定，
+因此现在apache jserv+gnujsp比较适合应用于web。如果想使用servlet2.2和jsp1.1的
+话，请
+使用tomcat，参看tomcat的安装。本文介绍apache jserv 1.1.1在RedHat下的安装。
+一、需要的软件：
+jdk_1.2.2从http://java.sun.com下载
+apache_1.3.12从www.apache.org下载
+apache jserv-1.1.1从java.apache.org下载
+jsdk2.0(只能是2.0)从http://java.sun.com下载
+二、安装过程
+请先安装好jdk，具体可参考jdk安装，注意设置好CLASSPATH和PATH
+拷贝apache,apache jserv源码包到/tmp下
+#tar xvzf apache_1.3.12.tar.gz
+#tar xvzf ApacheJServ-1.1.2.tar.gz
+1、静态编译，即编译进apache
+#cd apache_1.3.12
+#./configure --prefix=/usr/local/apache
+配置apache jserv编译参数
+#cd ../ApacheJServ-1.1.2
+#./configure \
+--prefix=/usr/local/jserv \
+--with-apache-src=../apache_1.3.12 \
+--with-jdk-home=/usr/local/jdk \
+--with-java-platform=2 \
+--with-JSDK=/usr/local/JSDK/lib/jsdk.jar
+#make
+#make install
+编译apache和apache jserv
+#cd ../apache_1.3.12
+#./configure \
+--prefix=/usr/local/apache \
+--activate-module=src/modules/jserv/libjserv.a
+#make
+#make install
+运行#/www/bin/httpd -l检查一下mod_jserv是否编译进apache了
+
+--
+※ 来源:·日月光华站 bbs.fudan.edu.cn·[FROM: 202.109.54.202]
+
+ 
+
+--------------------------------------------------------------------------------
+[返回上一页] [本讨论区]

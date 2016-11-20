@@ -1,0 +1,101 @@
+日月光华 -- MS_Windows精华区文章阅读
+--------------------------------------------------------------------------------
+ 发信人: danan (笑看风云), 信区: MS_Windows
+标  题: Windows NT与Netware互联实现技术
+发信站: 日月光华站 (Fri Nov  5 13:54:32 1999) , 转信
+
+
+∷孀趴突?服务器模式的兴起，Windows NT经过一段缓慢的发展之后，已逐步成为应用服务器上的主流网络操作系统，确实如其名字NT(new technology)那样，带给计算机界许多新的技术，具有安装简单、图形界面、强大外围支持、极好稳定性等优势。然而Novell 
+Netware是以往乃至现在文件服务器模式的典型网络，如何实现它们之间的互联，以共享资源和通信，是目前异构系统互联必须解决的问题。
+　　　　一、Novell的TCP/IP和NFS
+　　　　国际标准化组织ISO为实现网络互联制订了开放式系统互联参考模型OSI。而传输控制协议TCP和网间协议IP是目前网络互联的一个标准协议。Novell V3.11及以后版本支持TCP/IP，从而使Netware与TCP/IP之间实现完美的互联成为现实。
+　　　　1、Novell的TCP/IP
+　　　　Novell的TCP/IP是一组可加载模块，在其支持下可装配需TCP/IP支持的应用系统。主要模块如下：
+　　　　.CPIP.NLM　　　　Netware TCP/IP主模块
+　　　　.NMP.LM　　　　　简单网络管理协议
+　　　　.SNMPLOG.NLM　　SNMP事件记录
+　　　　.TCPCON.NLM　　 TCP/IP控制台模块
+　　　　.IPCONFIG.NLM　　 IP配置模块
+　　　　.IPTUNNEL.LAN　　IPX/IP TUNNEL模块
+　　　　Novell网络是在Netware文件服务器和DOS/Windows工作站下实现TCP/IP的。
+　　　　.文件服务器上加载TCP/IP模块TCPIP.NLM，使各种支持TCP/IP协议主机系统(如Windows NT/U)能够通过该协议访问Netware文件服务器。
+　　　　.DOS/Windows工作站上，运行一种PC环境的TCP/IP软件LAN Workplace for DOS 4.0来实现。它是建立在底层使用开放的数据链路接口技术之上的，正巧是ODI技术才使得DOS/Windows工作站在同一物理网卡之上，并发地支持TCP/IP和Netware的IPX/SPX两种不同的协议。
+　　　　2、Novell的NFS
+　　　　Novell最初开发的Netware核心协议NCP是隐含在文件服务器上的，它是专门为DOS/Windows用户透明地访问Netware服务器设计的。因此为了支持TCP/IP＆NFS系统完全透明地访问Netware服务器资源，在Netware服务器上安装Novell NFS。 Novell 
+NFS是建立在TCP/IP之上的，提供异种网络环境下的互联网络上文件共享方法。提供如下主要服务：
+　　　　.NFS　　　　文件共享(NFSSERV.NLM)
+　　　　.LPD　　　　打印服务(PLPD.NLM)
+　　　　.FTPD　　　 标准TCP/IP文件传输服务(FTPD.NLM)
+　　　　.XCONSOLE　服务器远程管理(XCONSOLE.NLM)
+　　　　二、Windows NT
+　　　　Windows NT是一种开放式体系，它支持网络驱动程序接口规范(NDIS)，也支持传输驱动程序接口(TDI)，这就为Windows NT和其它网络产品通信创造了良好的条件。Windows NT提供四种协议：
+　　　　.TCP/IP：是一个跨平台的理想的客户服务器框架，是一套支持通过互联网络进行通信的网络协议。NT使用TCP/IP或安装SNMP模块时，须设置NT计算机的IP地址。
+　　　　.NWLink：是用于Novell Netware internetwork Packet Exchange(IPX/SPX)协议的兼容NDIS的版本。
+　　　　.NetBEUI：是NETBIOS扩展用户接口协议，在LAN中是速度最快的协议。
+　　　　.Data Link Control：网络中有大型机或NT服务器作为打印服务器时使用。
+　　　　三、Windows NT与Netware的互联
+　　　　1、Netware服务器的安装与配置
+　　　　1利用install安装Netware 4.1,系统卷块容量配置为8KB，并配置好相应环境。
+　　　　2加载TCP/IP和安装Netware NFS
+　　　　.启动Novell服务器，键入install
+　　　　.选择“product options”
+　　　　.把Netware NFS程序盘插入A驱动器，按Ins键，输入路径
+　　　　.选择NFS安装操作
+　　　　.配置TCP/IP参数，包括内部IP地址、HOST名字、子网屏蔽、网卡驱动程序、最大包容量与缓冲
+　　　　.退出Netware安装菜单，返回控制台
+　　　　.增加NFS名字空间到Netware系统卷，键入：
+　　　　　　Load NFS
+　　　　　　Add Name space NFS to SYS
+　　　　.运行NFSadmin,键入：Load NFSadmin,选择Novice Configue,按需修改NFSusers、NFSgroup、Hosts、Exports
+　　　　.运行Pinstall,键入Load Pinstall,选择配置Update option、File Transfer、Configuration setup、Add Components、Edit Config Fils。
+　　　　下面提供Autoexec.ncf的参考配置：
+　　　　ipx internal net 00000001
+　　　　load tcpip
+　　　　load NE3200 slot=5 frame=Ethernet－802.2 name=compaq
+　　　　bind ipx to compaq net=10000000
+　　　　 load NE3200 slot=5 frame=Ethernet —Ⅱ name=hp
+　　　　bind ipx to hp addr=34.3.218.101 mask=255.0.0.0
+　　　　mount all
+　　　　3在服务器上增加一个名为NT GATEWAY的组，通过GSNW访问Netware的用户须在NT GATEWAY组中，然后再为网关配置好权限。
+　　　　2、Windows NT服务器的安装与配置
+　　　　1安装Windows NT Server 3.5,并配置好相应环境。
+　　　　2Windows NT Server的配置
+　　　　.安装配置NWLink的网络协议。启动NT，双击Control Panel上的Network图标，出现Network Settings对话框，选择Add Software,再选取NWLink IPX/SPX Compatible Transport,配置NWLink协议时选择Configure按扭，使用Auto Frame Type 
+Detection自动测试帧类型，最后在Internal Network Number内输入内部网络编号。
+　　　　.安装配置TCP/IP网络协议。选择Add Software,再选取TCP/IP Protocol and Related Componets,然后使Connextivity Utilities、TCP/IP Network Printing Support、FTP Server Service、Simple TCP/TP Service等项有效。配置时要在IP Address内输入IP地址，在Subnet 
+Mask内输入网络掩码。
+　　　　.安装NetBEUI网络协议。选择Add Software,再选取NetBEUI Protocol。
+　　　　.安装配置Netware网关服务GSNW。
+　　　　双击Control Panel上的Network图标，出现Network Settings对话框，选择Add Software,在Add Network Software框中选Gateway Service for Netware。安装完后，重新启动计算机，以Administrator登录，出现Select Preferred Server for 
+Netware对话框，选择指定的Netware服务器，进入Control Panel,这时增加了一个GSNW图标，双击图标，在Gateway Services for Netware对话框中Enable Gateway置有效，在Gateway Account方框中输入网点帐号用户，在Password和Confirm 
+Password输入口令(用户须在Netware服务器的NT GATEWAY组中)，再选取Add,出现New Share对话框，在Share Name中输入共享名，再在Network Path中输入Netware服务器路径。于是利用网关可使用Netware资源。
+　　　　3、NT客户端的配置
+　　　　NT客户端程序从NT Server光盘上制作，配置的网络协议不同，Autoexec.bat中的配置也有所不同。
+　　　　　Cinfig.sys文件：
+　　　　　device=c:\net\ifshlp.sys
+　　　　　TCP/IP协议：
+　　　　　autoexec.bat文件：
+　　　　　set path=c:\net
+　　　　　initialize
+　　　　　netbind
+　　　　　umb
+　　　　　tcptsr
+　　　　　tinyrfe
+　　　　　nmtsr
+　　　　　emsbfr
+　　　　　net start
+　　　　　NWLink协议：
+　　　　　autoexec.bat文件：
+　　　　　set Path=c:\net
+　　　　　nwlink
+　　　　　net start
+　　　　至此Netware和Windows NT互联实现了。NT Server通过NWLink协议可以访问Netware上的全部DOS命名的空间资源；通过TCP/IP协议和Telnet,可访问Netware上的NFS命名空间资源。NT客户用户可以访问NT Server上的所有资源；也可以通过NT 
+Server上的NWLink协议和网关GSNW访问Netware上的DOS名字空间资源。
+　　　　网络互联是一个复杂的工程，须详细规划，按实 --      你现在作的是否和目标有关,如果是,作好它;否则,放弃它. 
+
+※ 来源:·日月光华站 bbs.fudan.edu.cn·[FROM: 10.10.10.5]
+
+ 
+
+--------------------------------------------------------------------------------
+[返回上一页] [本讨论区]

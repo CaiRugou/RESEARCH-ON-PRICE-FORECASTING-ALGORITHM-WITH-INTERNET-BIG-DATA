@@ -1,0 +1,5 @@
+iPhone 7 内含一枚神秘的 FPGA 芯片
+网易手机&nbsp;&nbsp;5小时
+手机&nbsp;&nbsp;5小时前
+http://mobile.163.com/16/1018/06/C3L1LRNB00118023.html
+                    （原标题：iPhone 7 内含一枚神秘的 FPGA 芯片）                iPhone 7 和 iPhone 7 Plus 发售后不久，iFixit 以及 Chipworks 很快就完成了拆解。拆解的最大惊喜就是苹果同时使用了来自高通和英特尔的 LTE 芯片。根据 Chipworks 介绍，iPhone 7 还配备了一颗 FPGA 芯片，芯片来自莱迪思半导体公司（Lattice Semiconductor）。 FPGA 芯片 （Field－Programmable Gate Array），即现场可编程门阵列。这种芯片可以在生产出来后进行重新配置，并安装在设备上。通常情况下，FPGA 芯片会安装在数据中心加速机器学习。这也是苹果首次在 iPhone 上配备 FPGA 芯片。 iPhone 7 上增加 可编程的芯片将会增加物料成本，并没有太多智能手机配备这种芯片。根据 Tirias Research 公司分析师 Kevin Krewell 介绍，iPhone 中的 FPGA 芯片可能被苹果用来进行机器学习，也有可能是为增强现实功能做准备。目前判断 iPhone 7 中的 FPGA 芯片用途还很困难。因为芯片可以进行编程，苹果未来可能会更新 iPhone 7 固件，并开启、关闭或修改 FPGA 芯片的功能。访问:苹果在线商店(中国)[广告]活动入口:买美股，上老虎 - 超低佣金，每股只需1美分  本文来源：cnbeta网站   责任编辑："王晓易_NE0011" 
