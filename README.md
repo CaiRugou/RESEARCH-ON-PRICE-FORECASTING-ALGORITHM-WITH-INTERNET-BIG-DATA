@@ -94,3 +94,10 @@ http://detail.zol.com.cn/cell_phone/index****.shtml
 
 
 
+# 最后提供部分本系统接口
+- [x] 语料填充
+- [x] 文档路径
+- [x] 定制主题
+- [x] 全自动采集数据
+- [x] 模型更改
+- [x] 应用软件更改
