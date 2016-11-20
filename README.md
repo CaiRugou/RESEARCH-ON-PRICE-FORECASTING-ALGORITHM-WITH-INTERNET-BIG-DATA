@@ -22,8 +22,12 @@ scrapy startproject tutorial
 
 
 爬虫名字可以随意设定，同时设定采集器在服务器上能够定时采集数据这里定制bat文件。
+锁定域名范围为：**zol.com**
+分析`URL`中正则表达式如下：
+http://detail.zol.com.cn/cell_phone/index****.shtml
+最后将采集到的数据存储到MySQL数据库中如下图：
+![NO2](http://o84hyclg0.bkt.clouddn.com/bs1.png)
 ## 爬虫定制方法以及网页分析
-
 
 
 ## 文本分析
