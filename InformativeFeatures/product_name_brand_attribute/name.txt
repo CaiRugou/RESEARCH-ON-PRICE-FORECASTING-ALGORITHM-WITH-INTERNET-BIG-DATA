@@ -1,0 +1,7718 @@
+﻿G11
+g11
+G14
+g14
+G10
+g10
+G18
+g18
+G17
+g17
+C6
+iphone4
+iphone
+苹果4
+石头2
+XT720
+DEFY
+M9
+GALAXY
+Atrix
+Z710t
+z710e
+Z710e
+Z710E
+lt18
+IPHONE3
+THC
+IPONE
+SENSATION
+sensation
+N86
+s710e
+gsii
+2x
+atrix
+i9100
+I9100
+DHD
+9100
+S2
+14
+Sensation
+MT870
+Wacth
+Galaxy
+EVO
+N81
+5700
+milestone2
+one
+ipad
+860
+爱疯
+LT26i
+ONE
+XT910
+XT928
+MX
+三太子
+1S
+mx
+mx2
+M8
+m8
+M9
+m9
+ME865
+me865
+戴妃
+A1200E
+ME525+
+ME525
+defy+
+defy
+me525+
+me525
+DEFY+
+DEFY
+525
+5230
+5000
+5800
+5830
+小五
+小5
+N8
+s60
+S60
+饭5
+909
+X909
+R811
+r811
+n7100
+find5
+L36h
+L36H
+Butterfly
+IP5
+iphone5
+Ulike2
+8X
+HTC8X
+范5
+FIND5‘
+苹果5
+907
+ulike
+LT26I
+9250
+htcg13
+p1
+d1
+finder
+GS2
+4s
+610
+a750
+g21
+4S
+910
+XT910
+9100G
+i919
+u880
+U880
+小U
+880
+V880
+u880e
+u701
+a790
+v88o
+N880e
+N880S
+s5830
+surface
+Surface
+Huawei
+小米
+苹果5s
+苹果6
+Xiaomi
+xiaomi
+三星galaxy
+Samsung Galaxy
+OPPO Find
+OPPO R7（R7t/移动4G）
+魅族魅蓝Note（移动4G）
+华为P8
+中兴U500
+朵唯倾城L3（双4G）
+酷派5891Q（电信版）
+索尼L36h（Xperia Z/联通3G）
+金立L800
+华为Ascend G7（移动4G）
+OPPO Find 7
+OPPO Neo 5s（联通4G）
+联想A355e（电信3G）
+夏普AQUOS ZETA SH-03G
+HTC One E9sw（联通4G）
+LG G4（H818/双4G）
+魅族MX3（联通3G）
+华为C199（电信4G）
+中兴Grand Memo（U9815/移动4G）
+朵唯懂小姐C9
+酷派ivvi K1 mini（移动4G）
+索尼Lavender（移动4G）
+金立V188S（移动4G）
+联想VIBE Z2 Pro（K920/移动4G）
+华为Ascend P7（移动4G）
+OPPO N3（N5207/移动4G）
+OPPO R1S（R8007/移动4G）
+vivo Xplay3S（X520A/双4G）
+OPPO A31（A31t/移动4G）
+小米红米2（电信4G）
+夏普SH630E
+HTC Desire 608t（移动版）
+LG Lancet（VW820/移动4G）
+小米M3（Mi3/移动3G）
+魅族魅蓝Note（电信4G）
+中兴V5（U9180/能量版/移动4G）
+华为荣耀3C（2GB RAM/移动4G）
+酷派锋尚（Y80D/电信4G）
+飞利浦E1500
+金立V185
+华为Mate 7（高配版/移动4G）
+华为Ascend P7（联通4G）
+OPPO N3（N5209/双4G）
+vivo X5V（电信4G）
+vivo Xshot 3s（移动4G）
+vivo Y13L（移动4G）
+小米Note Plus（双4G）
+三星I829
+HTC Desire D516t（移动版）
+华硕Zenfone Zoom（移动4G）
+小米M3（Mi3/联通版）
+nubia Z9 mini（全网通）
+联想乐檬K3（K30-T/移动4G）
+华为荣耀3C（1GB RAM/移动4G）
+HTC Desire 626（626w/联通4G）
+飞利浦E160
+飞利浦W6618
+华为Mate 7（尊爵版/双4G）
+华为荣耀6 Plus
+摩托罗拉Moto X
+vivo X3t（移动3G）
+vivo Xplay5S
+vivo Y28L（移动4G）
+小米Note（全网通）
+三星GALAXY S7（双4G）
+纽曼锋芒K2（32GB）
+华硕ZenFone 2
+大神9976A
+nubia Z9（精英版/全网通）
+联想乐檬K3增强版
+联想S810t
+HTC Desire 816（816v/电信4G）
+飞利浦X2560
+飞利浦I908
+华为Ascend P7
+华为荣耀6 Plus（PE-TL10/双4G）
+摩托罗拉Moto E Styx（移动4G）
+vivo X3L（移动4G）
+华为荣耀X2（标准版/双4G）
+vivo Y22L（移动4G）
+华为P8max（双4G）
+三星GALAXY Note 5（全网通）
+纽曼大熊猫
+华硕ZenFone 4
+大神X7
+大神X7（8690-T00/移动4G）
+小米红米Note
+联想S898t（移动3G）
+华为荣耀3X Pro
+华为G5000
+华为荣耀6（联通4G）
+veaka ONLY U（超级版）
+YotaPhone 2（联通3G）
+摩托罗拉Moto Turbo（电信4G）
+vivo X3S（联通版）
+三星Galaxy Mega 2
+vivo Y22iL（移动4G）
+联想A360T（移动4G）
+三星GALAXY Note Edge
+三星GALAXY Note II
+中兴Grand S II（双3G/电联版）
+POMP 菜刀 C6S
+MANN ZUG 3 猎鹰
+奥克斯i7Air
+HTC Desire 816（816d/电信3G）
+TCL f200
+veaka ONLY U（高级版）
+VEB V3
+SUGAR 时尚手机
+LG L90
+三星GALAXY A5（A5009/电信4G）
+三星GALAXY Note 3 Lite
+中兴Q505T（移动4G）
+三星GALAXY Note 4
+华为Mate 7（尊爵版/电信4G）
+中兴V5 MAX（全网通）
+POMP 菜刀 C6
+MANN ZUG 5
+奥克斯W1
+奥克斯T5100L（移动4G）
+诺基亚1050
+先锋K68w
+华为荣耀畅玩4C
+VEB V2（18K金至尊版）
+苹果iPhone 4S（16GB）
+LG L70
+三星GALAXY Grand Prime
+三星GALAXY Note 3
+酷派5310（电信3G）
+三星W2013（电信3G）
+三星GALAXY S5（G9009W/电信4G）
+华为Mate 2（MT2-L05/联通4G）
+OPPO R2010（联通4G） 
+邦华V100（移动4G）
+Runbo H1（全能版）
+联想黄金斗士Note8
+华为G620（L75/移动4G）
+诺基亚Lumia X
+先锋E81c
+酷派S6（9190-T00/移动4G）
+LG L65
+三星GALAXY S5（G9008W/移动4G）
+华为Y300C（C8833/电信版）
+三星GALAXY Golden
+三星GALAXY S4（I959/电信3G）
+华为Mate 2（MT2-L02/移动4G）
+OPPO R830S（联通4G）
+邦华TL2000（移动4G）
+Runbo Q5（联通版）
+华为G616（G616-L076/移动4G）
+诺基亚X
+索尼Xperia SP（M35c/电信版）
+酷派大观4（8970L/移动4G/单卡）
+HTC Desire 816（816e/联通4G）
+波导枭龙XL
+vivo Y17W（联通版）
+三星GALAXY Core Max
+OPPO R5（R8109/双4G）
+华为G510（T8951/移动版）
+三星W789（电信版）
+三星GALAXY S4（I9508/移动3G）
+三星GALAXY Mega Plus
+OPPO R831T（移动版）
+联想黄金斗士S8（A7600/双4G）
+三星G3588V（移动4G）
+诺基亚Asha 502
+索尼LT26i（Xperia S）
+酷派大观4
+ZOPO 小黑3（移动4G）
+黑莓Leap（移动4G）
+vivo Y20
+三星GALAXY SIII Neo+
+华为Mate 7（标准版/双4G）
+华为G520-5000（移动版）
+苹果iPhone 6（移动4G）
+金立X805
+黑莓Passport（Q30/联通3G）
+佳域G3
+佳域G2S
+小米红米2（联通4G）
+诺基亚501（双卡版）
+索尼LT26w（Xperia acro S）
+索尼LT29i（Xperia TX）
+ZOPO 大黑C7
+黑莓Ontario
+vivo Y17T（移动3G）
+三星GALAXY SIII
+华为G525
+金立GN151
+华为G520-T10（移动版）
+LG VX9600
+TCL J738M（移动TD-LTE版）
+酷比MUSE（M1）
+桔子G5
+联想乐檬K3（K30-W/联通4G）
+诺基亚Asha 500（双卡版）
+HTC Desire 5060
+索尼爱立信H1
+美莱仕MX68
+黑莓Z50
+联想笋尖S90
+vivo Y613（联通3G）
+华为U9508（荣耀四核爱享版）
+小米2S（32GB）
+TCL Hero N3（Y910T/移动3G）
+诺基亚720（联通版）
+三星GALAXY S4（I9502/联通3G）
+TCL P360W（联通3G）
+酷比MAX2（X9）
+桔子F5
+华为C8816（电信版）
+诺基亚E52
+中兴Q802D（电信4G）
+LG Magna（移动4G）
+美莱仕MX86
+黑莓Z15
+联想笋尖S60t（移动4G）
+飞利浦W8510
+vivo Y622（联通3G）
+联想K860i
+小米2S（电信版）
+TCL 么么哒（S720T/移动3G）
+三星GALAXY Trend 3
+诺基亚520（联通版）
+天语W88
+黑莓9700（Onyx）
+华为C8815（电信版）
+诺基亚E71i
+酷派Y70-C（电信4G）
+联想S650
+HONPhone C100
+sonim A1
+夏新N808
+Acer AK330s
+小采新X9
+nubia Z5（NX501/32GB）
+中兴N986（电信版）
+诺基亚526（移动3G）
+天语T81（移动版）
+天语Kis 1（移动版）
+黑莓9900（白色版）
+华为C8812
+诺基亚E73
+中兴小鲜2（B880/电信4G）
+天语W700+
+联想S660
+小采C18
+夏新A860W（大V骑士版）
+中国移动M812
+Acer Liquid Z500
+联想A770e（电信版）
+vivo Xplay（32GB）
+金立V338
+HTC G12（Desire S）
+酷派8920（移动版）
+华为C8813（电信版）
+诺基亚E5
+三星I629（电信3G）
+联想A820t（移动版）
+飞利浦989
+黑莓9650（电信版）
+联想黄金斗士A8（A806/联通4G）
+酷派8085Q（移动3G）
+索尼Xperia Z1（L39t/移动4G）
+酷派Y60-C1（电信3G）
+vivo Xplay（移动版）
+金立V560+
+HTC G10（Desire HD）
+神舟W50 T2
+华为C8813DQ（电信版）
+三星GALAXY Ace 3
+诺基亚X5-01
+联想A828t（移动3G）
+诺基亚210（单卡版）
+黑莓9360（Apollo）
+康佳W900
+中兴Geek（V975/联通版）
+神舟灵雅X55（移动4G）
+联想A820（联通版）
+酷派8056（移动版）
+酷派8076D（移动3G）
+酷派5872（电信3G）
+HTC One E8
+乐目137
+富士通F-07D
+神舟W980
+中兴青漾2（G717C/电信版）
+三星S7568I（移动3G）
+黑莓8800
+诺基亚X5-00
+VOTO I8800
+黑莓9630（Tour）
+康佳Komi V1
+联想VIBE X（S960）
+联想A768t（移动4G）
+联想VIBE X（S968T/移动3G）
+酷派8295M（移动版）
+酷派7060
+华为荣耀畅玩4
+HTC One M8（M8d/电信4G）
+乐目128+
+富士通IS12T（联通版）
+华硕ZenFone 6
+中兴青漾2（G718C/电信4G）
+三星Nexus S（I9023）
+黑莓9810（4G）
+多普达T8388（麒麟）
+VOTO S9600
+Palm Pre 2
+HONPhone W7
+Acer M310
+联想A3900（移动4G）
+Acer W4
+酷派8295C（移动版）
+酷派7105（联通4G）
+酷派7060S
+华为Mate 7（标准版/联通4G）
+AGM A88（旗舰版）
+诺基亚701（C网）
+华硕ZenFone 5
+诺基亚800
+三星I9001（Galaxy S Plus）
+黑莓9810（Torch 2）
+多普达天山
+VOTO i8600
+Palm Eos
+HONPhone A888
+联想P90（移动4G）
+小米M1（MIUI）
+联想A358T（移动3G）
+联想A678t（移动3G）
+酷派7231（联通版）
+酷派8021（移动4G）
+AGM A88（特惠版）
+摩托罗拉W150I
+诺基亚N9（16GB）
+大神F1（8297W/联通3G）
+黑莓9860（Monza）
+多普达838
+摩托罗拉XT912（DROID RAZR）
+微软Pink Kin ONEm
+HP Pre 3
+HONPhone Z-me（金长虹）
+联想VIBE Z（K910/联通版）
+小米红米（联通版/4GB）
+联想A890e（电信版）
+联想A628t
+酷派7230S（联通版）
+酷派7232
+HTC One（32GB/单卡/国际版）
+sonim XP3300
+小米Mione 1S（M1S）
+诺基亚Lumia 929
+三星GALAXY Core Lite
+黑莓9900（Sprint）
+联想A690
+摩托罗拉XT928
+微软Pink Kin TWOm
+HP Voice Messenger
+联想VIBE Z（K910e/电信版）
+电意DE-G01
+索尼爱立信MT15i（Xperia Neo）
+联想S938t
+联想A670t（移动3G）
+酷派7235（联通版）
+小米红米（4G版）
+HTC One（802t/双卡/移动3G）
+Sonim S1
+小米2A
+小米1S（青春版）
+三星GALAXY CORE Prime
+黑莓8830
+酷派Y80-C（电信4G）
+小辣椒6（  LA6/移动4G）
+三星I899
+摩托罗拉ZN5
+三星GALAXY Mega 6.3
+OPPO R801
+索尼ST25i（Xperia U）
+联想S939
+联想A850（联通版）
+中兴V889S（Blade C）
+联想K2
+HTC One（802w/双卡/联通版）
+酷派7236（联通版）
+小米2A（联通版）
+小米MI-ONE C1（M1电信版）
+中兴大Q（Q801U/联通4G）
+天语U6
+大神F2（电信4G）
+小辣椒4（LA4-S/全网通）
+摩托罗拉RAZR V锋芒（XT889）
+摩托罗拉新锋丽i
+华为U9000（X6）
+三星I339
+联想S856（联通4G）
+联想A850i（联通版）
+华为Ascend G330D（U8825D/4GB）
+联想K800
+金立E7 Mini
+酷派7298D（联通版）
+三星GALAXY Alpha（G850）
+酷派7269（联通版）
+TCL P520L（电信4G）
+天语T6（移动版）
+中兴V818（联通版）
+LG G3 Beat（D729/电信4G）
+摩托罗拉RAZR V锋芒（XT885）
+三星GALAXY Note（I9220）
+华为Vision（U8850/远见）
+三星GALAXY Y（I509）
+摩托罗拉Moto G LTE
+三星E1190
+华为Ascend G330C
+摩托罗拉ME525（Defy/戴妃）
+OPPO R3（R7005/电信4G）
+中兴Q705U（联通版）
+三星GALAXY Alpha
+LG Optimus Vu 2（F200L）
+联想A690e（电信4G）
+LG Optimus G Pro
+摩托罗拉XT894（Droid 4）
+摩托罗拉Atrix 4G（ME860）
+三星GALAXY NOTE
+华为C8500
+OnePlus One Mini（移动4G）
+三星E1310C
+华为G510（U8951/联通版）
+摩托罗拉ME525+（Defy+/戴妃+）
+OPPO R1C（R8205/电信4G）
+中兴V967S（联通版）
+LG Optimus Vu 2
+联想S860e（电信4G）
+LG Optimus Vu（F100L/LTE版）
+LG Vu 3（F300L）
+中兴U969
+摩托罗拉MB855（Photon 4G）
+摩托罗拉ME865（ATRIX 2）
+HTC G18（Sensation XE/黑色）
+LG P880（Optimus 4X HD）
+酷派518
+OnePlus One（联通4G）
+索尼爱立信W980i
+华为Y511（移动3G）
+索尼爱立信W508c
+OPPO R7（R7c/电信4G）
+金立GN180
+中兴U968
+酷派8732（移动4G）
+联想乐檬K3（K30-E/电信4G）
+LG Lucid  3（VS876）
+中兴Q805T（移动4G）
+三星I779（电信版）
+三星I699
+HTC One S
+LG E960（Nexus 4/16GB）
+酷派8830
+IUNI U3（双4G）
+索尼爱立信C902c
+华为Y518（移动3G）
+诺基亚5220XM
+HTC One M8（M8e/双卡/联通4G）
+金立GN181
+金立GN700W
+酷派8730L（移动4G）
+华为Y310
+HTC Desire 310（联通版）
+三星F308
+华为P8 Lite（青春版/电信4G）
+LG Optimus GK（F220）
+酷派5860
+高新奇M10
+三星GALAXY SII
+酷派F600
+IUNI U2（32GB）
+索尼爱立信U1
+华为Y618（移动版）
+诺基亚2730c
+诺基亚5310XM
+金立V305
+HTC T328w（新渴望V/联通版）
+三星W750
+华为Y310S
+华为T8300
+索尼爱立信C905c
+OPPO R1S（R8000/联通4G）
+LG P990（Star）
+酷派5860+（电信版）
+高新奇M16
+三星GALAXY SII（I9100G/16GB）
+酷派F800
+夏普SH6228C
+HTC X310e（凯旋）
+诺基亚6730c
+诺亚信6700
+中兴S188
+HTC T327d（电信版）
+索尼爱立信S500c
+诺基亚6120C
+华为T8620
+索尼爱立信CS8
+华为P8 Lite（青春版/双4G）
+LG 擎天 P993（Optimus 2X）
+摩托罗拉Droid X（MB810）
+高新奇N63
+创维EG6188
+中兴U235B
+夏普SH801UC
+诺基亚3110
+诺亚信N99C
+纽曼P16
+亿通P11（移动4G）
+诺基亚N82
+诺基亚6120c IE
+三星I8150（GALAXY W）
+夏普SH003
+酷派N930
+索尼爱立信S003
+摩托罗拉ME722（里程碑2）
+摩托罗拉XT882（电信版）
+HTC EVO 4G
+创维EG36
+中兴U819（移动3G）
+中兴U722
+中兴UX990
+诺亚信6208+
+中兴U288（移动版）
+亿通闪客P5
+诺基亚N85
+诺基亚5320di XM
+LG L80
+夏普SH004
+联想A798t（移动版）
+索尼LT25C（Xperia VC）
+索尼爱立信MK16i（Xperia Pro）
+摩托罗拉XT800+
+HTC X515m 夺目3D
+HTC 霹雳 Thunderbolt
+中兴Q201T（移动3G）
+海尔U90T
+中兴U950（移动版）
+酷派8022
+诺亚信S100
+TCL E708
+HTC Desire 826t（移动4G）
+诺基亚N81
+诺基亚5630XM
+三星I9003（Galaxy SL）
+联想A698t（移动版）
+nubia Z5S Mini LTE
+索尼S39h（Xperia C/联通版）
+联想A588T（移动3G）
+HTC G17（EVO 3D）
+HTC 霹雳2（Rezound）
+中兴U818（移动版）
+海尔MIX X5
+中兴U960s3（移动版）
+酷派8020（移动版）
+朵唯S2L
+酷派8012（移动版）
+华为荣耀X1
+诺基亚E66
+诺基亚Asha 500（单卡版）
+诺基亚8855
+酷派5880
+天语T789（移动版）
+索尼爱立信W830c
+HTC G17 EVO 3D（C网）
+华为荣耀3C畅玩版
+中兴U807N（NFC）
+联想A398t+（移动版）
+酷派8050（移动版）
+朵唯iSuper S2（S2X/女王版）
+CECT 8068
+三星GALAXY S4 Mini
+邦华N300
+诺基亚Lumia 1000
+小米M5 Plus（移动4G）
+酷派7295A（青春版/联通版）
+OPPO T703
+原点Yuandian II（联通4G）
+OPPO A105
+HTC HD7（T9292）
+索尼爱立信K750c
+诺基亚C3-00
+诺基亚9300
+摩托罗拉v8088
+联想A398t（移动3G）
+酷派大观4（9970/电信3G）
+朵唯iSuper S2（萝莉版）
+CECT 8859
+三星GALAXY S5 Mini
+福满多M2
+诺基亚Lumia 1525
+诺基亚Lumia 925（联通版）
+酷派7295+
+酷派8198T（移动版）
+原点Yuandian II（移动4G）
+OPPO A113
+HTC HD7S（T9295）
+索尼爱立信W810c
+诺基亚1209
+三星GALAXY SIII（E210S）
+OPPO U525
+酷派5218S（电信版）
+诺基亚9500
+朵唯小时代D330
+诺基亚9300i
+金立A5
+福满多M2S
+诺基亚8800
+诺基亚Lumia 925T
+苹果iPhone 5C（移动4G）
+诺基亚C1-01
+诺基亚C5-00 5MP
+OPPO A201
+三星E1228
+三星E1202I
+诺基亚1202
+索尼爱立信W302c
+步步高i6
+OPPO U529
+小采G6（青春版）
+sonim P9522
+魅族MX4 Mini
+诺基亚Lumia 1520V（Mini版）
+诺基亚8800SA
+诺基亚8800 Sirocco银色
+诺基亚1010
+诺基亚C1-02
+OPPO A203
+诺基亚8800S
+苹果iPhone 5C（电信3G）
+诺基亚7610
+索尼爱立信W610c
+步步高i606
+诺基亚501（单卡版）
+摩奇i5
+格力董小姐手机（移动4G）
+飞利浦X520
+vivo S6
+Microsoft Lumia 940（联通3G）
+诺基亚8800DA
+诺基亚8800ca
+诺基亚X2-02
+诺基亚C1-02i
+OPPO A93
+诺基亚8800s黄金
+HTC One ME（双4G） 
+诺基亚3220 (闪信版)
+LG Optimus L1 II（E410）
+联想TD60t
+步步高i509
+Microsoft RM-1099（移动4G）
+步步高V305
+Microsoft Lumia 430（联通3G）
+诺基亚3720c
+诺基亚N71
+诺基亚VERTU Ascent Ferrari 1947限量版
+HTC One E9+（E9pt/移动4G）
+诺基亚3220
+步步高V207
+OPPO A127
+诺基亚7500
+夏普W62SH
+联想S630
+联想P80（加强版）
+联想S910
+诺基亚N96李小龙限定版
+Microsoft Lumia 532（联通3G）
+诺基亚5500 Sport
+联想S1
+诺基亚6700c
+三星S7120U
+飞利浦V816
+诺基亚3200
+小辣椒四核M1
+酷派D530
+OPPO A129
+诺基亚5250
+夏普SH-01C
+TCL i808
+中兴U880s
+联想A288t（移动版）
+诺基亚N95
+联想P82
+LG KG90n
+联想3GW101
+诺基亚6500c
+三星S5230C
+凡尔纳V5
+摩托罗拉i296
+酷比V900
+云狐J3
+摩托罗拉V9
+诺基亚5230
+夏普SH-09C
+酷派8060（移动版）
+中兴N880
+联想A278t（移动版）
+诺基亚N95（8GB）
+金立A808
+三星G400
+联想S890
+诺基亚6300
+LG GT540
+纽曼K1
+三星GALAXY Premier
+OPPO R815T（移动版）
+金立V3200
+金立M508
+摩托罗拉AURA R1
+诺基亚5230（世博版）
+天语T780（移动版）
+中兴N880G（电信版）
+联想A298t（移动版）
+中兴Q501U（联通版）
+三星G508E
+联想A789
+诺基亚6303c
+LG GW825v
+OPPO 3005（电信4G）
+金立T3
+酷派5879（电信版）
+摩托罗拉Aura月亮宝石版
+诺基亚603
+夏普SH7118C
+天语E780（电信版）
+联想A710e
+联想A316
+金立GN777
+三星I8510C
+夏新A616
+诺基亚6303ci
+三星I8530（Galaxy Beam）
+联想A238t
+金立GN818T（移动版）
+联想S720
+金立T5
+中兴N909D（电信版）
+摩托罗拉RAZR V3xx
+诺基亚701（Helen）
+索尼爱立信S007
+天语E688
+联想A370e（电信版）
+联想A700e
+中兴N798+（电信版）
+索尼爱立信TM717
+三星I8180C
+联想V600
+诺基亚6300（黑色）
+联想S899t
+联想A300t（移动3G）
+酷派5956（电信4G）
+OPPO R819T（移动版）
+酷派5910（电信版）
+中兴N919D（电信版）
+摩托罗拉V3c
+诺基亚E5-00m
+摩托罗拉V3i
+酷派5870（电信版）
+联想A375e（电信版）
+联想P700
+酷派5216S（电信版）
+索尼爱立信Z750a
+摩托罗拉MT720
+索尼爱立信W707
+诺基亚6300i
+中兴N900D（电信版）
+联想A269i（联通版）
+联想A300
+OPPO R1（R829T）
+OPPO R809T（移动版）
+中兴N960
+摩托罗拉V8（2GB）
+苹果iPhone 3G（8G）
+摩托罗拉K1
+摩托罗拉V3（黑色）
+联想A520
+联想P770
+HTC X7510
+摩托罗拉XT711
+HTC XV6850
+索尼爱立信Z750i
+酷派N900
+联想A218t（移动版）
+联想A500
+联想A269（联通版）
+联想A680（联通版）
+华为Mate（1GB RAM/联通版）
+诺基亚6030
+摩托罗拉W510
+三星A837
+三星SGH-E918
+三星SGH-E498
+HTC U1000
+摩托罗拉MT716
+华为G610S（联通版）
+诺基亚N920
+三星I8250（移动版）
+HTC T528w（One SU/联通版）
+联想A369
+联想A889（联通版）
+华为G730-L075（移动4G）
+摩托罗拉F3
+摩托罗拉V10
+诺基亚X6玩乐豪华限量版
+联想V800
+诺基亚2690
+诺基亚6070
+诺基亚6110n
+诺基亚3250 Xpress Music
+诺基亚5700XM黑色
+摩托罗拉锋丽（MT680/移动版）
+摩托罗拉MT870
+索尼爱立信WT18i（Walkman）
+摩托罗拉ME863（里程碑3）
+索尼爱立信Zaito
+VEVA A505
+华为荣耀X1（爱奇艺/移动4G）
+华为G730-U00（联通版）
+华为G730-T00（移动3G）
+三星GALAXY K Zoom
+联想i607
+诺基亚6233
+酷派8010（移动版）
+诺基亚5070
+诺基亚N95（8GB）咖啡版
+诺基亚3250
+摩托罗拉锋丽（XT615）
+摩托罗拉锋丽（XT685/联通版）
+联想A668t
+索尼爱立信X2i
+富士通F-07C
+VEVA C3
+VEVA V8
+索尼Xperia C3（S55U/联通4G）
+VEVA U506
+VEVA V6mini
+VEVA W500
+联想i909
+联想E355
+三星S6352（GALAXY Ace Duos）
+中兴U232（悦酷）
+联想i907
+摩托罗拉锋丽（XT681/电信版）
+HTC Desire 626（626d/电信4G）
+诺基亚6600f
+联想i908
+VEVA C318
+VEVA D905
+酷派8288
+齐乐5000
+尼彩LT18（移动TD-LTE）
+TCL 么么哒3N（M2L/电信4G）
+诺基亚1600
+尼彩W520
+三星Galaxy Ace（S5830）
+中兴U600
+摩托罗拉C381
+黑莓9630（电信版）
+HTC Desire 820s
+小米M4（联通3G）
+联想K910i
+诺基亚VERTU Ascent Ti
+CECT C6000
+黑莓7100v
+齐乐2690
+尼彩A800
+尼彩S300
+尼彩S800
+港利通精英K688
+三星S5831i
+港利通商韵K658
+金鹏A8888
+金鹏E2711
+华为U8300
+华为M660（Ascend Q）
+摩托罗拉Titanium
+金鹏S3578
+苹果iPhone（18K镀金钻石版）
+三星GALAXY SIII Mini
+LG KV920
+苹果iPhone 5（彩色版）
+天语X90
+联想S880（4GB）
+港利通KC726
+港利通KC763
+港利通KP100T
+TCL I919
+海尔U56E
+金鹏S3508
+华为Ascend G300（U8818）
+东信EG880
+三星GALAXY Core 2
+泛泰PG-3000
+松下VS3
+三星W629伯爵
+高新奇E998
+BFB F7720
+天语F130
+联想S880i（4GB）
+港利通K580
+唯科V636
+天语W800（阿里云2）
+天语E90
+天语W680
+天语E608
+天语W650
+联想A750
+东信EG800
+泛泰Mirach A
+泛泰Vega Racer
+泛泰Vega IM-A650S
+LG KV600
+BFB F2050
+天语Q981
+BFB F7010
+BFB F6210
+唯科A60
+天语W808
+天语X9
+天语W98（联通版）
+天语A662
+天语W655
+联想E156
+摩托罗拉XT319
+BFB B5700
+诺基亚5800XM（亚光黑）
+神舟W960
+飞利浦D813（电信版）
+港利通KB536
+朵唯iEva D5
+奥克斯V930
+欧新V20
+中兴U790（移动版）
+海信EG970（电信版）
+天语W806+
+HONPhone X3
+戴尔Blaze
+中兴U809（移动版）
+索尼爱立信E15i（X8）
+夏普SH8268U
+飞利浦D908（电信版）
+神舟X50TS（电池加强版）
+联想S680
+中兴U720
+欧新U5
+中兴U788+
+中兴U788
+海信I630T（电信4G）
+柯达Instamatic 5
+天勤T8
+戴尔Venue Pro
+戴尔Flash
+戴尔Venue
+华为S8520
+戴尔Smoke
+酷派5210（电信版）
+中国移动M601
+酷派766
+索尼爱立信E16i（W8）
+联想S850e
+中兴星星2号（G720T/移动4G）
+联想P90W
+邦华U1
+华为C8650+
+中兴Q802C（电信4G）
+金立GN125
+诺基亚E61i
+三星I8700（Omnia 7）
+HTC G7 Desire（C）
+酷派D539
+天语C280
+酷派5109
+三星Galaxy S（I9008）
+酷派8900
+NO.1 S4
+联想A706
+联想S920
+联想S 90
+三星S7550
+诺基亚2865
+华为C8500S
+金立天鉴T1
+金立C600（电信版）
+三星I8350
+摩托罗拉Z1(MS600)
+华为C8600
+天语C207
+诺基亚N82（导航版）
+三星Galaxy Ace Plus（S7508）
+中兴U812
+NO.1 W9
+中兴V955
+联想A376
+联想S850（联通3G）
+三星SCH-F329
+诺基亚2505
+金立V6900
+锋达通C865
+华为C8500SR
+三星I8520（Beam）
+摩托罗拉RIZR Z3
+华为C8800
+波导K616
+天语C800
+三星GALAXY Grand 2
+天语C700
+同洲飞phone F1
+中兴V965W（Tania）
+天语T568
+小辣椒红辣椒（移动3G）
+三星F669
+诺基亚2608
+LG KC550
+锋达通C862
+三星I589（Galaxy Ace Duos）
+三星I7410
+摩托罗拉A810
+华为U8800+
+天语T660
+摩托罗拉L6
+酷比MAX（移动版）
+Altek A806
+同洲960E
+三星I777（Singa）
+华为Y500
+天语E310
+天语T290
+三星A130
+摩托罗拉A1200
+金立S303
+诺基亚2630c
+HTC S710d（惊艳）
+金立GN136T
+三星Galaxy Ace（I579）
+HTC Butterfly S（919d/电信版）
+三星I519
+摩托罗拉Saygus VPhone V1
+魅族MX4（阿里云/双4G）
+Altek T8680
+北斗青葱（4G版）
+三星E170K（GALAXY R Style）
+三星I9070
+海信T30
+联想TD86t
+三星Z1（Z130H）
+摩托罗拉A1600
+摩托罗拉A1800
+摩托罗拉A1200R
+HTC S710e（惊艳）
+金立GN136
+三星GALAXY Ace（S5838）
+HTC Butterfly S（9088/移动版）
+HTC Butterfly S（901e/单卡版）
+华为Y320C（电信版）
+三星A187
+北斗青葱（8G版）
+三星T569
+三星GALAXY E5（E500F/移动4G）
+金立GN868
+三星A300
+三星GALAXY Grand Neo Plus
+摩托罗拉A1680
+康佳V81
+摩托罗拉A1600（金版）
+诺基亚N90
+vivo Y11it（移动3G）
+酷派炫影SII 8750（移动3G）
+酷派5219（电信版）
+酷派5892（电信4G）
+飞利浦W737
+Acer E130（beTouch）
+三星A220
+三星840SC
+三星SCH-W569
+三星W159
+金立GN868H
+三星SHC-Z140S
+金立GN878
+摩托罗拉MT810（北海）
+康佳A4
+摩托罗拉A768i
+诺基亚N93
+vivo Y22（移动3G）
+LG G3（D856/国际版/3GB RAM）
+vivo S7i（t）（移动版）
+尼彩A7
+三星B7800（GALAXY M Pro）
+三星S5222（Star 3 DUOS）
+三星C3310C
+三星W699
+三星W579+
+三星W270
+三星S559
+金立GN858
+三星L168
+索尼Xperia Z1（L39u/联通4G）
+LG HB620T
+联想S900
+LG H959（移动4G）
+TCL X7
+TCL Hero2（H900M/移动4G）
+HTC One（801e/16GB/单卡版）
+vivo S7t（移动版）
+三星S7230E（Wave 723）
+三星S3550
+三星E329
+三星W579
+三星F488E
+三星B5722C
+天语E399
+OPPO R813T（移动版）
+三星U808E
+三星C5180
+索尼爱立信W595c
+夏普SH9110c
+LG G2（D802/32GB）
+诺基亚7510a
+OPPO N1 Mini（N5110/联通4G）
+TCL P631M（移动4G）
+三星F309
+三星W609
+LG KV755
+华为C5730
+三星E329i
+三星Galaxy Mini（S5570）
+诺基亚3050
+三星GalaxyQ
+三星B3410
+LG TM300
+三星E3210
+三星F299
+三星S259
+三星S239
+三星M8910U
+三星W289
+三星I8000（C）
+华为C5735
+天语E309
+诺基亚X3-01
+三星Galaxy Mini（S5578）
+诺基亚3070
+三星E319
+奥克斯M279
+LG GT350
+三星M350
+三星C5510U
+诺基亚8208
+三星M8910（Pixon 12）
+中兴N881F（电信版）
+三星S8300
+中兴S300
+华为Mate 8（全网通）
+三星U350
+诺基亚6316s
+三星SGH-X688
+三星R460
+摩托罗拉MT620（Tahiti）
+华为G309T（T8830）
+三星C3110C
+三星S5560c
+三星C6112C
+诺基亚C5-02
+三星I8910
+中兴N881E
+三星U908E
+LG GC900e
+华为Mate 7（标准版/电信4G）
+三星S8300C
+三星S7350C
+三星SGH-X308
+三星U490
+摩托罗拉XT300（Spice）
+摩托罗拉XT316
+华为Y300（T8833/移动版）
+LG GS290
+飞利浦X605
+三星M7600
+诺基亚7270
+联想ET60（导航版）
+中兴N880F（电信版）
+三星SGH-U908“Soul”
+三星U900
+vivo X5Max V（电信4G） 
+三星B2710
+中兴U880F1（移动版）
+三星SCH-X559
+华为C2857
+摩托罗拉XT301
+摩托罗拉XT317
+黑莓9320
+OPPO N1（32GB/移动版）
+飞利浦W625
+OPPO U707T（U2S/移动版）
+现代H716
+苹果iPhone（16GB）
+联想K900（32GB）
+索尼爱立信W908c
+OPPO N1（联通版）
+三星U108
+华为Ascend W1-U00（联通版）
+三星D848
+三星E2210
+华为T2011
+摩托罗拉Grasp
+黑莓9220
+天禄D500
+飞利浦W832
+三星GALAXY Pocket 2
+现代H-V901
+现代i30
+现代i31
+步步高V303
+金立V550
+现代H680
+三星G608
+华为Ascend W2-T00（移动版）
+三星E1410
+华为Ascend W2-U00
+联想A1（联通版）
+三星Galaxy Gio（I569/电信版）
+HTC A510c（野火S）
+黑莓9700（移动版）
+TCL S700
+飞利浦W3509
+三星GALAXY Star 2
+三星S6818V
+黑莓9900 黄金奢华版
+联想A6600（双4G）
+纽曼M6
+金立A850
+三星U608
+HTC 8S（A620t/移动版）
+三星E1252
+华为Ascend W1-C00（电信版）
+中兴V960
+三星Galaxy Gio（S5660）
+HTC G13（Wildfire S）
+黑莓9000（移动版）
+vivo E1
+华为荣耀3C（2GB RAM/联通3G）
+三星GALAXY Ace 4（4G版）
+欧盛W180
+魅族MX4（银翼版/双4G）
+Google Project Ara模块手机
+HTC A510e（野火S）
+纽曼M10
+飞利浦W536
+友派U3
+三星F258
+三星SGH-D908
+中兴Grand X（N970）
+中兴Grand X（U970）
+中兴U960
+HTC T327w（联通版）
+飞利浦W635
+vivo E1t（移动版）
+vivo S1
+vivo S3
+欧盛W7
+欧盛WM5080
+Google Gphone
+Google Phone
+小辣椒四核Q1
+Google Nexus One
+Acer Allegro
+亿通L2
+联想i968
+三星D888
+中兴V987
+海信EG950（电信版）
+酷派7728
+金立GN800
+华硕T20
+Acer W11
+vivo S9
+欧恩V9四核画王
+华为T8828
+TCL W989
+摩托罗拉E11
+LG L35
+三星M100S（Apollo）
+亿通L3
+中兴Grand S（V988/联通版）
+联想A765e（电信版）
+海信EG900（电信版）
+海尔W801
+OPPO T15
+vivo S9t（移动版）
+金立GN708T（移动版）
+OPPO U521
+诺基亚230（双卡版）
+三星R720（Admire）
+富士通F-022
+TCL S710
+华为A199（Ascend G710/电信版）
+金立GN170
+纽曼M5
+酷派9100
+LG G3 S（D722U）
+OPPO Joy Plus（移动4G）
+OPPO A613
+黑莓10 Dev Alpha
+HTC X710e（Raider 4G/G19）
+酷派E200
+中兴V5（V9180/青春版/联通3G）
+BFB B2720
+TCL J320C（电信版）
+海信E910
+天禄3D二代（联通4G）
+三星GALAXY Trend Duos
+康佳T621
+vivo V1
+中兴Blade Q
+海信HS-S410
+vivo X5Max+（移动4G）
+OPPO T9
+黑莓Laguna
+酷派9120（大观S/电信版）
+中兴V5（V9180/能量版/联通3G）
+QUEST T1
+TCL J928
+海信T92（移动版）
+LG C660（Optimus pro）
+海信E956（电信版）
+TCL 么么哒（S720/联通3G）
+飞利浦X710
+VEVA V5
+大可乐小可乐（4GB/标准版）
+TCL V18
+华为G5
+黑莓Dev Alpha B
+LG KP500
+酷派9150（电信版）
+Sonim XP2
+纽曼N2
+HOT V9（C网）
+TCL J210C（电信版）
+中兴U980
+海信E912（电信版）
+海信T912（移动版）
+vivo X1S
+联想P639
+大可乐
+大可乐3X（移动4G）
+LG KX500
+酷派9150W（联通版）
+LG KV500
+云狐丛林J1
+OPPO R821T（移动版）
+HOT Hi-HD
+LG C636
+TCL J636D+
+三星I639
+LG E970
+欧新H9
+联想MA169
+联想i300（精英版）
+vivo X1
+海信E520
+TCL A906
+天语E621
+HOT D3+
+HOT C8（传奇）
+云狐极客J2
+HOT HD3+（双卡）
+HOT HD9
+联想VIBE Z3 Pro（移动4G）
+摩托罗拉EX128
+诺基亚2050（双卡版）
+LG E960（Nexus 4/8GB）
+LG E975（Optimus G）
+联想P629
+联想MA168
+康佳L68
+天迈F28
+阿尔卡特OT 906
+联想i320
+摩托罗拉Motogo
+黑莓9310
+黑莓9315
+HTC Gold
+华为荣耀7 Plus（联通3G）
+诺基亚N97mini（RAOUL限量版）
+魅族M9（无存储卡）
+LG P350（Optimus Me）
+HTC Zeta
+HTC Sensation 2
+诺基亚208（单卡版）
+联想TD19t
+亿通S106
+明泰i520
+阿尔卡特OT 810
+TCL V9
+摩托罗拉V70 　
+摩托罗拉Gleam
+诺基亚6700s（柠檬限定版）
+Acer Liquid E200
+黑莓Z5
+阿尔卡特OT 916
+诺基亚N97mini（精英版）
+魅族M8（8GB）
+华为Y300
+美图1S（联通3G/8GB）
+华为Ascend P1 LTE
+诺基亚208（双卡版）
+亿通S109
+BFB F2018
+诺基亚1130
+三星Sidekick 4G
+诺基亚220（单卡版）
+夏新潜龙A6
+摩托罗拉EX212
+摩托罗拉i9
+原点Yuandian 1
+奥克斯Z5
+康佳Q5
+松下MX7
+Acer AK330
+美图1S（联通3G/16GB）
+华为Y530
+华为Ascend P LTE
+华为荣耀畅玩5（移动4G）
+三星SCH-F369
+华为Ascend P1（T9200）
+华为Ascend P1 XL（U9200E）
+夏新S660
+摩托罗拉EX211
+摩托罗拉W208
+摩托罗拉W270
+奥克斯M282
+nibiru 小石头
+海信EG59
+酷派E210
+奥克斯M229
+魅族M8（16GB）
+华为Ascend P7 Mini
+华为Ascend D2
+华为Ascend Y550
+青橙Mars1
+奥克斯M919
+华为Ascend P1（U9200）
+HTC One Mini 2
+诺基亚1110
+奥克斯M289
+三星S5230 LaFleur红色版
+三星L300
+青橙Mars2
+nibiru 土星一号（T1/联通3G）
+奥克斯M629
+酷派E230
+索尼爱立信MT15i
+联想A599
+华为Ascend G620S
+青橙N1 速
+华为荣耀6（至尊版/移动4G）
+青橙青云1（阿里云定制）
+青橙N1 飞扬
+诺基亚1200
+诺基亚1112
+三星I577（Galaxy Exhilarate）
+诺基亚1100
+诺基亚950
+OBEE 695
+海信E89
+索尼爱立信ST17i
+索尼爱立信Xperia Ace　
+索尼爱立信Xperia Play 4G
+联想A3600d（联通4G）
+青橙N1 小资
+青橙N1 奋斗
+青橙N1 极
+青橙N1-Y
+诺基亚1800
+诺基亚1682c
+摩托罗拉Atrix 4G（MB861）
+诺基亚C5-03（乐动限量版）
+诺基亚N8（智尚炫彩限量版）
+三星B299
+索尼爱立信WT19i
+索尼ST26i（Xperia J）
+飞利浦X526
+LG GD550
+酷派7605（联通4G）
+小米M4（电信3G）
+青橙M3（绽放）
+朵唯S8（风信子）
+华为Y610-U00（联通3G）
+魅族MX（全新双核/16GB）
+华为EDGE
+诺基亚1013
+诺基亚C5-06
+诺基亚E7
+BFB F6211
+夏普832SHs
+诺基亚N8（智尊锋尚版）
+诺基亚C5-05
+索尼爱立信S005
+诺基亚7310C
+酷派7275（联通3G）
+三星SGH-D508
+夏新N6
+夏普920SH
+华为G610+（联通版）
+华为Y600（联通版）
+华为荣耀+（T8950/移动版）
+摩托罗拉E18
+HTC Z710e（灵感）
+索尼Xperia SP（M35h/联通版）
+联想P85
+酷派7600
+华硕PadFone
+诺基亚E8
+中兴A711+
+诺基亚5030
+诺基亚6702s
+诺基亚7210c
+波导M05
+夏新M33
+夏新E5
+夏新F36
+HTC X715e（Amaze 4G/G22）
+HTC EVO One
+诺基亚N97mini（导航版）
+索尼Xperia SP
+诺基亚C6-00
+诺基亚N97i
+华硕PadFone LTE
+金立TD103
+阿尔卡特OT 985
+中兴U236
+金立V100
+阿尔卡特OT 979
+诺基亚7612s
+天语S998
+诺基亚7600
+LG F120K（Optimus LTE Tag）
+三星E1088C
+索尼爱立信Xperia Duo
+阿尔卡特OT 978
+阿尔卡特OT 979（Hello Kitty）
+阿尔卡特One Touch Idol Ultra
+联想TD88t
+联想A66t
+中兴U230
+邦华N17
+邦华I5
+HTC Mobile G2
+诺基亚E65（白色/紫色）
+诺基亚6710N
+诺基亚C2-03
+THL W1（双核版）
+诺基亚N91
+诺基亚3208c
+阿尔卡特OT 927
+金立TD500
+TCL idol α（S860）
+波导T800
+摩托罗拉EM330
+联想S560
+华为T2211
+奥克斯M228
+邦华V2
+酷比i96T
+诺基亚5611XM
+诺基亚2010
+中兴U721B
+nubia Z5Sn
+诺基亚6208
+诺基亚X6（世博版）
+Runbo X3（联通版）
+诺基亚2710c
+华为T7320
+TCL U298
+熊猫GM818
+联想A656
+联想A586
+金立TD106
+金立E3T（移动3G）
+三星G800
+摩托罗拉ME600（黑金刚版）
+联想O1（16GB）
+联想TD900
+三星M190S（Galaxy S Hoppin）
+诺基亚X6（8GB）
+黑米H3
+大显D6
+飞利浦9@9++
+摩托罗拉EX210
+三星SGH-W109
+夏新A865
+联想S696
+联想S868t（移动版）
+联想A766（联通版）
+金立风华2014
+三星G810
+摩托罗拉MB200（CLIQ）
+联想O1e
+联想O3
+三星M110S（Galaxy S）
+诺基亚5800XM
+联想O1
+摩托罗拉ME600
+酷派D21
+华为T550
+摩托罗拉EX200
+摩托罗拉XT610（Droid Pro）
+酷派8950（移动版）
+HONPhone A380（明爵）
+三星I929
+华为G620（L72/联通4G）
+飞利浦X513
+联想P717
+HTC G3（Hero）
+酷派7011
+三星GALAXY SIII（I747）
+HTC G2（Magic）
+中兴V2
+中兴U830
+中兴U208
+摩托罗拉EX201
+摩托罗拉Pax
+三星I919U
+华为G630
+飞利浦X703
+联想ET960
+HTC G4（Tattoo）
+酷派5213（电信版）
+酷派8190Q（移动版）
+HTC myTouch 3G Slide
+HTC G20（Rhyme）
+HKC G801
+中兴U218
+TCL M70
+中兴U721
+LG GS100
+摩托罗拉W388
+金立A388
+飞利浦W727
+奥克斯V928
+联想S700
+HTC T8285（Touch HD）
+HTC Touch Diamond
+飞利浦M600
+索尼MT27i（Xperia sola）
+中兴U960s2
+HP iPAQ 512
+TCL E588
+酷派8026
+金立A10
+海尔N88W
+LG KP168
+索尼爱立信C702c
+魅族M8 RE（8GB）
+vivo E3
+联想S710
+HTC Touch Diamond 2
+苹果iPhone 3G（8G/联通版）
+天语A158
+海信E79
+海信D9817
+HKC W1000
+酷派W721
+海信D619
+索尼爱立信K800i
+海信E350
+海信E8
+朵唯S668（向日葵）
+HTC Touch 3G
+苹果iPhone 3GS（8GB）
+苹果iPhone N88（WAPI版）
+LG F160L（Optimus LTE 2）
+夏普SH6010C
+华为C8100
+多普达T5388（Touch Diamond2）
+小米青春版
+HTC One X（S720e/G23/16GB）
+康佳M930
+HONPhone T100
+海信F58
+酷派E600
+联想i520
+海信C68
+HTC XV6900
+HTC Touch Pro2（Sprint版）
+苹果iPhone 3G（16GB）
+苹果iPhone 4（16GB）
+海信E500
+夏普SH-07B
+夏普SH-04C
+多普达T5588（天享）
+多普达P660
+HTC One XL
+HTC T7373（Touch Pro2）
+卡西欧CA002
+天语B920
+现代E58
+天语U90（Kiss初恋版）
+波导BD717
+联想i200
+诺基亚3090
+联想S520
+华为C5700
+夏普940SH
+天语B851
+HTC c510e（微客）
+多普达T5399
+HTC One XT（S720t/32GB）
+索尼爱立信X1
+摩托罗拉A732
+卡西欧C601（CA003）
+卡西欧CA004
+现代T58
+联想V520
+波导D719
+首信S728
+联想i62
+联想P619（豪华版）
+联想i61（新锐版）
+华为C5110
+三星E218
+华为C5600
+联想S500
+联想i60s舒适版
+海尔U60
+步步高i18
+摩托罗拉C115
+联想P719
+联想P990
+联想P50
+联想i350
+波导D717
+首信S750
+迪士尼Magic2（移动TD-LTE版）
+首信鹰眼C8600
+华为C7189
+三星E189
+联想S550
+联想i60
+海尔X76
+海尔X70
+华为C2827
+三星I719（电信版）
+联想P619
+联想P50（炫彩版）
+联想A368
+LG L-03A
+华为T2251+
+大唐TG3008
+联想TD115
+华为C7260
+联想S96
+大显G8
+夏普SH6120CT
+海尔V720
+步步高V206B
+康佳D660
+纽曼P8
+摩托罗拉EX115
+联想A610（豪华版）
+OKWAP i560
+OKWAP i180
+华为T291
+大唐TG300
+酷派F801
+联想TD30t
+联想A518
+联想MA512
+夏普SH0902c
+夏普SH806T
+索尼爱立信P5
+OPPO F19
+东芝G710
+东芝Ply（层叠）
+三星GALAXY J3（移动4G）
+联想A610
+OKWAP A150
+OKWAP A806
+OKWAP A130
+HTC 8X（C625e/LTE）
+酷派8910
+联想A910
+三星GALAXY S4 LTE-A（E330S）
+OKWAP i708
+夏普SH9030C
+OKWAP i730
+索尼爱立信SO-01B
+摩托罗拉DROID RAZR MAXX HD
+诺基亚N-Gage QD
+东芝TG01
+CECT F88
+天语D782
+金立TD216
+天语A7718
+海尔W718（劲-Zing）
+HTC 8S（A620e/联通版）
+华为Mate 2（MT2-C00/电信版）
+泛泰Vega X
+诺基亚C3-01（黄金版）
+西门子M65
+vivo Y28F（联通4G） 
+中兴Blade S6（Q5-T/双4G）
+邦华V9
+OKWAP i839
+诺基亚QD (银色版)
+索尼Xperia E4（联通3G）
+联想MA166T（移动版）
+诺基亚N-Gage
+天语C218
+诺基亚3300
+诺基亚7710
+天语E62
+联想A785e（电信版）
+诺基亚5132XM
+OKWAP i750
+邦华Q5
+中兴Q301C（电信版）
+OKWAP KT520
+OKWAP A836
+诺基亚5330（电视版）
+金立L35
+明泰M701
+诺基亚N80
+天语E61
+联想S770
+海信E6
+天语E379
+明基F52（联通4G）
+联想G901
+波导D736
+HONPhone M18
+LG GM650s
+OKWAP A115
+诺基亚5730XM
+诺基亚3315
+LG KG90（巧克力）
+LG KF755
+海信N59
+诺基亚6600s
+LG KV230
+HTC Desire Eye（移动4G）
+普莱达D102
+飞利浦120
+CECT V958
+VINUS V10
+联想P301
+诺基亚C2-01
+联想i389
+诺基亚5802XM
+诺基亚3000
+联想E268
+LG GD900e
+LG KG70 Shine（黑色）
+海尔HT-U68T
+LG KE608
+华为Honor 荣耀（移动版）
+诺基亚E65
+普莱达K266
+普莱达D118
+普莱达D236
+普莱达K256
+OBEE i818
+TCL Z99
+诺基亚X2-01
+诺基亚C1-03
+诺基亚5235
+诺基亚6708
+联想E269
+INQ Mini 3G
+酷派N900C
+LG TB260
+三星E848（精装版）
+LG KG70 Shine
+诺基亚6788
+普莱达D126
+三星SGH-E888
+康佳K58
+三星S5690（Galaxy Xcover）
+诺基亚6790
+诺基亚X2-00
+Sonim XP1
+诺基亚Facet
+诺基亚X2-03
+联想E700
+联想A658t（移动版）
+HTC S510e（渴望S）
+海尔N6T
+LG KV800
+诺亚信V8（睿智版）
+诺基亚6788i
+诺基亚2330c
+三星E848i
+华蜀K18
+三星S5698（Galaxy Xcover）
+摩托罗拉V360
+康佳K28
+小米2S（电信特别版）
+飞利浦9@9a
+飞利浦D612（电信版）
+诺基亚E7（智尚版）
+魅族MX2（联通版）
+LG KG70c Shine
+三星SGH-D418
+邦华TL600（移动4G）
+欧新V8
+诺基亚2332c
+三星S5230（Zadig&Voltaire）
+三星D888（黄金版）
+金立S5.5L（GN9000L/移动4G）
+三星S5230（hello Kitty）
+奥克斯V990
+欧新I99+
+金立V309
+魅族MX2（32GB）
+诺基亚C2-00
+中兴X850
+TCL J938M（TD-LTE移动版）
+普莱达D136
+普莱达D196
+普莱达D396
+诺基亚2700c
+LG P705（Optimus L7）
+三星S5233（HelloKitty版）
+普莱达E389
+普莱达F2
+摩托罗拉V303
+HTC One Bloom 3
+东芝T003
+东芝X02T
+东芝TS004
+中兴V852
+TCL S838M（移动4G）
+中兴U728
+三星B7350
+TCL i709M（移动4G）
+中兴X876（Raise）
+HTC G21（Sensation XL）
+TCL P600
+TCL C990
+东芝T004
+东芝IS04
+HTC Desire 826s（公开版/双4G）
+东芝T-01C
+东芝IS11T
+OPPO A109K
+中兴V760
+TCL S830U
+TCL S850L（电信版）
+三星I200
+TCL i708U（联通4G）
+诺基亚Lumia 1020（EOS/联通版）
+中兴Monte Carlo
+HTC X315e（灵感XL）
+TCL 8388
+联想A760（联通版）
+TCL P301C
+联想ET880（电视版）
+夏普SH007
+酷派F618
+三星I827（Galaxy Appeal）
+夏普FX Plus
+LG LN272（Rumor Reflex）
+夏普SH7238M
+锤子T2（移动4G）
+金立A2
+vivo X5Max F（联通4G）
+大唐TG100L
+大唐M18
+大唐TDW810H+
+大唐TDW810L
+酷派炫影S+ 8720Q（移动3G）
+大唐TDW813
+联想A710
+华为C5900
+诺基亚X10（16G）
+三星M920
+夏普007SH KT
+夏普SH-11C
+金立A320
+金立H68
+创维L160
+创维L99
+邦华N21
+OPPO U701
+酷比A106
+酷比i50
+联想A730
+联想MA398t
+联想i516
+HTC Droid DNA
+诺基亚2228
+诺基亚7500Prism（白色）
+联想TD36t
+夏普SH9220C
+HONPhone 008-III 大汗马3000L
+HTC EVO Shift 4G
+三星Intercept
+三星Epic 4G
+高斯贝尔GS88
+三星SPH-D700
+OPPO U701T（移动版）
+LG US760（Genesis）
+摩托罗拉Droid 2（电信版）
+夏普SH80iUC
+三星S6500D
+TCL J330
+三星GALAXY SIII（L710/双核版）
+诺基亚1006
+诺基亚N79 Eco
+锋达通616
+三星M120S
+三星Smiley
+三星S3850（Corby2）
+LG BL40（New Chocolate）
+LG LS855（Marquee）
+多普达T7278
+纽曼F6
+三星M8800C
+天语T360+
+诺基亚3510
+诺基亚N77
+诺基亚2710N
+HONPhone M868
+摩托罗拉WX445DU Citrus
+波导N586
+诺基亚5530凤舞霓裳
+LG BL40e（Black Label）
+天语E806（电信版）
+三星SGH-X648
+诺基亚Thresher
+爱国者A58
+诺基亚Morph
+诺基亚2760
+诺基亚E51
+诺基亚6121c
+金立V170
+诺基亚6202c
+诺基亚7212c
+诺基亚1315
+波导I700
+诺基亚5530XM
+波导X1
+天语E616（电信版）
+波导S1820
+爱国者G6
+爱国者a56
+诺基亚E50
+i-mate g688
+三星C3530
+诺基亚6122c
+i-mate C688
+斐讯i800v
+i-mate 6150
+波导i720
+中兴CG990
+飞利浦F322
+天语D780
+索尼爱立信SK17i
+诺基亚E51（无摄像头版）
+诺基亚N73网络版（音乐版）
+摩托罗拉MB511
+西门子3508i(国际型号:C35i)
+诺基亚3608
+夏普SH-10B
+斐讯i360
+斐讯i370
+金立L8
+诺基亚1681C
+LG Lotus
+索尼爱立信ST15i（Xperia mini)
+中兴X990
+纽曼T1
+摩托罗拉EX118（MOTOKEY XT）
+三星GALAXY S4
+三星N628
+HTC MAX 4G
+Palm Centro2
+Palm Treo Pro
+HTC Titan Ⅲ
+三星R400
+天语W366
+LG L-02B
+斐讯FWS810
+斐讯FWS710
+索尼爱立信SK15i
+斐讯FWS610
+欧新U3
+康佳D690
+金立A696
+华为U8520
+斐讯E551Lt（移动4G）
+苹果iPhone 4（16GB/白色）
+HTC One max
+Palm Treo 650
+nubia W5
+斐讯E651Lt
+海信G518
+斐讯P660
+i-mate 810-F
+Acer Liquid A1
+i-mate Centurion
+佳域G1
+华为U8220
+中兴N61
+索尼爱立信M1i（Aspen）
+多普达T4288（Touch Cruise）
+诺基亚720（双卡版）
+联想A660
+i-mate 8501
+HTC S510
+中兴N72
+爱国者a59
+爱国者a69
+华为Ascend G526
+华为荣耀3X（G750-U00/联通版）
+爱国者R8
+Acer F900
+TCL i802
+TCL J300
+诺基亚720T（移动版）
+三星I8320
+联想A66（联通版）
+爱国者a50
+天语E520
+魅族魅蓝（阿里云/移动4G）
+朵唯S760
+亚马逊Fire Phone
+万利达MT160
+万利达M998
+创维S002
+创维Q89
+索尼爱立信C510a
+索尼爱立信T658c
+三星I617
+联想VIBE X2（X2-CU/联通4G）
+万利达MG616
+HONPhone 008-VI
+天语A901
+天语C216
+朵唯S728
+万利达T905
+亚马逊Fire Phone 2（移动4G）
+万利达T506
+OKWAP OK926
+纽曼G6b
+酷派N92
+普莱达D303
+索尼爱立信K790c（银色）
+索尼爱立信G902
+宇达电通MIO A700
+宇达电通MIO A701
+宇达电通MIO A702
+LG TB200
+万利达MT699
+CECT 9898
+朵唯S920
+OPPO T29
+朵唯简爱S600
+宇达电通MIO K70
+宇达电通MIO Amber
+宇达电通MIO K76
+索尼爱立信G502c
+OPPO T5
+索尼爱立信J20（Hazel）
+夏新E860
+索尼爱立信G700c
+LG GM205
+LG KX216
+索尼爱立信Xperia Active Billabong Edition
+LG KG77 Shine
+朵唯S630
+LG KF690
+宝丽来Selfie（移动4G）
+LG TB100
+LG S310
+LG S367
+奥克斯V936
+OKWAP T910
+邦华S35
+步步高i8
+黑莓8220
+步步高K119
+泛泰IM-U660K
+LG KT615
+索尼爱立信Jalou
+飞利浦191
+大显PF111
+宝丽来Flip（移动4G）
+创维S001
+创维Q866
+万利达K530
+OPPO A615
+万利达K666
+步步高K10
+黑莓9105
+步步高i288音乐手机
+泛泰PG6200
+泛泰U700S
+LG Optimus 2X
+索尼爱立信Nanami
+LG Optimus S
+泛泰IM-U680L
+泛泰EV289
+联想A6000（移动4G）
+万利达K526
+万利达T508
+万利达K700
+万利达MT719
+OPPO Real R803
+OPPO R807
+OPPO F15
+黑莓9100（Pearl 3G）
+三星I520
+万利达100
+万利达200
+万利达T516
+万利达E808
+LG TB290
+朵唯S828
+夏朗F630
+华为荣耀3C（2GB RAM/联通4G）
+金立A326
+联想S9
+OPPO R850
+OPPO F29
+OPPO A125
+七喜T800
+金鹏5158+
+vivo Xshot（X710L/旗舰版）
+迪比特6228
+波导M008
+金立N68
+夏朗F6
+夏朗M8
+金立W100
+夏朗N720
+尼彩A45
+夏朗A320
+夏朗F320
+三星N7005（GALAXY Note LTE）
+中兴V181
+优派ViewPad 4
+索尼爱立信K900i
+天语M608
+戴尔Mini 3i
+魅族MX2（TD公开版）
+现代HR690
+索尼爱立信K790c（棕色）
+PPTV 窄边框手机（移动4G）
+邦华U6
+HTC G16（Chacha）
+夏朗F626
+夏朗A6
+夏朗M618
+三星GALAXY Note（I717）
+优派Q7
+优派Q3
+优派V350
+优派ViewPad 890
+优派V430
+优派ViewPhone 3
+优派ViewPhone 4S
+首亿G618
+三星S8500（8GB）
+三星SGH-E838
+邦华I9
+索尼爱立信W550c
+三星E1150C
+摩托罗拉W6
+伟恩Q10
+三星I8730（Galaxy Express）
+三星GALAXY Grand Neo+
+三星N8000（GALAXY Note 10.1）
+夏普SH8128U（点心）
+夏新X6
+摩托罗拉Droid（Sholes）
+富可视M530（双4G）
+LG SV800
+首亿E6
+三星I8910 HD
+首亿E9
+vivo Y627（联通4G）
+索尼爱立信W300c
+索尼爱立信K700C
+伟恩P26
+三星GT-E1101C
+三星GALAXY Grand
+三星N5100
+三星E110S（Celox）
+三星I9118
+富可视M210
+富可视M550（双4G）
+小辣椒3（LA3-E/电信版）
+三星S579
+三星F859
+天语E68
+富可视M512
+三星I9088（Galaxy S）
+三星I9210（Galaxy SII LTE）
+伟恩F820
+三星SCH-S199
+三星GALAXY Grand（I9128V）
+三星E120L（GALAXY SII HD LTE）
+朵唯iEva D9
+富可视M320
+小辣椒红辣椒（电信版）
+三星Metro TV
+三星I500（Fascinate）
+海信E9
+三星B108
+三星B7732U（大器）
+摩托罗拉A3000
+大显DX888
+三星SCH-S159
+三星SCH-S169
+LG KX126
+LG C620
+酷派7920（联通4G）
+朵唯iSuper S1
+天语E366
+TCL E906
+OPPO E21W
+三星E2558
+联想E218
+HTC S910m（MyTouch 4G）
+三星I897（Captivate）
+三星SGH-E358
+伟恩R98
+伟恩F821
+伟恩D52
+金鹏A7166
+LG C270
+LG KW820
+LG KX256
+LG C258
+TCL 650
+酷派N16
+索尼爱立信W705
+联想A365
+三星SGH-E348
+三星SGH-E378
+vivo X5F（联通4G）
+西门子A65
+大显TX868
+摩托罗拉Rockie
+LG C610
+LG CT520
+诺亚信S300
+海信C299
+HONPhone M160Q
+海尔HG-V530
+华硕A10
+联想A365e
+步步高i399
+七喜T330
+三星SGH-E420
+酷派239
+酷派E570
+酷派F620
+酷派8310
+酷派8260
+HONPhone L188（加强版）
+LG GW620
+LG BL42
+海尔M260
+华为Y210S
+联想A330e（电信3G）
+三星W689（DUO/电信版）
+海尔HG-F20
+海信TC68
+海信T85
+海信T11
+海信T958（移动版）
+三星I5510
+金立V303
+盛泰G737
+万利达MG629
+LG GT505e
+黑莓9580
+LG KM900e
+中兴U880F（移动版）
+华为Y535D（电信版）
+华为Y210
+华为Y210C（电信版）
+海信T96（移动版）
+索尼爱立信A8i
+华为Y320T（移动3G）
+海信U958（联通版）
+三星E2652W
+索尼爱立信T303c
+三星C3312
+盛泰P9020
+盛泰G728
+LG KF700
+盛泰G727
+盛泰G717
+盛泰S95
+天语S655
+奥克斯V980
+天语V9（大黄蜂2勇气版）
+华为Y325（移动3G）
+海信U950（联通版）
+亿通T900
+索尼爱立信S001
+三星C3300K
+诺基亚LC4301
+索尼爱立信WT13i（Mix Walkman）
+联想A366t
+索尼爱立信Camari
+康佳D200
+康佳S601
+三星SGH-E368
+天语C809
+海信HS-C190
+海尔v73
+佳域T1
+金立GN728
+三星SGH-E388
+索尼爱立信Xperia Play（C网）
+三星GALAXY Mega 5.8（I9150）
+LG G639
+黑莓8330
+诺基亚C5-03（凤舞霓裳版）
+天语A936
+LG A230
+康佳C676
+三星E258
+三星S5628（摩天）
+三星D528
+HTC Z510d（双擎 S）
+海尔HG-V60
+三星T929
+三星SCH-S399
+康佳C958
+康佳C636
+康佳C616
+黑莓9620（Patagonia）
+奇酷AK47（移动4G）
+康佳C628
+诺基亚C3-01（炫酷精锐版）
+康佳C889
+诺基亚3128
+诺基亚5902
+联想E308
+HTC X515d 夺目3D（电信版）
+诺基亚C3-03
+索尼Xperia E1
+海信C189
+三星SGH-E338
+三星B289
+伟恩E818
+伟恩B99
+伟恩E68
+康佳K13
+飞利浦X623
+康佳K15
+HTC Desire 826d（电信4G）
+HTC Desire 626G+（双4G）
+联想A370
+康佳K17
+摩托罗拉W355
+摩托罗拉WX415
+中兴S290
+中兴GA900
+摩托罗拉E360
+摩托罗拉W7
+诺基亚6268
+三星SCH-X979
+摩托罗拉W380
+中兴X998
+LG Mystique（奥妙）
+飞利浦9@9k
+HONPhone A4
+华为C6200
+摩托罗拉W490
+摩托罗拉W396
+酷比K35
+首亿EG588
+首亿W6
+首亿WG518
+邦华S37
+亿通L6
+摩托罗拉C330
+三星S569
+诺基亚3500c
+中兴GA350
+金立WBG1512
+LG UN510 Banter Touch
+LG VS750
+首亿E7
+华为HiQQ
+三星S3710
+天语D781
+邦华N32
+大显A8868
+康佳蓝极星H5000
+戴尔Mini 3T1
+金立T9
+HONPhone Q7（耀彩）
+优派ViewPhone 4e
+优派ViewPhone 5e
+HTC PC189
+海尔U69
+金立H70
+首派A101
+摩托罗拉triumph
+三星I839
+步步高K102
+波导G118
+邦华V80
+邦华Q6
+邦华V6
+索尼爱立信K660i
+酷派268
+摩托罗拉A820
+中兴MT73
+夏普SH8188U
+索尼爱立信W760c
+金立TD210
+首派A80
+首派A60（8GB）
+步步高K302+
+步步高K103
+HTC Desire 816 
+邦华V8
+康佳W960
+邦华V5
+邦华U5
+LG E720（Optimus Chic）
+摩托罗拉A445
+摩托罗拉A6188
+夏普SH330T
+夏普SH6110C
+苹果iPhone 4（32GB/白色）
+夏普SH330U
+华硕PadFone2（64GB）
+夏普SH8168U
+步步高K118
+步步高K201
+首派A60（16GB）
+首派A60（32GB）
+首派A70
+邦华TD300
+中兴V5S（移动4G）
+LG P500（Optimus One）
+摩托罗拉A3100
+中兴memo 5S（移动版/U5S）
+欧博信U9
+夏普SH6118C
+天语U9（联通版）
+首派A60s
+首派A100
+首派A80s
+步步高i267
+步步高V309D
+步步高i270B
+阿尔卡特OT 799 Play
+HTC T328e（Desire X）
+TCL V8
+中兴N799D（电信版）
+欧博信U6
+夏普SH801UX
+天语U7
+邦华U8
+夏普SH6318C
+欧博信Wi-5
+联想S1（至尊版）
+步步高V309
+摩托罗拉Q11
+LG KF510
+HTC S521
+三星S3350
+LG GW300
+摩托罗拉Q9
+HTC Ozone
+三星G618e
+三星I718
+天语W688
+HTC E1（603e）
+欧博信Wi-3
+欧博信U8
+联想A1
+TCL Q3（潘多拉）
+欧博信U58
+三星SPH-M380
+三星B7330
+三星GT-M2510C
+阿尔卡特OT 819D
+摩托罗拉E398
+摩托罗拉V14W
+优派VCP08
+欧博信Wi-9
+殴博信A9
+欧博信F608
+东信EZ108
+联想A780
+欧博信S112
+欧博信U68
+优思W1231
+酷派D5800
+三星S5330
+阿尔卡特OT 355
+OPPO Find 9（移动4G）
+明西EF81
+摩托罗拉W233
+阿尔卡特OT 665
+阿尔卡特OT 806
+索尼爱立信S006
+酷比K75
+OPPO A103
+齐乐5100
+优思U2013
+夏普SH8138U
+HTC A3380（野火）
+优思W1230（小C2）
+优思W2014
+欧博信T65
+摩托罗拉Devour A555
+小米4S（移动4G）
+索尼爱立信Z1010
+Acer W14
+阿尔卡特OT 585
+阿尔卡特OT 807A
+迪比特5689
+索尼爱立信C1002S
+酷比K7
+欧新V9
+欧新V3
+酷比K79
+酷派9080W
+清华紫光U68
+NEC N500
+CECT S560
+索尼爱立信Z555i
+索尼爱立信Z320c
+索尼爱立信Z608
+迪比特7168C
+索尼爱立信K508c
+酷比K3
+华为Ascend G700（联通版）
+酷派7290（联通版）
+索尼爱立信C905a（AT&T定制版）
+波导S689
+索尼爱立信K510c
+索尼爱立信J220c
+索尼爱立信G702
+CECT C2000
+黑莓8230
+索尼爱立信Z780
+CECT U600
+索尼爱立信Z530c
+INQ Cloud Q
+华为G716（移动4G）
+TCL MOBO 828
+诺基亚Mobiado 阿斯顿马丁版奢华机
+多普达828+(828)
+索尼爱立信K550c
+索尼爱立信F305c
+索尼爱立信SO906i
+索尼爱立信SO905i
+索尼爱立信Urbano Barone
+索尼爱立信J210C
+夏朗M500
+诺基亚8800a Carbon Arte Royal特别版
+夏朗F628
+夏朗F330
+夏朗A530
+索尼爱立信W600C
+索尼爱立信Z610i(粉)
+三星GALAXY S5 Sport
+海尔N60
+步步高K203M
+摩托罗拉W510（藏语版）
+万利达MT165
+欧盛T61
+黑莓7290
+金立V10
+金立TD108
+诺基亚Astound
+摩托罗拉WX160
+苹果iPhone 5（64GB）
+飞利浦9@9q龙凤版
+天语S980
+天语A608
+飞利浦X620
+索尼爱立信W395c
+HONPhone 008-3汗马尊贵版
+欧盛M3
+黑莓9000（白色）
+黑莓7230
+HONPhone 008-III 大汗马4000L
+HONPhone X5
+创维Q690
+苹果iPhone 5（电信版）
+小米M4（2GB RAM/联通4G）
+飞利浦9@9r
+飞利浦X216
+飞利浦X712
+飞利浦X530
+爱国者J1
+诺亚信N99（珍藏版）
+金鹏A7611
+爱国者蚂蚁二代
+黑莓8300
+HONPhone 008-V（金狮钯金版）
+HONPhone 008-VI（战旗）
+HONPhone 008-II 金战神
+创维SE19
+创维SE89
+创维EG30
+爱国者A8（筋斗云）
+飞利浦X600
+三星SPH-W7100
+飞利浦W920
+酷派S180
+爱国者a55
+爱国者a88
+波导D220
+联想A330
+波导S701
+波导TD6300
+HONPhone 008-VSD（大金狮）
+波导I900
+HONPhone 008-III赢彩
+HONPhone A3（名媛）
+BFB F7100
+HONPhone T328
+步步高音乐手机i7
+万利达K11
+三星阿玛尼4
+三星I908限量金色版
+LG GD900
+海信E316
+波导TS08
+HONPhone S90（远舰）
+HONPhone I30
+波导S180
+天语D150
+诺基亚2310
+诺基亚6060
+朵唯S660
+酷比N66
+万利达K19
+万利达MT186
+万利达K201
+万利达K600
+海尔E617
+大显X838
+大显V99
+齐乐X3
+中兴H520
+波导V5100
+万利达MT286
+摩托罗拉V880
+海信S830
+诺基亚6060v
+诺基亚6131（6133）
+万利达K598
+天语D1150
+酷比T600
+天语C208
+朵唯S768
+天语M730
+飞利浦K600
+飞利浦9@9e
+高斯贝尔A206
+HTC One SV
+创维E802+
+金立A300
+高斯贝尔A808
+高斯贝尔CA218
+诺基亚6210S
+朵唯S800（凤舞）
+天语A689
+索尼MT28i（Xperia SX）
+金立L10
+摩托罗拉WX260
+酷派S20
+金立N77
+HTC Intruder
+天语S002
+三星B5310U（CorbyPRO）
+三星SGH-E208
+天语V98
+天语V508
+HTC Ace
+朵唯S520
+飞利浦F515
+金立A969
+亿通E301
+摩托罗拉WX180
+摩托罗拉W206
+LG E730（Optimus Sol）
+金立L602
+三星M910（Moment2）
+金立N36
+LG L Bello（联通3G版）
+中兴D90
+大显DXF80
+HTC Pad
+金立L9
+OBEE 681
+金立E500
+飞利浦9@9c
+金立E600
+摩托罗拉WX395
+金立M100
+亿通S101
+金立L601
+摩托罗拉Moto E（2015/联通4G）
+金立L603
+亿通E306
+亿通P226
+诺基亚6260
+飞利浦760
+索尼爱立信Julie
+波导D650
+金立M105
+诺基亚230（单卡版）
+夏新A668
+诺基亚2705
+纽曼G1
+三星T699（Galaxy S Relay 4G）
+QUEST T2
+诺基亚N9（64GB）
+诺基亚X9
+金立V330
+亿通S006
+诺基亚7650
+夏普SH8158U
+亿通P80
+金立E102
+OKWAP C630
+OKWAP C900
+康佳F60
+OKWAP 英语霸i885
+索尼爱立信GX1
+华为U3100
+三星I220
+华为U8110
+华为U8150
+天勤V660
+海尔M530
+明基M580
+三星W880
+朵唯iEva D600
+夏新D80
+阿尔卡特OT 305
+LG 510（Cookie Zip）
+三星GALAXY S6 Duos（双4G）
+华为C7350
+戴尔Mini5（Streak）
+索尼爱立信X9（Faith）
+LG GM750
+华为U7520
+LG GM730e
+海尔H2
+海尔E8
+索尼爱立信C905（8G）
+三星W740
+神舟H45 T2
+夏新A102
+夏新A869
+金立V169
+华硕Z802i
+康佳A3
+VEVA U58
+LG F90
+LG G677
+LG KF900
+GEAK Eye
+金立GN210
+HTC PD42100
+UT斯达康G3300
+飞利浦9@9W
+海尔U56
+索尼爱立信Severine
+海尔K2
+海尔V70
+HTC A12（联通3G）
+诺基亚N72IE
+华为U8230
+LG 6360
+飞利浦D822（电信版）
+LG LS860（Mach）
+LG C729（Doubleplay）
+HTC 7 Pro（G）
+索尼爱立信W350i
+索尼爱立信W150（Yendo）
+海尔V80
+诺基亚2112
+华为U3300
+华为U7310
+华为U9100
+华为U1300
+华为U7300
+华为U1310
+诺基亚W7
+HTC Desire 620
+UT斯达康D60
+三星CC01
+索尼爱立信S312
+索尼爱立信X10mini（尊贵金）
+诺基亚7610s
+索尼爱立信W350c
+三星Tocco Icon
+UT斯达康CD218
+UT斯达康CD680
+华为C7188
+UT斯达康K36
+UT斯达康CD558
+摩托罗拉C359
+诺基亚W8
+HTC Desire 620G（D620u）
+诺基亚C6-01（蓝牙超值版）
+三星CC01i
+三星SGH-X108
+三星SGH-C268
+LG E400（Optimus L3）
+UT斯达康P903
+UT斯达康UT320
+UT斯达康SMT5700
+华为C2835
+UT斯达康UT616
+UT斯达康C1160
+酷派S126
+HTC C110e（Radar）
+HTC One M9 Prime
+诺基亚C7-00i
+三星SGH-X208
+三星SCH-X939
+LG E405f（Optimus L3 Dual）
+LG E612（Optimus L5）
+LG T385
+黑莓Curve R006
+LG G2 Lite（D295）
+华为T1201+
+华为U5900
+中兴F500
+LG C676
+摩托罗拉XT553（电信版）
+LG C820
+华为Vision（C8850/远见）
+HTC Radar 4G
+三星SGH-C208
+三星SGH-X218
+诺基亚7200
+HTC Incredible
+摩托罗拉PEBL U6c
+华为U5110
+华为Ascend G300C（C8810）
+LG L Fino
+华为P660+
+华为T2361
+泛泰EV269
+酷派W702
+摩托罗拉XT760
+华为U8160
+华为T8500
+华为F560
+黑莓9900 Dakota
+联想E280
+诺基亚Remade（概念机）
+天语U2
+三星E2510
+摩托罗拉PEBL U6
+摩托罗拉V600i
+LG KM380
+酷派W706+
+酷派W711
+诺基亚C7（导航限量版）
+HTC Desire 620G（D620h）
+摩托罗拉V750
+摩托罗拉E390
+海信C310
+摩托罗拉RAZR Lúk
+三星SCH-M509
+HTC Photon
+华为C5710
+金立C100（电信版）
+HTC Prime
+多普达T2222（Touch Viva）
+诺基亚6555
+酷派W706
+摩托罗拉V188
+金立A536
+HTC One M8（M8s/移动4G）
+摩托罗拉Mike i877
+摩托罗拉V400
+康佳E260
+摩托罗拉EX109（MOTOKEY Mini）
+摩托罗拉Motokey 3-CHIP
+天语U2（沃Phone）
+HTC Gratia
+摩托罗拉i680
+黑莓9999 Curve
+HONPhone W3（智尚）
+LG GB210
+摩托罗拉Quantico
+中兴Open II
+海尔E760
+联想P992+
+联想A326
+亿通T710
+酷派W770
+LG C810
+联想P680
+LG KG108
+三星W930
+海尔D330
+华为G7010
+波导D780
+波导D788
+LG GW990
+LG C960
+夏普SH-06C
+中兴Open C
+摩托罗拉XT925（RAZR HD）
+联想A550
+联想A580
+步步高i710
+联想S2（移动版）
+LG G660
+LG SV770（华夫饼干）
+摩托罗拉W156
+三星C3500
+酷派E239
+联想P636
+联想P809
+联想P992
+摩托罗拉XT890（RAZR i）
+华为OPhone
+HONPhone W1（魅影）
+联想i61
+Runbo X5（联通版）
+LG Y70（移动4G）
+三星E1100C
+三星B2700
+首信T109
+首信S758
+首信H100
+首信S728+
+海信E3
+康佳W830
+卡布奇诺2（移动3G）
+HTC One E9+（E9pw/联通4G）
+优美手机本X3
+联想S800
+联想P500
+天语Kis 2w
+金立V16
+现代H718
+卡西欧G'zOne Ravine
+卡西欧G’zOne Rock
+卡西欧C771
+卡西欧CA-01C
+三星F339
+朵唯D800
+诺基亚6100
+酷派F69
+康佳E860
+摩托罗拉XT992
+酷派6030
+夏普004SH
+海信G960
+海信T68
+七喜K6
+大显C186
+三星SCH-r311
+HONPhone X6
+三星I458
+朵唯D8
+熊猫GM968
+夏新S500
+CECT T150
+联想P60
+海信E90
+HKC Pearl
+摩托罗拉U9
+酷比A91
+酷比A66
+天语W656
+华硕P550
+华硕P750
+中兴U506
+联想A68e
+朵唯小乔C1
+阿尔卡特OT 520
+TCL MBO558
+TCL E39
+CECT C6800
+三星B2100
+三星T959（Fascinate 4G）
+CECT C828
+三星E1360C
+酷比i95
+天语W860
+海信T950（移动版）
+奥克斯V926
+三星707SC
+中兴U802
+欧新S86
+夏普SH831T
+阿尔卡特OT 306
+阿尔卡特V153
+三星A847
+酷派5930（电信版）
+三星E1117
+海信T9（移动版）
+中兴星星2号（G720C/电信4G）
+酷比i92
+海信HS-D867
+康佳E900
+神舟H45 T1
+三星C3303
+欧新S13
+酷派5876（电信版）
+奥克斯V929
+联想VIBE Z2w（联通4G）
+酷比智青春
+酷比A720
+中天520
+中天W900
+vivo Y11iw（联通版）
+欧新S12
+欧新H3
+LG KF305
+飞利浦680
+诺基亚6175i
+天语V209
+夏新A320
+清华紫光UNIS U100
+NEC N840
+欧新H5
+三星NORi
+明基Royal
+酷派5010
+酷比E71
+摩托罗拉Q8
+诺基亚7205
+诺基亚3606
+诺基亚1606
+摩托罗拉FR68
+HKC C880
+HKC E880
+HKC Mythos神话
+HKC G908E
+HKC QQ
+HKC Ti-HD虎蜥
+HKC Smart精灵
+TCL IDOL 3（4.7/移动4G）
+HKC 305
+HKC Mythos2
+HP iPAQ h6365
+HTC S610d（纵横）
+HTC Desire 510
+西铂V998
+诺基亚3710a
+天语A615
+LG G Pro Lite Dual
+诺基亚5230 Nuron
+三星R880
+三星W599
+HTC Dream G1
+Acer E110
+飞利浦X603
+飞利浦X503
+TCL IDOL 3（5.5/移动4G）
+诺基亚6760s
+飞利浦X523
+HP iPAQ h6315
+诺基亚635
+摩托罗拉XT603（Admiral）
+摩托罗拉ME501（CLIQ XT）
+酷派D23
+联想E212
+康佳D603
+西门子CX65
+Acer Liquid E700
+Acer E140
+普莱达D2828
+普莱达D156
+三星W299
+夏新E601
+LG G650
+LG G850
+LG W800
+三星M580（Replenish ）
+三星SGH-P518
+海尔M290
+联想ET10
+夏新F30
+康佳D570
+康佳7860
+Acer Liquid E3
+LG P355
+大可乐2S（32GB/旗舰版）
+飞利浦892
+联想E217
+三星I859
+海信C118
+华为Mate（1GB RAM/移动版）
+TCL J326T
+三星SGH-P308
+三星T108
+海尔M390
+海尔U58T
+联想A307
+Acer Liquid Jade
+Acer Liquid X1
+飞利浦X100
+小辣椒3S（LA3-W）
+飞利浦F511
+飞利浦630
+联想E602
+天语U91T
+海信U909（联通版）
+海信C170
+海信T81
+联想ET180
+诺基亚Lumia 920T（移动版）
+三星SGH-D828
+HTC One E8 Eye
+天语U81t（移动版）
+中恒S10
+三星C414Y
+三星SGH-D520
+三星C5010
+三星C6620
+海信C198
+海信C117
+海信HS-D210
+海信C677
+三星R330
+摩托罗拉MT710
+中兴U900
+酷比MUSE3（M3）
+康佳V66
+酷派8809
+天语Touch 2w
+华为T550+
+三星C3350
+诺基亚C2-02
+诺基亚C2-07
+索尼爱立信K618i
+海信G511
+海信M618
+波导8289
+HONPhone X1
+诺基亚C2-08
+摩托罗拉W562
+诺基亚C2-06
+诺基亚N91（8GB）
+酷比N91
+邦华I6
+酷派8016
+vivo E5
+邦华N20
+索尼爱立信W580c
+青橙丽影F1
+波导V8
+飞利浦X528
+亿通S100
+飞利浦X116
+酷派D510
+天语E329
+索尼爱立信G900
+三星C3528
+金立GN330
+索尼爱立信W200c
+天语D5100
+天语F6219
+天语E66
+索尼爱立信W850i
+天语A635
+天语F6209
+天语M610
+酷比K200
+索尼爱立信T618
+步步高i328音乐手机
+飞利浦T910（移动版）
+夏普SH800M
+索尼爱立信K880i
+Sonim XP5300
+LG KP502
+魅族MX5 Pro（移动4G）
+阿尔卡特OT 986 飞驰版
+阿尔卡特OT 986+
+索尼爱立信W100i（Spiro）
+海信E956Q（电信版）
+联想A630e（电信版）
+金立GN705T（移动版）
+TCL S810
+TCL C993
+飞利浦S508EG（电信版）
+金立A760
+TCL A998
+TCL Y900
+华为U8680（MyTouch）
+华为Y360（联通3G）
+TCL 臻智 S900
+华为G530
+华为荣耀+（C8950D/电信版）
+海信HS-C199
+中兴Grand S（N988/电信版）
+三星S8000H
+小米入门机（移动3G）
+夏普945SH G
+康佳V980
+TCL S520
+TCL A988
+TCL S820
+TCL W939
+三星T939
+三星GALAXY Round（G910）
+欧博信A19
+LG GD880
+小米Arch（移动4G）
+夏普SH802UC
+康佳W970
+联想300
+TCL D768
+金立N99
+TCL Idol X+（S960T）
+夏普SH006
+夏普SH6328C
+酷比i90
+酷比MUSE（M2）
+诺基亚6235
+康佳蓝极星JL926
+LG GD888
+LG GD880mini
+康佳V926
+三星S5680
+邦华V90
+TCL P606T
+夏新F201
+TCL D668
+TCL D920
+LG C100
+三星D908i
+Google Nexus One（C）
+三星GALAXY S5 Active（G870）
+Google Project Ara模块手机 2
+诺基亚1255
+欧盛W7（双卡版）
+欧盛W7（加强型）
+欧盛W7（基本型升级版）
+华为U8660
+欧盛E62
+欧盛W7（时尚版）
+欧盛X6
+HOT HD958
+欧盛X7（青春版）
+欧盛寸草心C100
+三星SGH-X838
+LG E2
+金立C700（电信版）
+三星GALAXY Grand Max
+港利通KP810T
+三星阿玛尼Galaxy S
+华为G606（移动3G）
+朵唯S620（QQ定制版）
+欧新L5
+中兴U281
+金立T7
+邦华N33
+华为U8650（Sonic）
+纽曼H6
+飞利浦X510
+三星F218
+中兴Amigo
+华为U8730
+步步高i266
+摩托罗拉ZN300
+三星W799（金爵）
+步步高V206
+黑莓Kopi
+联想E520
+欧新H16
+金立V708
+金立GN715（双4G）
+金立GN206（移动版）
+华为C3105
+LG Nexus 5（32GB）
+纽曼H2
+金立Q808
+LG P990（白色）
+欧新L18
+亿通L310
+亿通E311
+飞利浦W8560
+步步高i628
+飞利浦V8526
+三星GALAXY J（N075T）
+联想TD106
+联想A180
+HTC 8S（A620d/电信版）
+HTC 8X（C620d/电信版）
+诺基亚900 Hydra（C网）
+LG Leon（移动4G）
+三星SGH-U100
+三星GALAXY A8（移动4G）
+现代HD268
+现代Y66
+现代H780
+现代Y20
+现代H6
+现代H9
+飞利浦X806
+黑莓9370
+联想TD16
+摩托罗拉MB508
+三星E2550
+三星SGH-D838
+三星E2652
+三星E220（GALAXY Pop/8GB）
+三星Jack
+摩托罗拉ME502（Charm）
+华为T9510E Ascend D1 四核 XL
+TCL S800
+华为荣耀+（U8950D/联通版）
+三星E848
+飞利浦X815
+华为U8812D（Ascend G302D）
+魅族MX（四核/16GB）
+酷派8730（移动版）
+夏新F90
+诺基亚Lumia 920（联通版）
+三星W830
+三星C5130
+三星M2710C
+LG Rumor Touch
+诺基亚7705
+TCL 728
+三星S5610
+三星B5702C
+飞利浦T3566（移动版）
+华为G309T pro
+小米M4（特别版/移动4G）
+海信E968（电信版）
+华为C2856
+诺基亚6255
+三星SCH-W379
+三星SCH-X989
+三星SGH-X168
+黑莓8707v
+三星SGH-X808
+三星SGH-X518
+TCL J630
+三星SGH-X478
+三星L258
+三星GALAXY Ace Plus
+诺基亚8910i
+三星S8000c
+三星I908E
+BFB F2910
+三星S8000
+三星SGH-E788
+三星I8000（Omnia II）
+金立GN106
+黑莓8707G
+OPPO X905（Find 3）
+三星SGH-E428
+TCL J600T
+三星SGH-E628
+朵唯D30
+三星S5820
+诺基亚8910
+金立Q1
+三星Function
+联想i950
+三星SCH-X919
+三星SCH-F399
+三星M519
+金立GN109
+黑莓Storm 3
+三星B189
+三星SGH-E758
+TCL J630T
+三星SGH-E648
+迪比特5188
+华为C8550
+三星S5670（Galaxy Fit）
+TCL 晚美（H916T/移动3G）
+三星D988
+三星S8500（2GB）
+LG G3（D855/国际版/3GB RAM）
+华为C5070
+三星M550
+金立GN137（移动版）
+酷比A109
+索尼爱立信T280i
+三星SGH-X608
+vivo Y28V（电信4G）
+金立E7T（GN9002/双3G）
+索尼爱立信W20（Zylo）
+中兴R580
+诺基亚X3-02
+三星B5712C
+宇达电通MIO A501
+三星S3500C
+闻尚V88
+三星W709
+中兴S189
+TCL idol X（S950）
+三星F639
+三星F278
+三星C3050C
+三星C5530
+亿通M228
+三星S6812C
+TCL S500
+LG Optimus F7
+LG Nexus 4（LTE版）
+三星M5650U（劲乐）
+三星A180S
+三星S5603
+三星S7250D（Wave M）
+三星Wave 525（La Fleur）
+阿尔卡特One Touch Idol
+三星F689
+三星M609
+TCL Idol X+（S960）
+TCL idol X（S950T）
+三星S5260
+三星Wave 833
+三星S5250
+华为Ascend D2（D2-0082/16GB）
+华为U8350（Boulder）
+三星B7510（Galaxy Pro）
+Acer E210
+步步高i536
+康佳D550
+三星I917（Focus）
+康佳D380
+阿尔卡特One Touch Scribe Easy
+阿尔卡特OT 990M
+阿尔卡特OT 980
+阿尔卡特One Touch Snap LTE
+阿尔卡特One Touch Snap
+康佳D363
+康佳D4000
+康佳D335
+HTC Desire 400
+华为U9500（Ascend D1）
+HONPhone M558金宝马
+华硕A50
+三星I708
+中兴S2004
+三星I687（Focus 3）
+TCL A990
+苹果iPhone 4（8GB/联通版）
+夏普SH530U
+三星M340S（Galaxy M）
+西门子6688i(国际型号:SL45i)
+三星S8530（Wave II）
+三星B5330（Galaxy Chat）
+三星B7620U
+三星A797
+三星A200
+HONPhone 008-IIIM金汗马
+华硕PadFone Infinity Lite
+三星A110
+三星A597
+三星Galaxy Tab 7.7 P6800
+HTC S510b（倾心）
+TCL A996
+北斗青葱N3
+北斗青葱 1391
+技嘉G1315
+三星I997（Infuse 4G）
+HTC Z710t（灵感）
+三星B7610（Omnia Pro）
+北斗青葱X1
+HONPhone 008-VI（虹双喜）
+华硕PadFone Infinity（32GB）
+华硕PadFone X
+HONPhone 008-III金汗马版
+HTC EVO 4G LTE
+三星Galaxy Tab 7.0 Plus P6200(16GB版)
+ZOPO ZP100
+TCL A986
+联想S2（豪华版）
+海信ET919
+技嘉G1305
+技嘉S1205
+技嘉G1317
+HTC A9191（渴望HD）
+技嘉G1310
+小辣椒红辣椒青春版
+技嘉G1317S
+华硕The new PadFone Infinity
+技嘉G1317D
+技嘉G1345
+技嘉G1350
+技嘉G1355
+ZOPO ZP200
+TCL S600
+TCL A968
+联想A760t（移动版）
+联想X1m
+ZOPO ZP500（libero 自由人）
+索尼爱立信Xperia Acro
+天语E99
+三星S6802（GALAXY Ace Duos）
+飞利浦W820
+摩托罗拉A1200E（明）
+摩托罗拉SLVR L72
+摩托罗拉SLVR L71
+三星SGH-F490V
+诺基亚N87
+三星S8600（Wave 3）
+三星GALAXY W（移动4G）
+LG P920（Optimus 3D）
+三星E251C
+Altek Leo
+Altek T8680 HD
+Altek A806HD
+联想S750
+TCL J936D（电信版）
+天语E88（电信版）
+飞利浦X525
+酷比N60
+摩托罗拉L7
+三星I5508
+三星W309
+三星S6888
+诺基亚N75
+三星W9705
+三星W319
+萨米SN7100
+Acer X960
+Acer E101
+酷派7296S
+天语T556
+HONPhone A399
+联想A390e
+索尼S36h（Xperia L）
+三星I5800（Galaxy 3）
+中兴N910
+三星SCH-W399
+三星S3650C
+三星W9600
+中兴N600
+萨米S6-i1
+大Q Q1+
+中兴N600+
+锋达通873
+锋达通C837
+锋达通875
+锋达通E838
+锋达通872
+天语T566
+锋达通C876
+三星I5801
+锋达通D695
+锋达通C838
+三星A250
+中兴U9810（移动TD-LTE版）
+中兴N606
+大Q 雷霆战机（移动3G）
+诺基亚625（单卡版/联通版）
+夏普SH-06B
+摩托罗拉XT865（DROID Bionic）
+锋达通C858
+中兴Memo 5S LTE（国际版/N5L）
+天语D179
+酷派N68
+OPPO X909（Find 5/32GB）
+夏普SH805UC
+三星A667
+锋达通695
+诺基亚E72（紫色版）
+夏普936SH
+酷派728
+夏普SH9210C
+现代H899
+摩托罗拉WX265
+三星Conwoy
+三星SGH-L770
+锋达通C867
+欧博信C18
+天语T590
+三星S5750E
+摩托罗拉A1210
+锋达通830
+诺基亚E72i（导航版）
+夏普SH-08A
+海尔A67
+三星M8800
+LG C330
+金立M280
+飞利浦C700
+三星I677（Focus Flash）
+三星SCH-F609
+魅族MX（双核/16GB）
+三星T679（Exhibit II 4G）
+三星S8200
+海尔X73
+摩托罗拉A1260
+三星I8350（Omnia W）
+三星I8330 H2
+摩托罗拉XT806（麒麟）
+康佳K60
+ZOPO ZP900H（Leader 领袖）
+诺基亚1508
+三星W799
+三星S5233
+中兴V956（Blade E/联通版）
+NO.1 S3
+NO.1 S4（双核豪华版）
+LG KE998
+摩托罗拉DROID 2 R2-D2
+摩托罗拉i897 Ferrari Edition
+LG KF600（维纳斯）
+锋达通C808
+诺基亚103
+诺基亚Ayxta
+诺基亚Vertu Ascent X
+华为Ascend D8（联通4G）
+诺基亚Vertu Signature 锦光
+诺基亚Vertu Signature 醍醐
+中兴N818（电信版）
+Runbo X5（电信版）
+尼彩A3
+LG E900（Optimus 7）
+飞利浦S399
+大显DH-620
+天语Q720
+天语A7720
+夏新DS6
+摩托罗拉E1070
+金鹏S8555
+TCL J310
+三星I9200
+朵唯WG900
+诺基亚Vertu Signature 菊水
+Acer Liquid S1
+海信N51
+Runbo X3（电信版）
+索尼Xperia Z4 Music（移动4G）
+LG Optimus M
+索尼L35h（Xperia ZL）
+酷派T66
+LG P693
+天语S506
+三星R380
+创维T802
+天迈T18
+TCL J730U
+TCL J706T
+金鹏6198
+诺基亚610（联通版）
+金鹏S3506
+金鹏S4155
+金鹏A1918
+酷派8180
+华为T2002
+摩托罗拉DEFY XT（XT535/1GB）
+三星GALAXY S6（G9208/移动4G）
+酷派5832
+索尼爱立信T628
+TCL S606
+LG GX500
+酷派5855
+天语E619
+HTC G9（Aria）
+诺基亚510
+HTC A9188（天玺）
+康佳T600
+斐讯i800（挚爱）
+金鹏A5886
+金鹏A7616
+夏新A3
+诺基亚6610
+中兴S202
+华为T2012
+华为T5900
+华为T8008
+HTC Shadow
+酷派N916
+天语E619+（电信版）
+HTC HD mini
+摩托罗拉DEFY XT
+金立M103
+三星E958
+联想A590
+联想P330
+摩托罗拉v60
+中兴S302
+三星E169
+OPPO R823T（移动版）
+阿尔卡特OT 800
+金立C605（电信版）
+酷派D520
+OPPO Ulike2（U705T/移动版）
+金立GN105
+金立C500（电信版）
+中兴N600H
+三星V208
+金鹏S6896
+华为Y220T（移动版）
+摩托罗拉V998C
+金鹏S8533
+阿尔卡特One Touch Net
+海信U960Q（联通版）
+诺基亚1108
+金立C900（电信版）
+三星SGH-F200
+三星I728
+三星J608
+康佳G206
+明基EL71
+康佳6301
+HTC s715e（惊艳）
+LG KP160
+欧新U1
+HONPhone M568（甲壳虫）
+三星SGH-C218
+夏普SH6220C
+三星S3600C
+华为C8655
+华为C2829
+步步高i589
+康佳A96
+康佳D316
+康佳V906
+康佳U615
+康佳L77
+康佳巧音M910
+康佳蓝极星L1103
+康佳蓝极星LX21
+康佳D720+
+康佳C619
+夏普SH9020c
+夏普SH7110C
+华录S850
+三星S3601C
+魅族M8 SE（8G）
+酷派9930
+步步高K106
+酷派288
+康佳D306
+联想MA309
+飞利浦X518
+朵唯iEva D7
+康佳佳音M910
+中国移动M701
+HTC One XC（X720d/16GB）
+高新奇C2401
+诺基亚5800i
+华录N3600
+夏普SH1810C
+华录E3200
+金立GN380
+酷派9900
+华录E5700
+华录S9500
+三星GALAXY Ace Plus（S7500）
+LG P936（Optimus True HD LTE）
+三星GALAXY S6（G9209/电信4G）
+朵唯iEva D900
+酷派5211（电信版）
+酷派5210S（电信版）
+中兴N760
+中兴N780
+华为Ascend G6（移动版）
+诺基亚5800XM（精英版）
+华为C7600
+三星W509
+夏普SH803T
+金立GN320
+Acer S300（Iconia Smart）
+TCL C995
+三星Galaxy Note（I889/电信版）
+酷派9070+XO（电信版）
+LG P930（Nitro HD）
+三星I907
+金鹏S5811
+天勤T630
+摩托罗拉XT531（Domino+）
+金立GN135
+夏新A628
+三星GALAXY A6（移动4G）
+苹果iPhone 4（16GB/联通版）
+HTC G17 EVO 3D（白色）
+酷派K1（5952/电信4G）
+HTC One V
+TCL J900C（电信版）
+摩托罗拉ME511（FlipOut）
+戴尔Mini 3v
+戴尔Wirgley
+华为Honor 荣耀（U8860/联通版）
+三星A927
+三星D600
+欧博信A78
+HONPhone 008-VI（电影院）
+金立GN160T（移动版）
+戴尔Hancock
+三星GALAXY Note 5 edge
+戴尔Millennium
+戴尔Streak Pro D43
+联想V707
+21克M2C（移动3G）
+黑莓8520
+TCL S530T
+海信X8C（电信4G）
+Acer Liquid E1（V360）
+华为Ascend D2（WP8版）
+三星I8750（ATIV S/16GB）
+酷派6018
+酷派6168H
+三星I7500U
+金立GN168T（移动版）
+三星GALAXY Grand 3
+华为荣耀3C（1GB RAM/电信3G）
+戴尔Streak pro 101DL
+联想E616
+中兴N790
+联想S530
+欧新U6
+欧新U7
+欧新U2
+Acer Liquid e
+康佳T6100
+奥克斯M909
+三星I7680（奥斯卡）
+欧新U98
+欧新T3
+欧新U8
+酷派2938（时尚版）
+海尔N620E（电信版）
+酷派7360
+酷派7005
+海信EG968
+欧新H6
+欧新U9
+欧新U16
+Acer Liquid e（法拉利版）
+奥克斯V900
+欧新T6
+HTC A320e（渴望C）
+vivo Y1
+TCL P606
+中兴V6700
+港利通K668
+中兴V16（电信2G）
+夏新F101
+夏新S532
+纽曼F2
+iwoo i600
+奥克斯Z3
+港利通KP283
+飞利浦Xenium 9@9i
+港利通QB8688
+大显M9
+三星W589
+索尼爱立信S002
+诺基亚3110c
+酷比K5
+康佳D263
+三星GALAXY S4 Zoom
+天语W70
+天语W68（联通版）
+天语V5（大黄蜂Touch）
+唯科V688
+iwoo i526
+iwoo i528
+iwoo i800
+飞利浦9@9g
+唯科V636T
+唯科A10
+诺基亚3105
+唯科V808
+康佳D720
+康佳D330
+唯科T16
+唯科A30
+唯科A8
+唯科V80
+唯科D139
+BFB F2600
+BFB F2900
+奥克斯M910
+华为U8655（Ascend Y200）
+Seals TS3
+BFB T2
+BFB F6030
+唯科V118
+唯科V90
+唯科V398
+唯科V868
+唯科D136
+唯科V528
+BFB F5600
+BFB H766
+BFB F2700
+索尼爱立信K790c
+LG CT810（钢铁侠）
+三星B6520（Omnia Pro5 ）
+飞利浦W6350
+OPPO X903（Find）
+奥克斯M699
+联想P800
+LG KV700（棒棒糖）
+泛泰Vega No.5
+泛泰Crossover
+泛泰Breakout
+BFB W9260
+BFB W9600
+BFB W9800
+BFB W9100
+泛泰Burst
+泛泰A820L
+泛泰A880s
+联想i318e
+联想P518e
+联想i310e
+纽曼F28
+摩托罗拉XT611
+三星F619
+三星GALAXY Note（I9220/白色）
+影驰嘉乐派SETTLER α(移动4G)
+东信EG670
+CECT F16
+锋达通C839
+中兴N855D
+现代H580
+东信ES2100
+联想ET700
+LG T505
+华为T2311
+摩托罗拉MT820
+东信EA118
+东信EA809
+东信EA138
+东信EA188
+天语E339
+摩托罗拉XT806lx
+飞利浦D812（电信版）
+飞利浦D613（电信版）
+三星SHC-Z100S
+NEC N910
+港利通KB366
+港利通KC558
+港利通KC858
+中兴Link
+港利通KW799
+港利通KC899
+港利通KB658
+港利通KB553
+三星GALAXY SII（I9100/32GB）
+黑莓7100
+苹果iPhone HD
+金鹏CV12
+金鹏V8900
+金鹏A2879
+金鹏S8108
+港利通K818
+金鹏A8866
+金鹏S2918
+华为U8661（Sonic+）
+华为U9510E
+港利通简韵KP285
+港利通P6880
+尼彩W800
+尼彩A718
+尼彩LT16（移动TD-LTE）
+齐乐T800
+齐乐E550
+夏新M535
+三星C6712（Star II）
+西门子Xelibri 4
+万利达K17
+齐乐T500
+齐乐7070
+齐乐7690
+齐乐7810
+华为U9510（Ascend D1 四核）
+齐乐3660
+齐乐E51
+齐乐A4
+三星SCH-M709
+黑莓inPulse
+西铂N560
+VEVA S90
+CECT C600
+西门子Xelibri 1
+CECT GS860
+CECT T800
+诺基亚3030
+三星SGH-D428
+三星S6102（Galaxy Y Duos）
+三星S6812i
+三星Galaxy S（I9000/16GB）
+三星I560
+ZOPO ZP950
+100+ 雷鸟手机
+CECT V180+
+VEVA A201
+西铂X990
+VEVA A309
+夏普FX
+西门子Xelibri 3
+诺基亚T7-00
+飞利浦T8566（移动版）
+诺基亚5700XM
+三星GALAXY Grand DUOS
+诺基亚X7
+邦华F3
+联想A560e
+100+ 100A
+HTC 侧滑
+HTC Touch Pro
+三星I927（Galaxy S Glide）
+摩托罗拉XT720（Milestone）
+摩托罗拉XT702（里程碑）
+OBEE i828
+摩托罗拉V3(冰蓝)
+摩托罗拉KRZR K3
+摩托罗拉KRZR K2
+vivo S12
+OPPO Ulike2（U705W/联通版）
+联想E319
+酷派5313S（电信4G）
+联想A380e（电信版）
+LG VX9100 enV2
+飞利浦X713
+联想P700i
+联想A318t（移动版）
+为美M8
+酷派5820
+联想A790e（电信版）
+中兴V788D
+摩托罗拉V3(银色简装)
+摩托罗拉V3(粉色)
+金立A380
+酷派5110
+中兴Q5-T（双4G）
+酷派7260
+酷派8150D（移动版）
+中兴V790（联通版）
+摩托罗拉V3ie
+三星I8510
+为美M9
+为美V6
+为美Z5
+飞利浦X516
+诺基亚6650
+三星S5580
+酷派A520
+金立GN787
+金立GN777E（电信版）
+酷派5216D（电信版）
+酷派7260+
+夏普SH-10C
+夏普SH905i
+摩托罗拉Milestone（里程碑）
+ZOPO ZP950H
+天语W700（联通版）
+摩托罗拉Bullet
+摩托罗拉DROID（移动4G）
+飞利浦X810
+诺基亚6290
+夏新S525
+小米米Phone
+唯科V138
+HONPhone M558
+酷派5216（电信版）
+HONPhone 008-3M（青雅）
+LG P970（Optimus White）
+HTC One M8si（双4G）
+摩托罗拉V8（2GB黄金）
+摩托罗拉AURA钻石版
+金立V200
+摩托罗拉V3
+飞利浦T939（移动3G）
+金立I9
+金立V306
+金立H90
+金立A350
+金立L39
+金立CBE70B
+金立S520
+OPPO R827T（移动版）
+酷比V909
+大可乐2X
+三星F480
+天语A7713
+LG GT550
+诺基亚N97i（精英版）
+联想K900（16GB）
+Acer Liquid Z4
+索尼爱立信Z520C
+小辣椒红辣椒（移动4G）
+金立V5300
+酷派炫影S 8720（移动版）
+天语T619+（移动版）
+联想A630（联通版）
+夏普SH9120C
+夏普SH-06D
+酷派5315（电信3G）
+联想A830（联通版）
+大可乐2
+大可乐2S（4GB/精英版）
+诺基亚8250
+酷比小S
+网尔W700
+LG canU XOXO
+邦华I3
+诺基亚5800W
+诺基亚C5-03
+诺基亚N76
+酷派T60
+诺基亚X6（16GB）
+联想3GC101
+夏普SH-01D
+摩托罗拉A768
+联想3GW101(增强版）
+联想3GW100
+摩托罗拉W220
+诺基亚8310
+诺基亚8210
+诺基亚Asha 503（单卡版）
+联想S708
+LG GU220
+邦华I7
+邦华E3
+联想P80
+金立U83
+康佳V976
+天语B2202
+联想A2800d（移动4G）
+酷派8810
+三星GALAXY S Duos（I919）
+三星I5700（Spica）
+阿尔卡特OT 919
+OBEE 656
+摩托罗拉XT701（里程碑）
+夏普SH7228U
+夏普002SH
+LG KG119
+LG GB280
+联想V80
+中兴Blade VEC 4G
+夏普SH810UC
+夏普SH809UC
+夏普SH7218T
+诺基亚7500Prism 水晶版
+中兴N798（电信版）
+云狐J4
+三星I408
+云狐J5
+云狐J-Pad
+三星I8000U
+中兴N700
+摩托罗拉XT500
+小辣椒LA-M2（电信版）
+LG KG928
+LG G Flex 2（移动4G）
+摩托罗拉EM35
+飞利浦W736（联通3G）
+三星B5210U
+夏普SH807UC
+三星S5560（特别版）
+黑莓9530
+联想A208t（移动3G）
+vivo V2
+LG KE508
+金立M1
+LG C320
+诺基亚N97mini
+诺基亚700（Zeta）
+诺基亚C6（音乐版）
+诺基亚3125
+诺基亚C2-05
+华为U8652
+OPPO A115K
+索尼爱立信J10（Elm）
+步步高V312
+vivo Y11（移动3G）
+VINUS V8
+步步高V205
+步步高i289c
+步步高i270
+步步高i518
+HTC A315c（野火）
+华为U8500
+HTC G8（Wildfire）
+华为T8100
+诺基亚2220s
+华为U8180 X1
+华为Impulse 4G
+HTC T3333（Touch 2）
+诺基亚6500s
+步步高K27
+诺基亚7380
+艾美讯E30
+波导V18
+三星I900（16GB）
+Acer Liquid E600
+诺基亚N73（探索版）
+中兴R516
+酷派D518
+Microsoft Lumia 435
+纽曼H8
+诺基亚1616
+诺基亚X1-00
+诺基亚X1-01
+诺基亚X2-05
+三星W279
+Microsoft Lumia 540（联通3G）
+联想TD50t
+艾美讯智心M810
+艾美讯Q7
+三星I900（8GB）
+艾美讯M820
+Microsoft Lumia 940 XL
+Microsoft Lumia 840 XL
+Microsoft Lumia 840 （移动4G）
+Microsoft Lumia 1530（移动4G）
+Microsoft Xbox One Phone
+诺基亚2030
+Microsoft Lumia 835（移动4G）
+vivo S7
+vivo Y19t（移动3G）
+LG GT500
+飞利浦C600
+中兴U712
+中兴Grand Era（v985）
+中兴U219
+飞利浦W186
+飞利浦9@9q
+诺基亚6600
+诺基亚3100
+诺基亚N72
+诺基亚207
+诺基亚N70
+诺基亚3230
+诺基亚N73
+OPPO A115
+OPPO A90
+三星I6410
+OPPO P51
+联想黄金斗士A8
+酷派E506
+华为Android G3
+中恒M8
+中兴R519
+诺基亚6630
+诺基亚2626
+诺基亚3120
+诺基亚2323c
+索尼爱立信C901
+摩托罗拉EX223
+索尼爱立信V640i
+步步高i268音乐手机
+诺基亚1208
+诺基亚1280
+诺基亚8600
+诺基亚8900
+诺基亚8800a（黄金版）
+中兴R182
+中兴R518S
+中兴R519C
+诺基亚8800A
+三星E1200R
+OPPO U539
+OPPO A520
+LG KF350 冰淇淋
+步步高i269
+三星GALAXY SIII（I535/16GB）
+华为Ascend P2
+华硕飞马手机（X003/电信4G）
+LG G3 Cat.6（F460/移动4G）
+索尼爱立信J108i
+索尼爱立信J105i（Naite）
+索尼爱立信W660i
+OPPO A121
+诺基亚C1-00
+诺基亚2610
+诺基亚E5x
+索尼爱立信W800c
+三星A777
+诺基亚7280
+HTC HD2（T版）
+HTC G6（Legend）
+TCL P306C 
+苹果iPhone 3GS（16GB）
+HTC Dragon（G5）
+OPPO A105K
+OPPO A100
+苹果iPhone
+金立GN205
+酷派7295（联通版）
+诺基亚1030
+诺基亚Lumia 1820
+索尼爱立信W700c
+三星U600
+邦华N310
+邦华N380
+CECT 2630
+CECT 770
+CECT i5
+CECT i3
+CECT 9968
+CECT 929
+CECT 8809
+CECT 1168
+CECT X189
+诺基亚1000
+诺基亚7100s
+诺基亚Lumia 850（概念机）
+诺基亚N95 车充版
+酷派8070（移动版）
+大可乐春（移动4G）
+中兴V880
+诺基亚6101
+CECT C1800
+三星I6500U
+CECT C1000
+CECT W100（YAMI）
+CECT A01
+三星E1113C
+酷派7019
+LG GT500s
+酷派8020+（移动版）
+中兴U889
+三星T959V（Vibrant 4G）
+酷派8070D（移动版）
+中兴U960s
+酷比S2（移动4G）
+邦华TL1000
+酷比A3
+三星I8268（移动版）
+摩托罗拉W362
+联想S760
+酷派8150（移动版）
+小辣椒双核
+酷派7019A
+中兴U930（移动版）
+海尔W718 小潜艇（360特供机）
+海尔N87T
+TCL T355
+海尔E80
+海尔I710（移动版）
+海尔I816（移动版）
+海尔Mirror（360特供机）
+海尔W850
+海尔A6
+中兴U520
+摩托罗拉MT810lx
+联想S790
+闻尚i5
+天语W686
+三星GALAXY S（I9008L）
+中兴U215
+海尔N8T
+海尔U66T
+联想TD80t
+LG GW880
+中兴U816
+天语T760（移动版）
+中兴Q501T（移动版）
+小米Mione 1S（M1S电信版）
+小米M2（Mi2/电信版）
+华为Honor 荣耀
+摩托罗拉XT800w
+摩托罗拉XT800
+飞利浦W632
+小米M3（Mi3/电信版）
+小米M4（3GB RAM/联通4G）
+摩托罗拉Droid 2 Global
+天语T580
+摩托罗拉E6
+TCL J320（联通版）
+HTC 8X（C620e/联通版）
+天语D175
+LG Isai VL
+诺基亚N81（8GB）
+诺基亚5200
+诺基亚5300
+HTC G7（Desire）
+飞利浦W6500
+富可视M310
+中兴U806
+中兴U808（移动3G）
+联想i328TD
+中兴Q101T（移动版）
+三星GALAXY J1（J100/联通3G）
+三星I909（Galaxy S）
+中兴N983（电信版）
+三星Galaxy S2 Mini
+nubia Z5 Mini（NX402）
+摩托罗拉MB611（CLIQ2）
+诺基亚1680c
+摩托罗拉Droid 2
+HTC S740
+摩托罗拉XT862（Droid 3）
+HTC T9199（双擎）
+诺基亚N97
+苹果iPhone 4S（白色）
+诺基亚5800W（导航版）
+酷派7500
+夏普SH-04B
+LG GD580 棒棒糖
+夏普SH009
+中兴V966
+三星T989（Hercules）
+三星I727
+三星I9103（GALAXY R）
+LG KC910e
+三星T759（Exhibit 4G）
+三星I809（Galaxy S）
+HTC Inspire 4G
+诺基亚6220c
+亿通I12（移动4G）
+亿通I95（移动4G）
+三星D710（Epic 4G Touch）
+亿通P1
+LG L40
+天语A902
+诺亚信5320
+诺基亚N900
+诺基亚3080
+中兴U879（移动3G）
+创维SE69
+和信D10
+摩托罗拉Droid X（ME811）
+三星GALAXY Core Plus
+海尔W820
+夏普SH010
+HTC Knight
+天语T621（移动版）
+联想A378t（移动版）
+联想A630t（移动版）
+联想A305e（电信版）
+三星B7620
+诺基亚6120c白色
+诺基亚6120ci
+诺基亚C5-00
+华为C5720
+华为Ascend G350
+诺亚信W799
+诺亚信6730D
+中兴E850
+华为C8000
+联想A356
+诺亚信W680
+诺亚信S650
+纽曼M15
+诺基亚5208
+OPPO R817
+中兴U795+（移动版）
+诺亚信W600
+诺亚信A600
+诺亚信N79
+华为Y523（移动4G）
+诺基亚C5-00i
+金立V180
+诺基亚5330
+酷派9250L
+三星S5270
+诺基亚2020
+HTC Titan
+OPPO R833T（移动版）
+纽曼2610
+纽曼P6
+中兴V880+（Blade II）
+联想A800（联通版）
+阿尔卡特Miss Sixty 2
+夏普007SH
+HTC A810e（Chacha）
+夏普SH7218U
+夏普SH9010C
+华为T2281
+联想A600e（电信版）
+黑莓9550（Verizon）
+创维PE89
+创维T585
+创维V798
+创维P818
+摩托罗拉C201
+创维PE90
+创维T558
+创维V688
+夏新E78
+阿尔卡特Miss Sixty
+夏新F620
+夏新E850
+康佳7500
+创维酷开M200
+黑莓9530（电信版）
+黑莓9520（Storm2）
+创维T718
+LG ice cream smart（联通3G）
+海信T960（移动版）
+三星I9105P（GALAXY SII Plus）
+诺基亚1120
+天语W806
+LG P970（Optimus Black）
+夏新E72
+夏新A310
+夏新A10
+夏新F99
+夏新DA8
+诺基亚7373
+ZOPO 小黑C2（黑色版/4GB）
+夏新A200
+Acer E200（L1）
+诺基亚N86（限定版）
+索尼爱立信K858c
+中兴V965（联通版）
+诺基亚PureView 808
+邦华N320
+LG smile
+夏新M550
+酷派8122（移动版）
+中兴U880
+诺基亚7370
+HTC T328d（新渴望VC/电信版）
+HTC T328t（新渴望VT/移动版）
+ZOPO 小黑C2（白色版/16GB）
+ZOPO 小姿C3
+HTC T329w（联通版）
+夏普101SH
+夏普IS11H
+夏新S600
+HTC T320e（One V/微博版）
+金立V105
+金立V560
+多普达D9000
+诺基亚C7-00
+诺基亚C3-01
+诺基亚5000
+诺基亚5130XM
+诺基亚N92（TV）
+诺基亚515（单卡版）
+诺基亚702T
+神舟X50
+诺基亚801T
+诺基亚C6-01
+飞利浦I966
+索尼爱立信Satio
+索尼爱立信U10i（Aino）
+黑莓8120
+摩托罗拉A910
+HTC P3600i
+大显HC8002
+高新奇E958
+高新奇S91
+高新奇Q1
+高新奇ES608
+高新奇S92
+高新奇N81
+高新奇M58
+高新奇H86
+高新奇G1
+海信NANA（E260T+/电信3G）
+LG LS720（Optimus F3）
+酷派9960（大观HD/电信版）
+HTC T528d（One SC/电信版）
+LG G3国际版（D857/双4G）
+三星E1200M
+华为Ascend P1 S
+CECT C1600
+夏新F56
+金立GN700T（移动版）
+波导AE750
+金立E107
+高新奇H25
+金立GN705W（联通版）
+三星S6102E
+摩托罗拉T2988
+金立V106B
+华为Y330-C00（电信版）
+索尼爱立信E10i（X10mini）
+索尼爱立信W902
+索尼爱立信C901（环保版）
+索尼爱立信U1i（Satio）
+IUNI i1（泡芙小姐/双4G）
+三星Ativ SE（W750V）
+HTC One S（Z560e/微博版）
+HTC One X（S720e/G23/32GB）
+HTC One M9 Mini（移动4G）
+HTC HD2
+三星F659
+三星SGH-F500
+三星SGH-X828
+HTC One E9（E9t/双4G）
+三星S5520
+索尼爱立信W580i
+华为Y516（移动3G）
+华为G610T（移动版）
+索尼爱立信W380c
+索尼爱立信U20i（X10mini Pro）
+索尼爱立信U5i（Vivaz）
+步步高i508
+索尼爱立信W995c
+摩托罗拉V8
+索尼爱立信T707
+索尼爱立信W715c
+索尼爱立信W898c
+中兴DM （Q2S-T/移动4G）
+酷派DuoFun（双趣）
+酷派W700
+现代I799
+酷派F650
+酷派N950
+酷派D550
+联想A65
+索尼ST21i（Xperia Tipo）
+联想S686
+天语V8
+中兴Q802T（移动4G）
+索尼爱立信X5（Pureness）
+诺基亚Kinetic概念机
+OnePlus One 
+OnePlus Two（移动4G）
+诺基亚5233
+诺基亚E75
+中兴T7
+摩托罗拉C119
+三星Galaxy Mini（I559）
+LG LU6200（Optimus LTE）
+摩托罗拉XT883（里程碑3）
+LG G Flex（D958）
+华为Ascend G700T（移动版）
+华为Mate（2GB RAM/联通版）
+三星GALAXY Trend Duos（S7562）
+三星S3970
+三星C3520
+诺基亚7070
+诺基亚2720a
+HTC J（Z321e）
+三星Galaxy Ace Dear
+中兴N880S
+三星GALAXY Y（S5368）
+三星GALAXY Y（S5360）
+华为S8600 Spark（火花）
+华为Honor 荣耀（U8860）
+21克M2（移动3G）
+三星GALAXY J1（增强版/移动4G）
+酷派8190（移动版）
+波导T810
+三星U820
+LG GX2 （VS880）
+神舟T850
+中兴Q7-C（电信4G）
+TCL P518L（电信4G）
+酷派春雷HD（7298A/联通版）
+联想A805e（电信4G）
+HTC Desire 816G
+联想笋尖S90（S90-e/电信4G）
+联想S720i（升级版）
+OPPO R811W
+联想A60+
+LG G3（D859/电信4G）
+海尔TV001
+康佳V908
+华为T6300
+三星S5300（Galaxy Pocket）
+华为U8800（X5）
+华为U8510（X3）
+摩托罗拉Droid Mini（国外定制）
+摩托罗拉MB886（ATRIX HD）
+飞利浦W7376
+诺基亚6700s
+摩托罗拉RAZR V锋芒
+魅族MX4 Pro（移动4G）
+天语S5t（移动版）
+天语W95（联通版）
+vivo Y929（电信4G）
+锤子T1（双4G）
+天语U8
+天语W760
+联想A60
+天语S5（联通版）
+酷派7268（联通版）
+联想A606（联通4G）
+LG P940（Prada 3.0）
+华为荣耀7（标准版/移动4G）
+中兴U795（移动版）
+中兴V889F（Blade III Pro）
+中兴V889D
+中兴V889M
+联想A308t（移动3G）
+天语T619（移动版）
+天语W780
+诺基亚610
+海信U8（联通版）
+联想A708t
+联想P780（联通版）
+OPPO R805
+OPPO R811（移动版）
+摩托罗拉E8
+诺基亚5320XM
+索尼爱立信K818c
+索尼爱立信W888c
+三星I5700（升级版）
+酷派5860S（电信版）
+酷派5218D（电信版）
+联想S870e（电信版）
+小辣椒红辣椒Note（移动4G）
+海信U9
+苹果iPhone 3GS（32GB/联通版）
+小辣椒X3（LA3-L/移动4G）
+小辣椒4（LA4/移动4G）
+酷派7296（联通版）
+索尼爱立信X10i
+索尼爱立信MT11i
+索尼爱立信LT18i
+索尼爱立信ST18i（Xperia ray）
+索尼爱立信LT15i（Xperia Arc）
+天语W619（联通版）
+华为C8650
+天语E800
+LG GD310
+OKWAP A306
+黑莓8910（移动版）
+黑莓9350
+Sonim XP1300
+三星SCH-W539
+酷派8150S（移动版）
+酷派8736（移动4G）
+酷派7020（联通版）
+天语U86（大黄蜂Kiss/联通版）
+三星S3370
+酷派7230
+酷派7266
+天语W719（联通版）
+LG KH8000
+联想A860e（电信版）
+黑莓8900（Curve）
+黑莓9300
+黑莓8900（移动版）
+三星GALAXY Mega 7.0
+中兴U880E（移动版）
+夏新N820（360特供机）
+HP iPAQ 912
+HP K3
+HP iPaq Glisten
+HP Opal
+HP Stingray
+HP Veer 4G
+微软Pink Buddy Phone
+三星B5510（GALAXY Y PRO）
+摩托罗拉MC5574
+摩托罗拉XT907（DROID RAZR M）
+摩托罗拉XT926（DROID RAZR HD）
+夏新N821（360特供机）
+HTC T329d（电信版）
+摩托罗拉Droid Ultra
+摩托罗拉Moto G（8GB）
+摩托罗拉XT875（Droid Bionic）
+摩托罗拉XT910（RAZR锋芒）
+黑莓Curve 9380（Orlando）
+中兴U956（移动3G）
+黑莓9850（Monaco Touch）
+诺基亚928（Verizon版）
+小米MI-ONE Plus（M1联通版）
+摩托罗拉W766
+HONPhone V7
+联想MA388
+飞利浦W732
+多普达D600
+摩托罗拉EX226
+多普达595
+华为C8300
+华为U1280
+LG MS840（Connect 4G）
+黑莓9700（白色）
+摩托罗拉XT910 MAXX
+索尼爱立信P1c
+摩托罗拉MT917
+飞利浦X130
+索尼爱立信M608c
+摩托罗拉RAZA 3（Ruby）
+波导V10
+索尼爱立信W958c
+创维T868
+黑莓9900（4G）
+多普达C750
+黑莓9800（Torch）
+中恒G9
+三星I8160（GALAXY Ace 2）
+诺基亚710
+诺基亚620
+诺基亚900
+诺基亚8208i
+诺基亚800C
+诺基亚822
+中兴R518
+AGM A88（尊贵版）
+AGM V5
+联想S2
+夏普E06SH
+Getac PS236
+卡西欧GzOne TYPE-X
+多普达S910
+seals VR7
+酷派8089（移动3G）
+大神F1青春版（8297D/移动3G）
+酷派8720L（移动4G）
+华为Ascend W3
+联想S858t（移动3G）
+TCL Z88
+HONPhone W8（智睿）
+飞利浦X622
+飞利浦W725
+三星N270
+飞利浦W626
+Palm Pixi（G）
+创维T780
+Palm Pixi 2
+Palm Elan
+Palm Tiger+
+Palm pre
+Palm Pre（G）
+HP Veer
+Palm Pre Plus
+摩托罗拉ES400S
+VOTO V6600
+多普达Dragon（海宝）
+多普达S910W
+多普达A8188（如意）
+三星SGH-P318
+LG P698
+多普达F3188
+多普达T3333
+多普达T5388w
+多普达S900c+
+多普达A9199
+多普达A6188W
+HTC T9188（天玺）
+多普达S900（Touch Diamond）
+多普达S1
+HTC A7272（Desire Z）
+多普达T8588
+多普达A6388（天姿）
+三星GALAXY SIII（T999）
+三星P318奥运限量
+飞利浦W8578
+卡西欧CA005
+多普达P860
+多普达S900c
+黑莓9670
+三星Galaxy Nexus（I9250）
+多普达T8288（Touch HD）
+东芝G900
+多普达S505
+金立A3
+HTC Imagio XV6975
+三星Galaxy S（I9000/8GB）
+HTC A6390（天姿）
+中兴E160
+三星Nexus S（I9020）
+HTC T327t（移动版）
+联想A850+（联通版）
+金立E3（联通版）
+HTC T8698（7 Mozart）
+诺基亚610C
+美图1（联通3G）
+诺基亚719C
+小米红米（移动版/4GB）
+苹果iPhone 4S（电信版）
+vivo X5（蓝宝石版/移动4G）
+酷派8295（移动版）
+Palm Pixi
+HP Pre 3（16GB）
+卡西欧IS11CA
+三星E1182
+三星GALAXY S5（国际版/联通3G）
+三星F539
+VOTO B5800
+VOTO V5500
+HTC 7 Trophy（T8686）
+黑莓9860（4G）
+小米M2（Mi2/32GB）
+VOTO P6500
+VOTO B5200
+VOTO I3520
+VOTO i2300
+VOTO T6000
+TCL A890
+VOTO W5300
+VOTO W6100
+诺基亚X6（32GB）
+LG A190
+LG GX300
+步步高i531
+小辣椒I2
+诺基亚6720c
+金立H8
+诺基亚X3
+诺基亚C5-01
+夏普SH6320C
+黑莓8310（移动版）
+黑莓8310
+黑莓9500（移动版）
+华为F561
+黑莓8700
+黑莓8820
+飞利浦W715
+金立W368
+三星S7568（移动3G）
+三星S7898（移动版）
+金立A690
+酷比MAX
+金立TD218
+诺基亚N97（精英版）
+诺基亚N8（精锐乐动版）
+金立H66
+HTC 7 Trophy（C网）
+金立M500
+华为Ascend GX1
+乐视超级手机Max（X900/电信4G）
+富士通Arrows Z（ISW11F）
+富士通Arrows prototype
+富士通F12Arc
+金立W360
+金立U3
+金立U2
+金立TD105
+富士通Arrows X LTE
+富士通Arrows ES
+富士通Arrows Kiss
+HTC first
+金立A800
+金立M506
+东芝T-02D
+vivo X1St（移动版）
+乐目128
+乐目129
+乐目138
+乐目861
+金立W109
+中兴Grand Memo II
+中兴V5（N9180/电信3G）
+酷派8017-T00（移动4G）
+LG P720（Optimus 3D MAX）
+Acer S500（Cloud Mobile）
+酷派8076（移动版）
+酷派8071（移动3G）
+vivo S11t（移动版）
+nibiru 火星一号（H1）
+康佳V981（凡高/16GB）
+康佳P3（移动4G）
+金立GN708W（联通版）
+金立天鉴W808
+诺亚信W599
+诺基亚6700c（黄金版）
+金立W106
+金立V109
+联想A816（联通4G）
+诺基亚N86
+LG Lucid 4G
+LG BL20e（New Chocolate）
+索尼爱立信U100i（Yari）
+诺基亚7230
+三星GALAXY Trend II
+三星GALAXY Ace 3（S7275）
+三星GALAXY Ace 3（S7270）
+TCL S850
+酷派W708
+邦华V7
+三星GALAXY Ace 3（S7272C）
+联想A390t（移动版）
+金立L600
+三星I9050（移动版）
+LG VS920（Spectrum）
+酷派5890（电信版）
+神舟灵雅L50（联通4G）
+神舟灵雅Q50（双4G）
+神舟灵雅F50（电信4G）
+神舟V5（移动4G）
+nibiru 火星一号（H1c/探索版）
+华为Ascend P2 Mini
+神舟E50 T1
+夏新N828（大V王子版）
+OPPO X907(Finder)
+蜗牛W 3D（双4G）
+乐视超级手机1 Pro（电信4G）
+酷派Y60-W（联通4G）
+酷派8085（移动3G）
+LG T325
+酷派8079（移动3G）
+中兴U930HD（移动版）
+三星I699i
+三星GALAXY Ace Dear（I619）
+OPPO X909（Find 5/移动版）
+索尼爱立信Xperia Play Z1i
+华为C8813D（电信版）
+TCL P301M（移动4G）
+酷派全新7295（7295C/联通版）
+中兴Q509T（移动4G）
+HTC G14（sensation）
+HTC G11（Incredible S）
+乐目126
+vivo Xplay（16GB）
+LG Optimus L9 II
+LG GD910
+LG Optimus Vu（P895/国际版）
+LG Leaf
+联想A780e（电信版）
+联想A750e（电信版）
+联想A388t（移动3G）
+乐视超级手机Max（X900/双4G）
+海尔W910（360特供机）
+OPPO 弧面玻璃手机（移动4G）
+索尼Xperia Curve（移动4G）
+金立GN600
+飞利浦W8568（联通版）
+联想A916
+诺基亚E71X
+黑莓P'9981（knight）
+摩托罗拉XT502
+诺基亚515（双卡版）
+中兴N880E
+三星B9062（移动版）
+华为C8812+
+中兴U960E（移动3G）
+索尼Xperia M4 Aqua（移动4G）
+神舟H45 T3
+酷派8702D（移动4G）
+中国移动M811
+三星GALAXY Ace 4
+TCL P516L（电信4G）
+小采G6
+德赛魔镜X5（移动4G）
+小米红米1S（联通版/8GB）
+HTC Tide
+橙石小哇（移动4G）
+小采X9
+斐讯P660L（双4G）
+Acer Liquid Jade S（联通3G）
+Acer Liquid Z410（联通3G）
+Acer Liquid M220（联通3G）
+Acer Liquid Jade Z（移动4G）
+Acer Liquid Z520（联通3G）
+Acer Liquid Z550（联通3G）
+Acer Liquid Z220（联通3G）
+Acer Liquid X2（移动4G）
+夏新N818
+中兴Grand X（V970）
+首派A80t
+索尼Xperia Z4 Compact
+纽曼N1
+OPPO 3000（联通4G）
+华为U8836D（G500 Pro 闪耀）
+魅族魅蓝（高配版/移动4G）
+夏新N850
+夏新大V2代（A920T/移动版）
+夏新A918T（大V青春版）
+小辣椒M3（移动版）
+康佳E5670
+经纬Gnote2
+尼彩A600
+夏新N90
+sonim A3
+金立W601
+华录S800
+vivo Xplay 5
+索尼Xperia Z2 Ultra
+索尼Xperia Z4 Ultra
+sonim A2
+HONPhone C360
+HONPhone C660
+HONPhone C900
+小辣椒3（LA3-W/联通版）
+华为G730-C00（电信版）
+康佳W990
+飞利浦D633（电信版）
+ZOPO 小白C1
+索尼VA-10J（移动4G）
+泛泰PG3200
+联想S668T（移动3G）
+联想S658T（移动3G）
+诺基亚E63
+黑莓Q5
+黑莓8320
+诺基亚E71（酷黑尊贵版）
+诺基亚E71
+华为C8813Q（电信版）
+华为G610C（电信版）
+中兴N919（电信版）
+华为C8817L
+康佳W810
+黑莓9930
+黑莓9790（Bellagio）
+黑莓9330
+黑莓9650
+黑莓9000
+黑莓9900
+黑莓9788
+黑莓9780
+天语大黄蜂4G（Touch 1/移动4G）
+黑莓8980
+天语Touch 3（移动4G）
+天语Touch 3w（联通4G）
+天语W68a
+天语Touch V
+天语Touch II（TD-LTE版）
+天语E67（电信3G）
+联想A396
+联想A3（联通3G）
+天语C960t（移动版）
+黑莓8520（移动版）
+酷派5200S（电信3G）
+诺基亚521（T-Mobile版）
+诺基亚520T（移动版）
+海信X6T（移动TD-LTE版）
+三星GALAXY Trend 3（G3502C）
+OPPO X909（Find 5/16GB）
+诺基亚N8
+vivo Y3t（移动版）
+HONPhone H5018
+华为Y635-CL00（电信4G）
+联想A880（联通3G）
+HTC Desire 526（移动3G）
+大神F1（8297-C00/电信4G）
+中兴A880（小鲜/电信4G）
+中兴大Q（Q801L/电信4G）
+小辣椒红辣椒（电信4G）
+诺基亚3020
+诺基亚E72i
+诺基亚E72
+sonim 保时捷9521
+中兴Geek II Pro（TD-LTE版）
+诺基亚E6
+诺基亚N79
+诺基亚E52（导航版）
+三星S5200C
+诺基亚N78
+诺基亚E55
+华为C8817E（电信4G）
+华为C8816D（电信版）
+联想S820（联通版）
+21克M1S
+联想A560
+中兴Q503U（联通3G）
+酷派7251（联通3G）
+TCL 么么哒3N（M2U/双4G）
+TCL 么么哒（P728M/移动4G）
+TCL Hero N3（Y910）
+魅族MX2（16GB）
+小米M2（Mi2/16GB）
+金立E6mini
+78点P01
+飞利浦W8355
+TCL i718M（移动4G）
+中兴memo 5S（联通版/V5S）
+美莱仕MX86+
+美莱仕MX69
+美莱仕MX69T Pro
+美莱仕MX28
+美莱仕MX59
+美莱仕MX70
+美莱仕Note Pro
+亿通P2（移动4G）
+飞利浦D833（电信版）
+HTC T329t（移动版）
+Microsoft 215
+诺基亚Lumia 1520
+HTC One M8（WP版/联通3G）
+诺基亚N96
+桔子F4
+桔子F1+
+桔子My Touch
+桔子G3
+桔子F22
+美莱仕MX58 Pro
+美莱仕MX58T
+美莱仕MX58
+天语C666t（移动版）
+苹果iPhone 4S（联通版）
+桔子F9
+三星透明手机（联通3G）
+酷比H1S（移动4G）
+酷比Halo（H2/移动4G）
+华为荣耀3C（2GB RAM/移动3G）
+酷比MAX3（移动4G）
+酷派大观4mini（8908/移动3G）
+诺基亚Lumia 920
+夏新大V2代（A920W/联通版）
+酷比M1L（移动4G）
+TCL P500M（移动4G）
+摩托罗拉ME632（Pro+）
+飞利浦W9588
+诺基亚N93i
+诺基亚E90
+中兴U791（移动版）
+Microsoft Lumia 640（双4G）
+诺基亚636（联通TD-LTE版）
+华为T8950N（移动版）
+联想S850t（移动3G）
+酷派7270（联通版）
+小米3S
+TCL 么么哒（S725T/移动3G）
+IUNI U2（16GB）
+尼彩A700
+神舟灵雅X55 Pro（移动4G）
+华为G520-0000（联通版）
+三星GALAXY J7（J7008/移动4G）
+黑莓Z3 LTE
+黑莓Oslo（联通3G）
+黑莓P9983（联通3G）
+黑莓Z3
+黑莓Z20（移动4G）
+黑莓Q10
+酷派7270-W00
+黑莓Z30
+ZOPO 小黑2
+ZOPO 黑鹰
+ZOPO 新秀
+ZOPO A3
+ZOPO 小黑3X（双4G）
+诺基亚820
+HTC Desire 5088
+索尼LT26ii（Xperia SL）
+索尼LT22i（Xperia P）
+诺基亚Asha 503（双卡版）
+三星S6818
+中兴U793（移动版）
+先锋E70w
+佳域G2F
+华为Ascend G6（联通版）
+小米红米Note（特别版/1GB RAM）
+富可视M2（双4G）
+先锋E60w
+神舟X50TS
+HTC Desire 6160（双卡/联通版）
+摩奇G2
+神舟H80
+三星GALAXY Mega 5.8
+神舟T845
+天语S2
+中兴U817（移动3G）
+LG Fx0（移动4G）
+三星GALAXY J5（J5008/移动4G）
+vivo Y15
+华为Y511（联通版）
+大神F1 Plus（8297-W01/联通4G）
+索尼M36h（Xperia ZR）
+索尼Xperia T2 Ultra
+HTC A3360（野火）
+金立GN810
+诺基亚630
+酷派8705（移动4G）
+诺基亚XL
+华为Y635-TL00（移动4G）
+华硕ZenFone 5（A500KL/联通4G）
+华为G521（移动4G）
+酷派K1（7620L/联通4G）
+神舟小信3S
+大可乐小可乐（16GB/旗舰版）
+TCL J929L
+联想P70（移动4G/1GB RAM）
+亿通雷神I9
+酷派7061 （联通3G）
+OPPO R831S（移动4G）
+HTC Desire D816h
+LG L22
+华为Y320（联通版）
+华为Y321C（电信版）
+华为Y300（U8833/联通版）
+vivo X3F（联通4G）
+中兴N909（电信版）
+三星I8258（移动版）
+三星S5830i
+联想K860
+联想A820e（电信版）
+联想VIBE X2 Pro（双4G）
+HTC Desire 820 Mini
+神舟X60TS（双3G）
+THL V8
+索尼ST27i（Xperia go）
+LG Wine Smart
+LG L60
+小米红米1S（8GB/移动3G）
+诺基亚530
+诺基亚X2
+诺基亚Lumia 830
+诺基亚Lumia 930（联通3G）
+华为G621
+华为G660（G660-L075/移动4G）
+金立GN128
+Runbo X6（联通版）
+Runbo Q5（全能版）
+邦华TL6000（移动4G）
+邦华TL100（移动4G）
+邦华N19
+邦华N25
+邦华U9（移动4G）
+酷派5200（电信版）
+酷派5217（电信版）
+酷派5311（电信版）
+联想A338t（移动3G）
+联想S820e（电信版）
+三星GALAXY S5（G9008V/移动4G）
+华为Ascend P6 S（16GB/联通3G）
+摩托罗拉Moto E
+三星GALAXY Core 2（G3556D）
+苹果iPhone 8（移动4G）
+苹果iPhone 6C（移动4G）
+苹果iPhone 6S Plus（移动4G）
+苹果iPhone 5S（电信3G）
+苹果iPhone 5S（联通3G）
+苹果iPhone 5C（双3G）
+苹果iPhone 5S（移动4G）
+苹果iPhone 4（8GB）
+三星W899
+苹果iPhone 4S（64GB）
+苹果iPhone 4S（32GB）
+黑莓P'9982（联通3G）
+先锋S90w
+先锋E71t
+先锋E81t
+先锋M1（移动4G）
+先锋E82L（移动4G）
+诺基亚XL（移动4G）
+manta 7L（双4G）
+诺基亚Lumia 735（联通3G）
+诺基亚1100（新版/联通3G）
+诺基亚Lumia 1320
+诺基亚301（单卡版）
+诺基亚220（双卡版）
+TCL f210
+诺基亚301（双卡版）
+邦华TL500
+nibiru 木星一号（M1）
+先锋P80w
+乐目V9
+HTC Desire 816（816t/移动4G）
+三星G3858（GALAXY Beam 2）
+云狐A8（联通3G）
+联想A385e（电信版）
+中兴Q507T（移动4G）
+小辣椒红辣椒（任性版/双4G）
+三星GALAXY A3（A3009/电信4G）
+TCL 续航+（P618L/电信4G）
+nubia Z5S（全网通）
+LG P760（Optimus L9）
+三星GALAXY S4（I9507V/联通4G）
+索尼Xperia E3
+LG G3 Stylus
+诺基亚Lumia 730
+中恒SX1
+奥克斯V990（四核至尊版）
+联想A328T（移动3G）
+苹果iPhone 5（32GB）
+华为Mate 7（高配版/电信4G）
+联想A505e（电信3G）
+SUGAR 马卡龙时尚手机
+VEB V2（钛合金尊贵版）
+三星W2015（电信4G）
+VEB 微铂W1
+VEB V2（尊尚版）
+天语W610
+TCL i110
+索尼D2203
+索尼Xperia E4g（移动4G）
+奥克斯T6100（移动3G）
+锤子T1（联通3G）
+奥克斯I5
+奥克斯I6T
+索尼Xperia M2（S50h）
+MANN Q2 老爷子
+MANN ZUG 1
+sonim A8
+华为荣耀3（Outdoor/联通版）
+乐目V7H
+MANN ZUG 5S（全网通）
+MANN ZUG 3
+MANN ZUG S
+邦华N31
+POMP 菜刀 C6 Mini
+POMP 菜刀 C6S Mini
+LG Optimus G Pro（F240K）
+中兴星星2号（G720T/联通4G）
+金立E7L（2GB RAM/移动4G）
+三星W2014（电信3G）
+三星B9388（移动3G）
+三星G9092（联通版/大器Ⅲ）
+三星G9098（移动3G）
+E人E本M1（双4G）
+联想A320T（移动4G）
+联想A516（联通3G）
+联想A360
+联想A368T（移动4G）
+联想A380t（移动4G）
+中兴Grand S II
+三星GALAXY A7（A7009/电信4G）
+三星GALAXY E7（E7009/电信4G）
+索尼Xperia Z2（L50t/移动4G）
+摩托罗拉Moto MAXX（联通4G）
+三星GALAXY S5（G9009D/电信3G）
+veaka ONLY U（普通版）
+苹果iPhone 6（国际版/双4G）
+大可乐3（移动4G）
+三星E339（电信3G）
+TCL i310+
+中兴L530g
+100+ 爱奇艺手机（移动3G）
+TCL P550U（联通4G） 
+酷比Halo（H3/移动4G）
+神舟T950
+金立E5（移动3G）
+小辣椒5 Pro（移动4G）
+华硕PadFone Mini
+酷派8702（移动4G）
+三星G3518（GALAXY Core 4G）
+奥克斯i6L（移动4G）
+华硕T45（T001/移动4G）
+锤子C1（双4G）
+LG Nexus 8（移动4G）
+TCL P331M（移动4G）
+三星GALAXY Note 4 S-LTE
+苹果iPhone 6 Plus（全网通）
+摩托罗拉ROKR E2
+诺基亚210（双卡版）
+三星GALAXY Trend 3（G3502U）
+SOYES H1
+中兴Grand Memo（N5/双3G/16GB）
+TCL i310
+飞利浦X3560
+飞利浦X5500
+HTC One（802d/双卡/电信版）
+华为荣耀畅玩4X
+联想A788t（移动4G）
+联想A5800-D（移动4G）
+大神X7 Max（移动4G）
+大神F1极速版（全网通）
+大神F1（8297/移动3G）
+大神Note（8670）
+摩托罗拉Z6
+大神1S（9976D/移动4G）
+邦华P1
+大神X7（8690/双4G）
+大神1S（9976T）
+华硕PadFone S
+华硕ZenFone 5 Lite
+纽曼小熊猫
+纽曼M29
+纽曼M9C
+纽曼锋芒K2（16GB）
+先锋E90w
+诺基亚106
+小采X6
+小米红米Note2（联通3G）
+vivo Y928（电信4G）
+vivo Y18L（移动4G）
+摩托罗拉Moto X 3（全网通）
+苹果iPhone 6 Plus
+OPPO U3（6607/移动4G）
+HTC One M8 Eye（M8Et/移动4G）
+云狐A6（联通3G）
+manta 7X（双4G）
+纽曼M28
+飞利浦V387
+飞利浦X1560
+三星E1202
+诺基亚225
+HTC Desire 626（公开版/双4G）
+HTC Desire 626（626t/移动4G）
+OPPO 1100（联通4G）
+三星GALAXY Win Pro
+联想A858t（移动4G）
+联想S860（联通3G）
+酷派S6（9190L/电信4G）
+小米红米1S（移动4G）
+魅族魅蓝Note（联通4G）
+海信X68T（移动4G）
+神舟E50 S1
+飞利浦W3500
+邦华V70
+POMP P8S（联通3G）
+大Q Q1
+小辣椒5（联通4G）
+nubia Z9（尊享版/全网通） 
+nubia Z9 Max（双4G）
+nubia Z9 Max（电信4G）
+nubia Z9 Max（全网通）
+三星GALAXY A3（A3000/双4G）
+华硕ZenFone 3（双4G）
+大神F2全高清版
+HTC Desire 709d（电信版）
+HTC Desire D316d（电信版）
+飞利浦T3500
+HTC Desire D516d（电信版）
+HTC Desire D516w（联通版）
+HTC Desire 7060（联通版）
+三星GALAXY S4（I9508V/移动4G）
+三星Galaxy S6 Active（移动4G）
+三星I759
+三星G3819D（电信版）
+三星I869（GALAXY Win/电信版）
+三星GALAXY Core Mini 4G
+三星S7572
+三星GALAXY Style DUOS
+小米M4（3GB RAM/电信4G）
+邦华F37
+诺基亚130
+小米M5（移动4G）
+vivo Y613F（联通4G）
+HTC One M9 Ace（移动4G）
+vivo Y29L（移动4G）
+vivo Y913（电信4G）
+vivo Y13
+vivo X5SL（移动4G）
+青橙VOGA V1（双4G）
+美图M4（双4G）
+takee 1（全息手机）
+金立V182（移动3G）
+华为G7105
+飞利浦V989（双4G）
+飞利浦E320
+金立V36
+飞利浦S316（双4G）
+飞利浦S356（双4G）
+飞利浦E180
+飞利浦E310
+飞利浦E350
+飞利浦I999（移动4G）
+联想A3800d（移动4G）
+金立A360
+金立A809
+飞利浦E130
+诺基亚107
+邦华N18
+飞利浦E121
+Microsoft Lumia 640 XL（双4G）
+诺基亚108（双卡版）
+飞利浦小飞侠
+黑莓Q20（Classic）
+魅族MX4（移动4G）
+酷派锋尚（Y76/联通4G）
+华为荣耀畅玩4X（移动4G）
+华为荣耀3C（1GB RAM/移动3G）
+小米红米2（升级版/移动4G）
+华为Ascend G6（电信版）
+华为荣耀畅玩版（移动3G）
+TCL P688L
+联想S930
+中兴V5S（N918St/双4G）
+中兴V5（U9180/青春版/移动4G）
+酷派8729（移动4G）
+华为Ascend G615（联通3G）
+飞利浦W3550
+酷派7320
+飞利浦S388
+中兴N980（电信版）
+TCL ono（P620M/移动4G） 
+中兴memo 5S（电信版/N5S）
+华为荣耀3X（G750-T00/双3G）
+亿通I7（移动4G）
+中兴青漾3（G719c/电信4G）
+夏新A955T
+大Q Note
+nubia Z7 Mini（NX507J/双4G）
+亿通P3
+HTC Desire 816（816w/联通3G）
+摩托罗拉Nexus 6
+中兴L580（移动/联通2G）
+华为Y365（联通3G）
+HTC Desire 619d（单卡/电信版）
+HTC T528t（One ST/移动版）
+HTC Desire 616（D616w）
+OPPO R830（联通版）
+中兴Grand Era（U985/移动版）
+三星I8552（GALAXY Win）
+HTC Desire 609d（电信版）
+诺基亚638（移动4G）
+HTC Desire 610t（移动4G）
+HTC Desire 606w（联通版）
+索尼LT28h（Xperia ion）
+夏普SH837W
+小米红米3（移动4G）
+小米Note（女神版/双4G）
+小米M4（2GB RAM/移动4G）
+小米M4（2GB RAM/电信4G）
+小米红米2S（移动4G）
+小米Note（特别版/双4G）
+小米红米1S（电信版/8GB）
+小米红米2（移动4G）
+奥克斯T6200L（移动4G）
+三星I8558（GALAXY Win/移动3G）
+飞利浦S308
+华为荣耀畅玩4（C8817D/电信4G）
+索尼LT28i（Xperia ion）
+小采X9+
+奥克斯T8300
+vivo Y23L（移动4G）
+小米红米（旗舰版/双4G）
+OPPO 1107（移动4G）
+vivo PD1541_66#
+OPPO N1 Mini（N5117/移动4G）
+中兴天机3（S2004/电信4G）
+OPPO R3（R7007/移动4G）
+OPPO R1C（R8200/联通4G）
+金立E6
+三星W999（电信3G）
+三星B9120（大器II/联通版）
+LG Optimus G Pro 2
+小辣椒红辣椒（联通版）
+飞利浦W930（联通3G）
+Runbo X6（全能版）
+vivo X3V（电信4G）
+金立S5.5（GN9000/双3G）
+美图2（联通3G）
+LG AKA（H778/全网通）
+LG G3（D855/国际版/2GB RAM）
+小辣椒7（LA7-L/移动4G）
+联想VIBE X2（X2-TO/移动4G）
+华为Mate 7（高配版/双4G）
+中兴Grand S II（双4G）
+金立S5.1（GN9005/移动4G）
+金立E6T（移动版）
+诺基亚108（单卡版）
+大神F2（8675-W00/联通4G）
+联想P70（移动4G/2GB RAM）
+诺基亚Lumia 925（16GB）
+华为Ascend P6（8GB/移动3G）
+酷派锋尚（Y75/移动4G）
+酷派新K1（移动4G）
+Microsoft Lumia 535（联通3G）
+中兴Geek（U988S/移动3G）
+中兴Grand Memo（U5/移动版）
+TCL 么么哒3N（M2M/移动4G）
+华为荣耀畅玩4X（联通4G）
+中兴V5 MAX（N958St/双4G）
+华为Ascend P7（电信4G）
+华为B199
+华为C199S（麦芒3S/电信4G）
+黑莓Z10
+TCL P689L（电信4G）
+飞利浦I928
+先锋K88L（移动4G）
+苹果iPhone 4S（8GB）
+诺基亚Lumia 1020（EOS/32GB）
+摩托罗拉Moto X（旧版）
+华为Ascend P6（16GB/电信3G）
+HTC Desire 820（D820t/移动4G）
+LG G3 Beat（D728/移动4G）
+OPPO 3007（移动4G）
+联想VIBE Z2 （移动4G）
+邦华TL3000（移动4G）
+三星GALAXY S4（I9500/联通3G）
+奥克斯T9100L（移动4G）
+先锋E91w
+LG G Stylo（移动4G）
+中兴DM （电信4G）
+LG G5（移动4G）
+LG G2（D802/16GB）
+LG G2 Mini（D620）
+LG G3（D858/移动4G）
+摩托罗拉Moto X Pro
+HTC Butterfly S
+HTC Desire 301e
+HTC One M8（M8w/单卡/联通4G）
+HTC Butterfly 2
+HTC One E9+（高配版/双4G）
+HTC One M8（M8t/移动4G）
+HTC One E9+（公开版/双4G）
+奥克斯V950
+索尼Xperia Z3（L55U/联通4G）
+HTC One M9（M9W/联通4G）
+HTC One M9+（双4G）
+HTC Desire 820（D820u/双4G）
+夏普SH930W
+纽曼纽扣（CM810/双4G）
+夏普AQUOS CRYSTAL
+夏普AQUOS CRYSTAL X（移动4G）
+联想黄金斗士S8（标准版）
+联想A360e
+联想A529
+诺基亚525（联通版）
+联想黄金斗士A8（A808T/移动4G）
+联想黄金斗士S8
+联想A688T（移动4G）
+联想黄金斗士S8（加持版）
+奥克斯W6
+奥克斯V920
+三星G3818
+金立E7（2GB RAM/联通3G）
+vivo Xshot（X710L/精英版）
+OPPO N1（16GB/移动3G）
+vivo Y927（电信4G）
+nubia Z7 Max（NX505J/全网通）
+华为Ascend G7（双4G）
+华为Ascend P6（8GB/联通3G）
+LG Nexus 5（16GB）
+金立GN709L（风华3）
+vivo Y27（移动4G）
+三星GALAXY E7（E7000/双4G）
+HTC Desire 826w（公开版/双4G）
+OnePlus One（移动4G）
+康佳P2（移动4G）
+大Q Q2（旗舰版/移动4G）
+联想Vibe Shot（Z90-3/移动4G）
+华为荣耀畅玩4X（电信4G）
+金立F301（移动4G）
+金立M3（移动4G）
+金立V183（移动4G）
+金立S7（GN9006/双4G）
+金立E8（双4G）
+三星SCH-X609
+诺基亚2060（双卡版）
+索尼爱立信P990i
+vivo X5L（移动4G）
+华为T2010
+索尼爱立信U8i（Vivaz Pro）
+索尼Xperia Z5（移动4G）
+索尼Xperia P2（移动4G）
+索尼Xperia T3（M50W/联通3G）
+索尼Xperia C3（S55T/移动4G）
+索尼Xperia E1 II（移动4G）
+索尼Xperia C4（移动4G）
+索尼Xperia Z3 Compact（M55W）
+索尼Xperia Z1 炫彩版
+索尼Xperia Z2（L50w/联通3G）
+索尼XL39h（Xperia Z Ultra）
+索尼Xperia Z3（L55T/移动4G）
+三星GALAXY S5（G9006V/联通4G）
+小米2S（16GB）
+华为T1201
+酷比Halo（H1/移动3G）
+nubia Z5S Mini
+金立GN706L（风华3 Mini）
+索尼Xperia Z1（L39h/联通3G）
+金立V188（移动4G）
+明基F5（联通4G）
+美莱仕MX69W
+nibiru 金星一号（J1/移动4G） 
+华为荣耀X1（7D-501u/联通版）
+酷派8707（移动4G）
+酷派锋尚Pro（Y90/移动4G）
+酷派双棒T1（电信4G）
+酷派大观铂顿（V1-C/电信4G）
+酷派Y1（电信4G）
+酷派8713（移动4G）
+酷派5316（电信4G）
+华为G6620
+酷派5951（电信版）
+中兴Q701C（电信版）
+酷派5891（电信版）
+大神F1 Plus（8297-T01/移动4G）
+朵唯T35
+朵唯iSuper S3（移动4G）
+朵唯倾城L1 mini（移动4G）
+朵唯T20（移动4G）
+朵唯逆客（移动4G）
+金立E7（3GB RAM/联通3G）
+朵唯iSuper S2（标准版）
+朵唯倾城L1（移动4G）
+三星GALAXY S5（G9006W/联通4G）
+联想A7000（移动4G）
+朵唯倾城L3C（移动4G）
+中兴小星星（S2003/移动4G）
+中兴Blade S6 Lux（移动4G）
+中兴Blade S6 Plus（联通4G）
+TCL J320T（移动版）
+中兴U807（移动3G）
+酷派8013
+摩托罗拉WX270
+LG KS360
+华为Ascend D7
+华为荣耀X2（高配版/移动4G）
+华为荣耀X2（精英版/双4G）
+华为P8 Lite（青春版/移动4G）
+华为P8（GRA-UL00/标配版/双4G）
+nubia Z7（NX506J/双4G）
+酷派ivvi S6（S6-NT/双4G）
+金立W800
+vivo X5Max（移动4G）
+GEAK Mars
+齐乐5200
+酷派8811
+中兴F870
+vivo Xplay3S（X520L/移动4G）
+华为Mate 7（标准版/移动4G）
+魅族MX3（移动3G）
+大神F2全网通（8675-A/全网通）
+魅族MX4（双4G）
+魅族魅蓝（移动4G）
+酷派5950（电信版）
+大神F2（8675-HD/移动4G）
+HTC 601e（One Mini）
+中兴星星1号（移动4G/16GB ROM）
+HTC X920e（Butterfly）
+华为G628（移动4G）
+青橙NX
+OPPO R1C（R8207/移动4G）
+LG GS101
+索尼Xperia Z3+ Dual
+酷比S1
+金立天鉴W900（双4G）
+小米M4（3GB RAM/移动4G）
+魅族魅蓝Note 2（移动4G）
+中兴Overture2（移动4G）
+联想黄金斗士S8畅玩
+三星Z3（联通3G）
+LG H735（移动4G）
+金立M4（海外版/移动4G）
+美猴王W2（双4G）
+联想Smart Cast
+海信I635T（电信4G）
+联想PB1-770N（全网通）
+小辣椒9（LA9-L/移动4G）
+ZUK Z1（移动4G）
+蓝魔Mos1（移动4G）
+神舟旗舰机（移动4G）
+联想乐檬K3任性版
+中兴Blade S6（电信4G）
+中国移动A1（移动4G）
+中国移动N1（移动4G）
+酷派ivvi 小i（移动4G）
+魅族魅蓝2（移动4G）
+优护Q5
+LG G4 Pro（移动4G）
+中国移动N1 max（移动4G）
+华为荣耀畅玩4X（全网通）
+小米红米2A（移动4G）
+TCL P332U+（联通4G）
+华为C8818（电信4G）
+sonim XP7700（XP7/双4G）
+索尼Xperia Z4（移动4G）
+LG Angler（移动4G）
+HTC WF5w（双4G）
+邦华V100（尊享版/移动4G）
+Microsoft RM-1133（联通3G）
+华为荣耀畅玩4C运动版
+Runbo F1（双4G）
+三星GALAXY J110（联通3G）
+YotaPhone 3（联通3G）
+YotaPhone 2C（联通3G）
+华硕Zenfone Selfie（联通4G）
+三星Project V（移动4G）
+三星GALAXY S6 Mini
+HTC Desire 820G+（双4G）
+TCL P332U（联通4G）
+nubia X8（移动4G）
+华硕ZenFone 2（5英寸/双4G）
+华硕ZenFone 2（6英寸/双4G）
+美猴王W1（移动3G）
+魅族魅蓝Note 2（电信4G）
+魅族魅蓝Note 2（联通4G）
+魅族MX5（移动4G）
+邦华U7（移动4G）
+TCL P501M（移动4G）
+酷派8712（移动4G）
+魅族MX4（Ubuntu版/双4G）
+vivo X5M（移动4G）
+SOYES M1
+SOYES S1
+TCL P335M（移动4G）
+奥克斯T1（移动4G）
+夏普AQUOS CRYSTAL 2（联通4G）
+TCL P316L（电信4G） 
+苹果iPhone Air（移动4G）
+TCL 么么哒3S（全网通）
+vivo Xshot（X710F/联通4G）
+HTC One ME（移动4G） 
+三星GALAXY S6 Edge Plus
+TCL P502U（联通4G）
+中兴Q519T（移动4G）
+金立M5（全网通）
+联想A6000 Plus（移动4G）
+小米Note（顶配版/双4G）
+苹果iPhone 7（全网通）
+苹果iPhone 5（16GB）
+联想K80（K80M/高配版/双4G）
+Lovme 爱米X19（移动3G）
+Lovme X51（移动3G）
+Lovme X18（移动3G）
+Lovme T6（移动4G）
+Lovme T9（移动4G）
+LG G4c（移动4G）
+海信K8（全网通）
+酷比S3（移动4G）
+华为Nexus 7（移动4G）
+SUGAR 2（SS136/双4G）
+TCL P308L（电信4G） 
+酷派锋尚Pro（电信4G）
+酷派锋尚Pro（全网通）
+摩托罗拉XT192A（移动4G）
+摩托罗拉XT1585（移动4G）
+摩托罗拉XT1578（移动4G）
+vivo X5Max（铂金版/移动4G）
+TCL P308M（移动4G）
+TCL 乐玩（P588L/电信4G）
+vivo Y923（电信4G）
+HTC One E9（E9t/移动4G） 
+富士通Arrows NX F-04G
+苹果iPhone 6S
+三星GALAXY A7（A7000/双4G）
+nubia Z9（经典版/全网通）
+HTC One M9 eye（联通4G）
+OPPO R7 Plus（移动4G）
+OPPO R7 Plus（电信4G）
+OPPO A31（A31c/电信4G）
+OPPO A51（移动4G）
+OPPO R2017（移动4G）
+OPPO R6007（移动4G）
+OPPO 1105（电信4G）
+魅族MX4 Pro（双4G）
+OPPO R5（R8107/移动4G）
+OPPO R7 Plus（全网通）
+米蓝M4_L1S（移动4G）
+索尼Xperia Z2（L50u/联通4G）
+三星GALAXY A5（A5000/双4G）
+中兴星星2号（S2005/双4G）
+HTC Butterfly 3（移动4G）
+富可视M810（双4G）
+乐视超级手机1 Pro（双4G）
+小米Note（双4G）
+金立X817
+nubia X6（TD-LTE版/2GB RAM）
+飞利浦S399（移动4G）
+HTC One M8（单卡/国际版）
+HTC Desire 7088（移动版）
+朵唯T90
+朵唯T60
+海信X1（移动4G）
+乐视超级手机1（双4G）
+三星GALAXY S6 Edge
+HTC A50AML（移动4G）
+华为SnapTo（移动4G）
+三星GALAXY S6（G9200/全网通）
+华为P8（GRA-UL10/高配版/双4G）
+魅族魅蓝Note 2（双4G）
+苹果iPhone 6（全网通）
+联想Vibe Shot（Z90-7/全网通）
+华为荣耀畅玩4X Pro（移动4G）
+华为荣耀7（高配版/移动4G）
+华为荣耀7（顶配版/全网通）
+摩托罗拉Moto X Plus（全网通）
+索尼Xperia Z4v（移动4G）
+康佳L3（移动4G）
+康佳L2（移动4G）
+黑莓Venice（移动4G）
+vivo Y13i（移动4G）
+三星GALAXY A9（移动4G）
+三星GALAXY H1（移动4G）
+三星GALAXY H7（移动4G）
+OPPO A11（移动4G）
+vivo Y33（移动4G）
+中兴S2010（移动4G）
+金立F303（移动4G）
+Acer Liquid Z630（移动4G）
+OPPO Mirror 5（移动4G）
+Fairphone 2
+nubia Z9S（全网通）
+联想K80（K80M/标准版/双4G）
+LG G4（H819/电信4G）
+华为荣耀Note（移动4G）
+魅族MX6（移动4G）
+LG Spirit（移动4G）
+LG Joy（移动4G）
+HTC One Max 2（移动4G）
+三星Z2（联通3G）
+中兴S2015（联通4G）
+华为荣耀7（标准版/联通4G）
+摩托罗拉Moto G 3（移动4G）
+中兴星星3号（移动4G）
+vivo X5Pro（双4G）
+华硕飞马手机（X002/移动4G）
+苹果iPhone 5S（双4G）
+苹果iPhone 6 Plus（移动4G）
+小米M4i（双4G）
+黑莓9630（联通版）
+华为T8600
+魅族MX4（国际版/双4G）
+魅族魅蓝Note mini（移动4G）
+华为Mate 7 Compact（移动4G）
+三星GALAXY E3（移动4G）
+三星Galaxy Xcover 3
+中兴Grand X Max+
+中兴Wrap Sync（移动4G）
+HTC Desire 320（联通3G）
+HTC A32（移动4G）
+中兴Blade S6（移动4G）
+三星G430（移动4G）
+Microsoft C1(移动4G)
+LG VW820（移动4G）
+中兴V5新旗舰
+三星G360P
+LG L25（联通3G）
+HTC Desire 820（D820ws）
+华为荣耀畅玩5X（联通3G）
+LG LS996
+酷派5109S（电信3G）
+LG Display
+LG L Prime
+LG Escape 2
+HTC Desire 612
+LG G3 Screen
+中兴KIS 3 MAX
+中兴ZMax
+LG Optimus G Pro 3
+酷派7625
+中兴Grand X Max（联通3G）
+华硕ZenFone 5.5
+酷派8715（移动4G）
+中兴Blade VEC 3G
+HTC A11
+三星G739F
+华为Y600D
+中兴Z970（移动4G）
+联想VIBE Z2 Pro Mini
+三星GALAXY Young 2
+华为荣耀3C（1GB RAM/联通4G）
+三星GALAXY SIII Neo（I9301i）
+三星G510F
+LG Uni8
+中兴Concord Ⅱ
+中兴Apollo
+中兴星星1号（尊享版/32GB ROM）
+三星GALAXY S5 LTE-A
+HTC One M8 Prime
+三星G110B
+酷派S6（联通TD-LTE版）
+苹果iPhone 5C（联通3G）
+三星G310
+酷派7610
+中兴Blade L2
+LG F70
+三星GALAXY S5 Neo（移动4G）
+中兴Grand S EXT
+三星GALAXY Ace Style LTE
+华为Ascend Sx
+联想K7T
+华为Ascend D3
+中兴N788
+联想A859
+Acer Liquid Z5
+诺基亚Lumia 1020（升级版）
+金立E6（联通版）
+魅族MX3（银翼版/联通3G）
+天语E80（电信版）
+HONPhone 008-VI（汗马尊贵版）
+天语D773
+LG KF750
+三星C3530（La Fleur）
+富可视IN810
+富可视IN610
+富可视IN310
+富可视IN320
+富可视IN260
+中兴Grand S II（移动3G）
+nubia X6（TD-LTE版/3GB RAM）
+索尼Xperia Z2a
+OPPO R3（ZOL定制版）
+神舟W50 T1
+魅族MX3S
+索尼Xperia Z1S
+诺基亚Asha 504
+OPPO R815W（联通版）
+诺基亚Lumia 1320（联通版）
+HTC Butterfly S2
+联想VIBE Z（K910/移动版）
+酷派8077（移动版）
+三星S6790
+HTC One max（803e/单卡）
+TCL J636D
+诺基亚RM-977
+诺基亚RM-964
+诺基亚R
+联想A620
+三星GALAXY Core Advance
+酷派8735（移动版）
+诺基亚Illusionist
+三星Z9005
+TCL J920
+TCL J926T（移动版）
+华为G718
+联想VIBE Z（K910/LTE版）
+诺基亚Goldfinger
+诺基亚Phantom
+金立C620（电信版）
+诺基亚Spinel
+诺基亚825
+酷比T650
+美莱仕MX20
+美莱仕MX36
+诺基亚730
+酷派9189T
+诺基亚Glee
+三星GALAXY S4 Active LTE-A
+HTC One max（单卡/国际版）
+HTC One max（双卡/普通版）
+诺基亚625（双卡版）
+TCL J320D（电信版）
+七喜U100
+酷比S610T（移动版）
+联想A519
+TCL J726T
+TCL J720
+诺基亚N9 Mini
+奥克斯V999
+诺基亚725
+诺基亚926
+诺基亚Rivendale
+华为Mate（2GB RAM/移动版）
+TCL S300T
+TCL S700T
+天语A7715
+康佳V99
+中兴N807（电信版）
+TCL J305T
+奥克斯M100
+金立GN880E（电信版）
+康佳凡高秘语 K5
+华硕PadFone Infinity
+小辣椒M1Y
+LG Optimus F6
+TCL J620
+TCL J900
+诺基亚P5238
+佳域G2
+诺基亚Lumia 920（廉价版）
+TCL J900T（移动版）
+邦华U2
+诺基亚729
+Acer T500
+三星L500
+三星GALAXY S4 Active（I9295）
+华为Ascend P3
+诺基亚750
+酷派8185（移动版）
+三星GALAXY Core
+三星I8550（GALAXY Win）
+TCL Y710（亲子机）
+酷派Quattro II 4G
+nubia Z5（NX501/16GB）
+OPPO X909（Find 5/联通版）
+邦华F33
+纽曼N2（战斗版）
+TCL A865
+三星GALAXY Trend II Duos
+小宇宙X1
+酷派8195（移动版）
+奥克斯V988
+经纬GnoteM
+Acer Liquid E2（V370）
+诺基亚RM-941
+诺基亚RM-943
+TCL D706
+小米2S（联通版）
+海信U950S（联通版）
+邦华TD800
+天语T800
+LG LS720
+酷比i93
+奥克斯V980T
+奥克斯V926T
+酷派6058（移动版）
+海信T908
+诺基亚1661
+金立GBW192
+金立CBT1805
+金立GBW870A（移动版）
+HTC One XT（S720t/16GB）
+中兴U880s2
+三星L288
+夏新N809
+海信TG88（移动版）
+天语E7
+小米1S（青春版/联通版）
+天语W621（联通版）
+金立GN107
+邦华N30
+金立C800（电信版）
+海信EG617
+联想TD800
+中兴U887（移动版）
+奥克斯V963
+三星S7566
+海信EG960
+天语TBW5933
+欧新S26
+齐乐E630
+金立GN138
+魅族MX2（64GB）
+ZOPO ZP300S
+TCL Y710
+HTC 8X（C620t/移动版）
+夏新N816（小V升级版）
+酷比大S（T500）
+奥克斯M909+
+邦华U3
+华为C8826D（G500C）
+邦华V3
+酷比A690
+联想A530
+金立GN205H
+HTC Touch Dual
+大显D9800
+ZOPO ZP200+
+ZOPO ZP300+
+ZOPO ZP500+
+ZOPO ZP500S
+ZOPO ZP900S
+夏普SH631W
+天语E760
+青橙Mars1（升级版）
+海尔H7
+天语C256
+诺基亚6020
+索尼ST21i（Xperia Tipo Dual）
+飞利浦T539（移动版）
+天语W689
+天语V6
+LG P870（Escape）
+酷派5230（电信版）
+中兴N8010（电信版）
+TCL W969
+苹果iPhone 5（联通版）
+酷比i55
+酷比T550
+诺基亚6021
+TCL D662
+奥克斯V960
+华为U9500E（Ascend D1 XL）
+小米M2（Mi2/联通版）
+小米Mione 1S（M1S联通版）
+三星S3570
+三星M830（GALAXY Rush）
+三星S6108（Galaxy Y POP）
+三星I8750（ATIV S/32GB）
+Acer E350（Liquid Gallant）
+金立C610（电信版）
+三星S5302
+LG US730（Splendor）
+华为Ascend P1（联通版）
+Acer AT390
+LG MS770（Motion 4G）
+酷比A209
+华为T7100
+摩托罗拉I867
+金立GN305
+ZOPO ZP900（Leader 领袖）
+小辣椒双核（I2C/电信版）
+酷比蝶恋花N69
+三星R940
+康佳E5680
+TCL E928
+摩托罗拉Smart
+联想乐Pad A2105
+邦华S39
+邦华N23
+金立GN100
+酷派5866
+天语S757
+邦华S31
+邦华M3
+BFB W9000+
+邦华E6
+邦华Q3
+三星OMNIA M（S7530E）
+酷比i60
+中兴U286
+夏新N807（小V）
+夏普Pantone 5
+魅族MX（双核/RE版）
+天语E650
+中兴U960D
+酷派7310
+亿通P30
+酷派8710（移动版）
+Acer E330
+Acer E350
+ZOPO field 领域
+三星OMNIA M（S7530）
+LG LS730
+华为Activa 4G
+天语E700
+天语W710
+天语U5
+酷比N62
+华为T8808D（Ascend G306T）
+经纬Gnote
+亿通S120
+亿通P609
+亿通L13
+诺基亚900（蝙蝠侠定制版）
+三星S720C（GALAXY Proclaim）
+华为C8820
+海尔W880
+天语W628
+康佳V920
+奥克斯M910+
+索尼LT30p（Xperia T）
+天语D8600
+中兴T82（Grand X LTE）
+三星S5380D（Wave Y）
+华为M886（Mercury）
+酷派6055
+三星I8740
+酷比A660
+联想MA308
+朵唯iEva D3
+朵唯iEva D770
+佳域X1
+华为U8651（Prism）
+索尼ST23i（Xperia miro）
+奥克斯M959
+中兴V6500
+中兴V8000
+中兴V961
+朵唯iEva D710
+康佳E5838
+联想A500+
+酷派1606
+三星T259
+三星A160S
+TCL i606
+朵唯D360
+中兴U885
+中兴N660
+HTC G15（Salsa）
+康佳F800
+中兴N882E
+天语V968
+三星OMNIA M（S759）
+LG P999 Optimus G2x（白色）
+华为U8832D
+联想MA190
+摩托罗拉XT550
+联想A200
+酷派S60
+三星B5712（金色版）
+苹果iPhone 3GS（16GB/联通版）
+摩托罗拉XT389
+摩托罗拉XT390（联通版）
+金立GN215
+天语W616
+LG T370
+海尔M520
+摩托罗拉Droid Bionic 2
+三星A887
+酷派D60
+华为7200
+诺基亚E72i（精锐导航版）
+摩托罗拉XT532（联通版）
+HONPhone WQ18
+TCL T255
+金立WBW6505
+LG T375
+酷比A92
+纽曼M9
+酷比A95
+酷比A52
+酷派6050
+三星A687
+三星A817
+三星P520
+中兴PF200
+三星Galaxy Awaken
+酷派8816
+中兴Render
+Intel X86（Santa Clara）
+华硕T10
+海尔C380
+海尔Q360
+康佳W806
+金立WBG3006
+金立WBW6503
+华为U9501L（Ascend D1 LTE）
+三星C3250
+三星I847（Rugby Smart）
+摩托罗拉MB870（Droid X2）
+三星A885
+三星M8400
+海尔W806
+海尔N86W
+华为T1800
+纽曼M35
+金立A100
+索尼MT25i（Xperia neo L）
+LG MS695（Optimus M+）
+三星E1220i
+三星B7702C
+TCL T268
+HTC Droid Incredible2
+纽曼F29
+三星Galaxy Note S
+夏新N700
+LG T565
+夏新F106
+华为Diamond
+联想乐Pad S2005A
+三星Tocco Lite 2
+三星D705（Epic 4G 2）
+LG KW730
+三星C5212
+LG LS840（Viper 4G LTE）
+三星E1220
+纽曼M26
+金立T6
+HTC C715e（EVO Design 4G）
+夏新T10
+LG A290
+中兴U201+
+康佳V905
+HONPhone 008-V（金狮豪华版）
+康佳W399
+三星C3322
+海尔M370
+康佳V96
+三星C3230
+酷比A56
+三星I415
+HTC Hero S
+夏新N806
+金立S007
+中兴S165
+海尔U56T
+中兴F118
+中兴U201
+三星I667（Focus 2）
+TCL A966
+夏新T72
+中兴Chorus
+夏新N79+
+索尼Xperia glass（概念机）
+中兴U518
+三星Galaxy SII WiMAX
+朵唯S710
+海信E860（电信版）
+华信A9292
+三星Galaxy Nexus（I9250/32GB）
+三星M370
+HTC Titan II
+三星R920（Galaxy Attain 4G）
+三星I757
+天语W309
+中兴U202
+中兴R185
+金立S009
+华为U8185（Ascend Y100）
+索尼Xperia Young
+LG LS969（Optimus Elite）
+奥克斯M939+
+奥克斯Z15
+华为T2010S
+步步高i370
+夏新N89
+三星Galaxy S 3D
+酷派8870（移动版）
+酷比E690
+纽曼Z6
+中兴U805
+华为C8511
+华为沃达丰546
+飞利浦T129（移动版）
+TCL U866
+中兴FashionTV
+海尔N75W
+欧新A50
+康佳D550+
+朵唯iEva D720
+朵唯iEva D700
+海尔M361
+HONPhone M28
+诺基亚800（蝙蝠侠定制版）
+奥克斯M906
+康佳E260+
+华为Discovery
+欧新A80
+三星U380
+LG T500
+TCL U699
+三星F480（Ace Hugo Boss)
+三星GALAXY S mini
+海尔运天星1000
+海尔M230
+海尔N70
+海尔M160
+海尔V280
+欧新S90
+纽曼F12
+三星T404G
+阿尔卡特OT 990M（奢华版）
+HTC myTouch 3G（Fender版）
+天语E808
+联想S2（联通版）
+HTC Desire2
+TCL i888
+海信T51
+LG Eclypse 4G
+LG E510（Optimus Glare）
+奥克斯M939
+金立S308
+中兴R200
+阿尔卡特OT 995
+摩托罗拉XT320（Defy mini）
+夏普SH320T
+酷派6025
+联想MS100
+LG AS680（Optimus 2）
+康佳E810
+康佳T601
+黑莓8100
+LG KF240
+索尼爱立信Aino Mini
+索尼爱立信X2 Mini
+夏新F210
+三星Repp
+诺基亚719
+酷比V606
+中兴San Francisco II
+纽曼L60
+中兴U206
+康佳W850
+LG Optimus U1
+LG BL40（圣诞版）
+三星I579i
+康佳U508
+联想MA116t
+中兴U150
+康佳K36
+阿尔卡特OT 918
+TCL A919
+三星Galaxy Nexus
+Sonim XP1330
+Sonim XP3340
+Sonim XP1301
+中兴R710
+中兴R221
+三星E2600
+三星I515 Galaxy Nexus（C网）
+HTC A310e（达人）
+HTC Z715e（灵感XE）
+阿尔卡特OT 536
+Sonim XP3 Sentinel
+TCL Z208
+海尔M380
+华为Pillar
+中兴T54
+中兴G500
+索尼爱立信W508（纪念版）
+中兴U200+
+金立M608
+华为G7300
+三星S3330（Champ 2）
+夏普104SH
+欧新S20
+LG MN270（Bacon）
+DigiTalk DE8101
+中兴U160B
+联想A320e
+中兴X500（Solar）
+中兴V882（Lord）
+中兴Atrial
+阿尔卡特OT S679C
+金立CE708
+夏普SH5010C
+中兴Style Q
+三星SGH-M608
+中兴Motion
+摩托罗拉I940
+中兴Me
+天语V308
+中兴N860
+DigiTalk DW8101
+中兴F161
+Acer TD600
+飞利浦W527
+中兴R517
+金立V666
+金立L36
+LG MS910（Esteem）
+夏普SH9130C
+飞利浦V726
+中兴U732
+华为T1000
+HTC G18（Sensation XE/白色）
+诺基亚900 Hydra（32GB）
+华为T1101
+中兴G601U
+海尔N80W
+三星I857（DoubleTime）
+三星Transfix
+夏普102SH
+夏普103SH
+网尔W708
+LG Optimus Note
+夏普SH8288U
+Yahoo Phone 009SH Y
+HTC Explorer
+LG SU880（Optimus EX）
+华为Blaze
+海尔E899
+摩托罗拉EX225
+三星I937（Focus S）
+三星Galaxy SII X
+LG LU8800（Optimus Q2）
+LG E739（MyTouch）
+LG MyTouch Q
+中兴Avail
+中兴R233
+中兴G380
+海信T89
+TCL A916
+中兴T203
+TCL A909
+Acer Liquid MT
+中兴V881（Aglaia）
+LG Optimus 3D P920（白色）
+索尼爱立信Xperia Duos
+诺基亚801
+三星T379（Gravity TXT）
+诺基亚703
+华为T7500
+亿通P700
+中兴R630
+中兴D300
+夏新F208
+HTC Runnymede 2
+诺基亚c7（愤怒小鸟版）
+Acer Liquid mini
+金立E201
+索尼爱立信SK19i
+索尼爱立信W9
+HTC Bunyip
+海尔N720E
+HTC Elegant
+三星B2370
+诺基亚600（Cindy）
+三星SGH-X628
+联想A210
+奥克斯M762
+HONPhone A5
+TCL i818
+亿通P256
+联想i30
+TCL 818D
+朵唯S689
+金立A16
+华为T7050
+金立E303
+HTC Ignite
+中兴R750
+HTC Mazaa
+三星E2370
+三星A657
+索尼爱立信K770i
+HTC One X+（LTE版）
+联想S730
+金立M600
+三星I718+
+三星M828C（Galaxy Precedent）
+联想E209
+海尔FT580
+华为F560 VB
+朵唯魅惑S680
+三星Galaxy Prevail
+三星S3778 联通版
+三星S3770
+联想A336
+LG A350
+阿尔卡特C123（升级版）
+摩托罗拉Saygus Vphone
+HONPhone A999
+夏新N79
+海尔N710E
+联想TD39t
+索尼爱立信LT15i Xperia Arc
+海信T80
+中兴U733
+中兴R581
+中兴U208B
+华为G3511C
+中兴Tureis
+夏普SH8298U
+三星S3653
+魅族MX（四核/32GB）
+三星Epic 2
+魅族MX（四核/64GB）
+三星W629（签名版）
+三星S5380（Wave Y）
+OPPO A617
+联想A30t
+LG Revere
+大显CU928
+三星S6700c
+波导F688
+夏普SH-12C
+LG G622
+中兴C580
+中兴X771
+中兴C880
+中兴S105
+金立A919
+三星C3222
+阿尔卡特OT 690
+酷比V300
+三星Illusion
+LG VS700（Enlighten）
+LG G682
+夏新F8
+中兴501
+海信NBM10
+中兴U280
+海尔U80WG
+创维L100
+中兴F953
+飞利浦X723
+朵唯S730
+万利达T136
+索尼爱立信W77
+LG T510
+TCL C258
+飞利浦X223
+飞利浦X126
+摩托罗拉EX108（MOTOKEY Mini）
+摩托罗拉WX294
+TCL S189
+诺基亚7360
+阿尔卡特OT 909
+酷比K100A
+LG C360
+LG C365
+金立GN200
+LG E906（Jil Sander）
+纽曼F26
+万利达T106
+康佳L301
+奥克斯M769
+LG LS700（Optimus Slider）
+LG Cosmos 2
+LG P690（Optimus Net）
+富士通IS12T
+三星I405（Galaxy Metrix 4G）
+华为C8600-1
+阿尔卡特OT 908M
+金立TD200
+LG A200
+LG 200
+LG A155
+奥克斯M288
+Sonim XP3400
+夏普009SH
+金立N96
+LG E740（Miracle）
+诺基亚N5
+中兴X670
+诺基亚500（Fate）
+天丽TF611
+天丽TL319
+天丽TL689
+天丽TL520
+三星D600（Conquer 4G）
+LG 6300
+酷派W713
+天丽TES680A
+三星Galaxy S（I9018）
+LG P999（Optimus G2x）
+夏普IS12SH
+华硕E600
+酷比E520
+天丽TL589
+联想A320
+万利达T156
+康佳A26m
+夏普SH-02C
+泛泰GF-500
+LG S360
+夏新F100
+天语B919
+天语E360
+奥克斯M236
+天语U610
+TCL i900
+TCL C780
+海信E86
+三星M930（Transform Ultra）
+华为T3061
+万利达MH610
+夏新E870
+夏新M300
+夏新F16
+齐乐7688
+亿通L5
+HONPhone L328（酷彩）
+三星D988（黄金版）
+海信E87
+三星ch@t222
+LG Ego
+奥克斯M263
+华为T3060
+奥克斯M269
+奥克斯M233
+奥克斯Z8
+康佳A6
+HTC Touch Cruise
+华为U8100
+HONPhone L318（E动力）
+亿通P95
+华为U8120
+奥克斯Z9
+华为U8330
+华为U8180
+摩托罗拉Zaha
+三星X01SC
+三星W960
+三星flagship
+三星R260（Chrono）
+奥克斯M689+
+Acer E320
+Acer Iconia tab A5
+摩托罗拉Slimline
+三星S3778
+天语T109
+天语E600
+飞利浦X125
+金立TD100
+康佳L53
+TCL i905
+万利达K668
+索尼爱立信TXT
+万利达K16
+中兴U507
+TCL Z206
+海信E305
+奥克斯M262
+奥克斯M287
+飞利浦9@9u
+飞利浦198
+中兴S160
+奥克斯M221
+奥克斯M227加强版
+奥克斯M225加强版
+夏普006SH
+三星C3750
+三星I9188
+摩托罗拉EX232（WILDER）
+中兴F110
+海信T39
+摩托罗拉EX122
+海信E300
+三星C3560
+TCL i808（篮球版）
+三星GALAXY SII（I9101）
+HTC Blast（概念机）
+HTC Bresson
+阿尔卡特OT 807D
+摩托罗拉EX119
+亿通L308
+LG A108
+阿尔卡特OT 517D
+TCL C802
+海尔EG500
+中兴F160
+卓拉F205
+海尔E600
+奥克斯M763
+奥克斯M678
+奥克斯M765
+奥克斯M299
+奥克斯M732
+奥克斯M632
+摩托罗拉WX450
+摩托罗拉VE440
+HTC 嵩山
+摩托罗拉DoubleBackflip
+海尔N82
+康佳蓝极星H5100
+摩托罗拉MB612（Xprt）
+奥克斯M689
+海尔M368
+奥克斯M627
+诺基亚N8（粉色）
+三星Gravity Smart
+LG P610s
+三星C3752
+天语E303
+酷派S160
+中兴U160
+HONPhone X30
+三星Trender
+步步高K302
+BFB F2031
+飞利浦X128
+夏新N80
+索尼爱立信CK15i（Txt Pro）
+OBEE 899
+三星E2530
+联想S600
+中兴02
+万利达K608
+酷比E66
+创维M700
+HTC X515E（Rider）
+摩托罗拉EX130
+摩托罗拉I420
+索尼爱立信Xperia Leon
+华为U2800
+中兴R750+
+摩托罗拉Jet
+三星B7722i
+中兴V887（Blade L）
+亿通P252
+itc M430
+BFB F2060
+BFB F2710
+三星T499 Dart
+阿尔卡特OT 880
+LG Glide
+东芝IS02（K01）
+MOPS 魅影T800
+HTC Lead
+三星E2222
+戴尔mini 3（AT&T）
+三星B7722
+锋达通998
+LG Thrive
+HTC Sensation 4G
+O2 Xda Atom Life
+锋达通E837
+中兴U810
+海尔N6W
+索尼爱立信X20
+康佳7800
+夏普SH-13C
+欧谷EG318（青花馆）
+三星I8703
+LG CT100
+LG A100
+天语C258
+金立GN103
+O2 Cocoon
+O2 Xda Vista
+LG Phoenix
+O2 MWG Atom V
+O2 MWG Zinc II
+O2 XDA Ignito
+三星1175
+三星E1175T
+O2 XDA Zest
+O2 Atom Pure
+O2 XDA Guide
+三星SGH-E808
+索尼爱立信W907
+三星SGH-E788e
+O2 Xda Shark
+O2 XDA Venn
+金立V160
+海尔U67T
+亿通P608
+三星941SC
+三星E848奥运版
+三星D788
+三星B5702C（贵族金版）
+夏普SH8198U
+索尼爱立信W15
+索尼爱立信X10i HD
+三星SGH-E398
+索尼爱立信Ruriko
+索尼爱立信W905
+索尼爱立信Premier3
+联想S300
+金立E106
+中兴U237
+华为T5050
+夏普SH9130C（水晶版）
+三星S7070
+三星S5608U
+索尼爱立信W595（Ed Hardy版）
+金立E109
+欧新S18
+欧新L6
+三星E2232
+摩托罗拉ES405B
+金立E108
+酷派S180+
+夏新F320
+诺基亚N8-01
+诺基亚Oro
+三星M220L（Galaxy Neo）
+三星S7070（豪华金）
+酷比E69
+HTC New Eden（概念机）
+夏普SH7318U
+LG T315
+金立TD109
+酷派6268
+三星E1055T
+LG LU6800（Optimus Big）
+康佳K19
+酷派S116
+创维WG10
+TCL C218
+中兴S185
+HONPhone A4（七星超能）
+HONPhone 008-IIIM 汗马
+HONPhone M558汗血宝马
+联想S60
+夏普SX813
+三星S139
+HONPhone A366SD大众版
+HONPhone A889（雅仕）
+金立E701
+飞利浦X325
+天语D5600
+诺基亚Scentsory（概念机）
+华为Leaf（概念机）
+LG MN180
+华为F261
+摩托罗拉E680i
+摩托罗拉E680g
+诺基亚6216C
+夏新S501
+HONPhone K218 SD
+HONPhone A3
+HONPhone D218U 臻金钻石版
+金立A1
+天语D5800
+海尔V988
+飞利浦Fluid
+海信C10
+摩托罗拉i686
+三星SGH-E898
+三星Factor
+锋达通C860
+锋达通C899
+摩托罗拉XT860（Milestone 3）
+金立S606
+摩托罗拉Targa
+HONPhone A2（七星超能）
+HONPhone 008-VIIS（虹双喜）
+TCL E300
+阿尔卡特OT 905
+天语B909
+华硕T25
+华硕T60
+华硕TD-LTE
+夏普942SH（Hello Kitty版）
+大显I9300
+摩托罗拉Titan（概念机）
+LG T535
+阿尔卡特OT 891
+阿尔卡特OT 818
+HONPhone 008-VII（金狮豪华版）
+HONPhone A889（E动力）
+HONPhone K219功勋
+阿尔卡特OT 908
+阿尔卡特OT 990
+HONPhone A3(E动力)
+纽曼G20
+阿尔卡特OT 602
+阿尔卡特OT 361
+阿尔卡特OT 330
+LG KT878
+O2 Flame
+海尔S720
+HONPhone V008-5
+诺基亚2600C
+多普达A3288（Tattoo）
+HONPhone V520
+海尔C330
+阿尔卡特OT 600
+HTC Mecha
+阿尔卡特OT 105
+康佳F15
+中兴005Z专用应急电话
+三星Wave 578
+中兴Rugged Blade
+中兴Libra
+HTC Revolver
+诺基亚6275
+康佳W310
+诺基亚1325
+康佳W200
+HONPhone Z1（智御）
+海尔CG220
+阿尔卡特OT C552
+阿尔卡特OT 710
+Palm Treo 750v
+联想P690e
+现代HD260
+苹果iPhone 4
+HTC Wildfire2
+LG A160
+三星E2230
+TCL Q3（奢华版）
+三星Galaxy Indulge
+INQ Cloud Touch
+海信D90
+三星SCH-E239(V740)
+三星C3300K Hello Kitty
+三星SGH-L608
+三星SGH-i640V
+海尔X80
+LG Joypop KH3900
+HTC Discover
+索尼爱立信Ultima（概念机）
+索尼爱立信Xeta（概念机）
+三星Nexus S 4G
+海信E310
+索尼爱立信X-wave
+三星Galaxy S 4G
+三星Wave 723（La Fleur）
+三星E2530（La Fleur）
+三星M560
+三星U750
+三星SGH-I308
+LG KT770
+三星B7300
+三星C3010
+LG SV400
+LG SU410（蜡笔）
+三星SGH-C238
+三星I568
+三星D780
+三星B110
+中兴Flame
+三星R910
+金立S306
+苹果iPhone 4（32GB/C网）
+三星W910
+创维SE60
+中兴X992
+三星SGH-C458
+夏普SH81iUC
+OPPO A209
+三星Forte
+天语M500
+LG KF300E
+康佳U529
+摩托罗拉Alpha
+中兴S325
+三星SGH-B500
+三星I620
+LG P925（Thrill 4G）
+诺基亚MeeGo
+黑莓Malibu
+索尼爱立信X3（概念机）
+三星E1083C
+HTC Bee（小蜜蜂）
+三星E2330
+天语E306
+夏普Shiro
+金立K18
+黑莓Sedona
+HTC Aria 2
+高新奇M22
+三星E1050
+HONPhone K208 Q
+朵唯S620
+TCL T218
+TCL E69
+欧盛M8
+天语Q10
+海信C210
+三星E1070
+HTC Buzz
+摩托罗拉A780
+齐乐P900E
+酷派D280
+齐乐I58
+创维SE68
+HTC 1
+创维SE90
+LG VS910（Revolution）
+HONPhone G868
+HONPhone K219
+HONPhone L328（骏马）
+三星E1110C
+天语W399
+金立TD159
+康佳6690
+高新奇M29
+酷比E50
+康佳A98
+阿尔卡特OT 808G
+夏新S520
+HONPhone 008-IIIM铂金汗马
+HONPhone K238
+欧盛M6
+海信T36
+摩托罗拉Stadia
+中兴U203
+创维EG89
+HONPhone L178SD
+中兴U522
+海尔U60T
+HTC AQUA
+三星S3370 Hello Kitty
+HONPhone M518（蓝牙版）
+诺基亚5236
+联想TD100
+HTC 7 Melody
+HONPhone M658SD
+HTC Inspire
+摩托罗拉Droid 2WE
+纽曼H5
+中兴U205
+中兴D930
+中兴G680
+NEC 3605
+康佳L69
+HONPhone 008-5
+三星I9000mini（Galaxy S）
+诺基亚5230（导航版）
+夏普SH6017D
+三星I6320C
+摩托罗拉RIZR Z8
+摩托罗拉Z10
+天语W379
+华为C7100
+中兴U220
+华为T5211
+中兴F106
+索尼爱立信W205
+海尔W160
+京瓷KZ-820
+京瓷KZ-850
+京瓷7135
+夏普815SH
+京瓷KZ-610
+京瓷KZ-660
+摩托罗拉SPlit
+中兴X60
+京瓷KZ-860
+中兴S618
+京瓷KZ-830
+金立TD188
+HONPhone F2
+摩托罗拉W216
+HONPhone C510（悦翔）
+NEC N720
+摩托罗拉E685
+三星SCH-F379
+LG 6760
+LG 2120
+LG GU292
+东芝T118
+三星SCH-F359
+三星X619
+摩托罗拉C510
+摩托罗拉A890
+摩托罗拉W160
+HONPhone 008-VIIS（小智玲）
+HONPhone M160（酷睿）
+HONPhone M578 V动力
+HONPhone L168 V动力
+海尔N6E
+摩托罗拉V860
+波导T9
+万利达K500+
+LG Cosmos Touch
+TCL 899
+中兴GA200
+海尔N7E
+TCL E59
+TCL i898
+酷比E95
+华为C2930
+Acer Android phone
+LG P525
+普莱达K388
+LG LU3000
+LG Apex
+夏新F200
+OKWAP C316
+OKWAP i161
+OKWAP C370
+诺基亚5238
+HONPhone 008-V（金狮尊贵版）
+TCL 领航者e757
+HONPhone G1
+酷比K100
+金立V830
+UT斯达康XV6800
+LG GM360（Viewty Snap）
+LG P520
+索尼爱立信Nene
+HTC Scorpion（天蝎）
+华硕G60
+酷比K6
+LG A120
+诺基亚5232
+夏普SH-05C
+夏普SH-03C
+金立S618
+酷派F61T
+中兴E880
+华为FC8221
+华为F360
+海尔V500
+海尔M550
+海尔M700
+康佳W800
+酷比V600
+HTC Incredible HD
+朵唯S808
+海尔K1
+高新奇H21
+索尼爱立信X7
+索尼爱立信X7 mini
+天语B818
+三星Continuum
+夏普E05SH
+阿尔卡特OT 209
+LG L-04C
+LG KV510
+三星Zeal
+三星Contour slides
+夏普SH-08C
+联想S700+
+康佳K12
+Acer E310（Liquid Mini）
+天语i628
+海尔D530
+高新奇C568
+现代HD220
+现代HD518
+Acer E600
+夏新A8
+华为C2830
+康佳Q2
+三星M360
+天语Q30
+联想i55（糖果）
+金立E103
+天语D92
+LG C310
+LG enV Pro
+海尔V710
+现代I728
+亿通P236
+夏新A9
+三星R360
+LG 6160
+LG 6400
+LG 6210
+LG 235（Cookie Spark）
+酷派T63
+中兴G685
+夏普SH0037
+联想i50
+天语D6800
+海尔X66
+泛泰Crux
+LG Octane
+创维CG08
+中兴N280
+三星SCH-X319
+三星J808E
+LG T300（Wink）
+步步高i368音乐手机
+三星SGH-X658
+中兴F233
+夏普SH8118U（点心）
+夏普SH005
+酷派N900S
+泛泰Laser slider
+黑莓7100g
+LG SU950
+大显HX1801
+三星W619+
+HONPhone T520
+摩托罗拉VE75
+LG T310（Wink Style）
+索尼爱立信T715
+步步高i308
+LG KU990
+中兴Smile TXT
+三星A107
+黑莓7100x
+酷派N900+
+泛泰IS06
+酷派S100
+黑莓8910
+康佳R360
+康佳V901
+三星SGH-E638
+康佳A4 金伯爵
+高新奇H95
+高新奇C289
+OKWAP A730 Hello Kitty
+三星SGH-C308
+LG KX210
+LG VN530
+诺基亚7250
+金立N9
+LG VS890（Enact）
+BFB 百分百38度
+康佳Q7
+康佳9900
+康佳T6
+康佳G205
+Acer S200（F1）
+海信G500
+夏普003SH
+夏普005SH
+LG A310
+三星R570
+LG KT610
+LG L-03C
+中兴U760
+中兴S210
+三星B5620
+和信S600
+三星A170K
+康佳D770
+夏普IS05
+康佳G220
+多普达T3238（Touch）
+金立L6
+LG GD300s
+联想i327
+HONPhone V60（音乐达人）
+摩托罗拉Droid X SE
+索尼爱立信Z558c
+诺亚信6303+
+诺亚信S600
+诺亚信W699B
+中兴EG990
+诺亚信ZL999
+夏普SH011
+三星Chat322
+天语D800
+LG GT910s
+LG KP180
+联想i316e
+OKWAP C580
+现代I575
+诺基亚C7（玩乐限量版）
+诺亚信6303
+三星SK-S100
+三星Evergreen
+TCL i780
+三星I9010
+夏普932SH
+海尔D520
+康佳D610+
+普莱达D256
+和信F7
+夏新S68
+普莱达D1858
+普莱达D1589
+普莱达K326
+普莱达D216
+三星R630
+三星U940
+三星R631
+诺基亚1706
+海尔V68E
+LG KE850
+三星SGH-E908
+CECT T616
+高新奇EG968
+LG AS740（Axis）
+夏普SH0037D
+万利达K21
+万利达MT639
+HONPhone Q320
+HONPhone V003
+中兴Blade S6 Lux（双4G）
+天语W319
+夏新T5
+HONPhone L128i动力
+摩托罗拉KRZR K1（金色）
+OPPO Joy 3（移动4G）
+索尼Xperia Z5 Ultra（移动4G）
+HTC Aero（移动4G）
