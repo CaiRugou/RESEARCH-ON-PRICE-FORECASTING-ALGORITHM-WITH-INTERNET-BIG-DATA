@@ -43,7 +43,7 @@ http://detail.zol.com.cn/cell_phone/index****.shtml
 ![NO4](http://o84hyclg0.bkt.clouddn.com/bs3.png)
 
 ## 文本分析
-- 1  为了
+- [1]  为了
 
 ## 基于情感因素预测模型
 
