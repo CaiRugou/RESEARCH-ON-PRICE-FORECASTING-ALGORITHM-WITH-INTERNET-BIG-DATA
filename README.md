@@ -17,6 +17,7 @@
 ```bash
 scrapy startproject tutorial
 ```
+详细教程可见(https://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/tutorial.html)
 爬虫名字可以随意设定，同时设定采集器在服务器上能够定时采集数据这里定制bat文件。
 ## 爬虫定制方法以及网页分析
 
