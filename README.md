@@ -71,6 +71,10 @@ http://detail.zol.com.cn/cell_phone/index****.shtml
 
 ![NO5](http://o84hyclg0.bkt.clouddn.com/bs4.png)
 
+再根据情感程度匹配来计算文本的情感倾向得分：在情感词典这里采用了知网基础情感词、和自己通过语料和搜索引擎得到的领域情感词（详细描过程见源码）最终得到该品牌下的情感倾向因素得分如下图：
+
+![N06](http://o84hyclg0.bkt.clouddn.com/bs5.png)
+
 ## 基于情感因素预测模型
 
 ## 基于研究算法Android应用软件
