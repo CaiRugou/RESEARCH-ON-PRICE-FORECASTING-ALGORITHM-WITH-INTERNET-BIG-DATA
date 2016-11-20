@@ -87,3 +87,9 @@ http://detail.zol.com.cn/cell_phone/index****.shtml
 ![NO8](http://o84hyclg0.bkt.clouddn.com/bs7.png)
 ![NO9](http://o84hyclg0.bkt.clouddn.com/bs8.png)
 
+
+**单个商品的预测趋势如下图所示：**
+
+![NO10](http://o84hyclg0.bkt.clouddn.com/bs9.png)
+
+
