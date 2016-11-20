@@ -2,10 +2,10 @@
 **系统分为四个模块：第一，数据采集处理；第二，信息可信判别以及情感倾向因素计算；第三，情感倾向因素预测模型的建立及预测；第四，基于研究算法的Android应用软件**
 ## 实验环境
 
-- [ ] 操作系统：Windows、Linux
-- [ ] 语言环境：Python、MATLAB、java
-- [ ] 实验工具：NLTK、sklearn、MATLAB2015b、Pycharm
-- [ ] 服务器：  tomcat
+- [ x ] 操作系统：Windows、Linux
+- [ x ] 语言环境：Python、MATLAB、java
+- [ x ] 实验工具：NLTK、sklearn、MATLAB2015b、Pycharm
+- [ x ] 服务器：  tomcat
 
 ## 用开源框架Scrapy分析Xpath路径抓取中关村报价网站
 
